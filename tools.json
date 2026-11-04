@@ -1,0 +1,3698 @@
+[
+ {
+  "name": "ChatGPT",
+  "url": "https://chat.openai.com",
+  "category": "AI 写作与文案",
+  "pricing": "freemium",
+  "description": "ChatGPT 是 OpenAI 开发的对话式 AI 工具，支持自然语言交流，可生成各类文字内容、辅助编写解释代码、翻译总结资料，适合需要写文案、学知识、处理编程任务的用户使用。"
+ },
+ {
+  "name": "DeepL Write + Marketing Plugins",
+  "url": "https://www.deepl.com/write",
+  "category": "AI 写作与文案",
+  "pricing": "freemium",
+  "description": "DeepL Write 是一款人工智能写作助手，粘贴文本后可自动检测拼写、语法、标点错误，提供单词替换、整句改写建议，还能按需调整写作语气与风格，适合需要撰写外语邮件、报告、社交媒体内容，或是对翻译文本做自然度微调的用户使用。"
+ },
+ {
+  "name": "Douyin Cloud AI Studio",
+  "url": "https://cloud.douyin.com/ai",
+  "category": "AI 写作与文案",
+  "pricing": "freemium",
+  "description": "抖音云 AI Studio 是面向抖音小程序、小游戏、小玩法开发的后端服务托管平台，支持容器与 Node。js 函数两种部署模式，提供弹性扩缩容、免鉴权调用、全链路安全防护能力，适合需要快速上线抖音生态应用、不想自行搭建运维后端的开发团队使用。"
+ },
+ {
+  "name": "Grammarly",
+  "url": "https://www.grammarly.com/",
+  "category": "AI 写作与文案",
+  "pricing": "freemium",
+  "description": "Grammarly 是一款 AI 英文写作辅助工具，可完成拼写语法校对、段落重写、语气调整、AI 生成内容检测等工作，适合需要撰写英文邮件、论文、文案的上班族、学生和内容创作者使用。"
+ },
+ {
+  "name": "Laper",
+  "url": "https://laper.ai",
+  "category": "AI 写作与文案",
+  "pricing": "freemium",
+  "description": "Laper是专注影视剧本创作的AI工具，能自动保留行业标准剧本格式，把场景、人物、故事节点整理成清晰结构，支持多人实时协作，可统一管理角色与场景设定，适合专业编剧、影视项目团队使用。"
+ },
+ {
+  "name": "LocalMark Studio",
+  "url": "https://editor.karthikponnam.dev/",
+  "category": "AI 写作与文案",
+  "pricing": "free",
+  "description": "LocalMark Studio 是浏览器端本地优先的 Markdown 编辑器，无需注册，支持文件树管理、分屏预览、多格式导入导出，数据全部存在本地，适合离线写作、整理笔记与搭建轻量知识库。"
+ },
+ {
+  "name": "Rytr",
+  "url": "https://rytr.me",
+  "category": "AI 写作与文案",
+  "pricing": "freemium",
+  "description": "Rytr 是一款 AI 写作助手，内置 40 余种内容模板，支持自动续写、段落生成、内容改写、语法与语气优化，可学习用户写作风格生成统一语气的原创内容，适合文案创作者、营销人员、创业者快速产出博客、营销文案、邮件、社交平台帖子等各类文字内容。"
+ },
+ {
+  "name": "Smodin",
+  "url": "https://smodin.io",
+  "category": "AI 写作与文案",
+  "pricing": "freemium",
+  "description": "Smodin 是集多种写作工具于一体的在线平台，支持检测文本中AI生成的内容、将AI文本改写得更贴近真人写作风格，还提供查重、多场景写作生成功能，适合学生、职场人士与写作者使用。"
+ },
+ {
+  "name": "Sudowrite",
+  "url": "https://www.sudowrite.com",
+  "category": "AI 写作与文案",
+  "pricing": "freemium",
+  "description": "Sudowrite 是面向小说作者与创意写作者的 AI 写作工具，支持生成故事大纲、续写情节、润色改写文本，还能提供角色对话和场景描写参考，帮助创作者打破卡文瓶颈，提升写作效率。"
+ },
+ {
+  "name": "WeChat Official Account Assistant（微信官方内测）",
+  "url": "https://mp.weixin.qq.com",
+  "category": "AI 写作与文案",
+  "pricing": "freemium",
+  "description": "WeChat Official Account Assistant 是微信公众平台官方推出的后台管理工具，支持集中创建、配置和管理服务号、公众号、小程序、企业微信账号，可扫码快速切换账号，还能查看平台官方公告与规则动态，适合多账号运营的企业、媒体、个人及小程序开发团队使用。"
+ },
+ {
+  "name": "Wix ADI Blog Writer",
+  "url": "https://www.wix.com/blog/ai-blog-writer",
+  "category": "AI 写作与文案",
+  "pricing": "freemium",
+  "description": "Wix ADI Blog Writer 是集成在 Wix 建站平台内的 AI 博客写作工具，输入主题即可自动生成带标题、正文、配图的完整博文草稿，支持调整语气、改写内容、生成结构化大纲，写完可直接在编辑器修改排版后发布，适合用 Wix 建站、需要定期更新博客的站长和营销人员。"
+ },
+ {
+  "name": "iLang",
+  "url": "https://ilang.ai",
+  "category": "AI 写作与文案",
+  "pricing": "free",
+  "description": "iLang 是面向 AI 原生场景的开源通信协议，可解决不同大模型、AI 智能体之间语义不互通、指令传递失真的问题，面向 AI 开发者与智能体搭建者，采用纯文本零安装设计，兼容主流大模型，采用 MIT 协议开源。"
+ },
+ {
+  "name": "不繁简历",
+  "url": "https://bufancv.com",
+  "category": "AI 写作与文案",
+  "pricing": "freemium",
+  "description": "不繁简历是AI原生简历编辑器，让每句话都有分量。提供智能优化、JD匹配、ATS检测、一键排版、中英互译与职业照生成等功能，已服务超1000万用户，助力高效求职与offer获取。"
+ },
+ {
+  "name": "小橡皮AI",
+  "url": "https://xiangpiai.cn",
+  "category": "AI 写作与文案",
+  "pricing": "freemium",
+  "description": "小橡皮AI主打一键变人味，帮助用户把AI生成的文章、笔记、口播稿和营销文案改得更像真人表达，减少模板腔、机器味和空泛表达，并支持敏感词检测、防限流检测和平台规则参考。"
+ },
+ {
+  "name": "秘塔写作猫",
+  "url": "https://xiezuocat.com",
+  "category": "AI 写作与文案",
+  "pricing": "freemium",
+  "description": "秘塔写作猫是一款AI辅助写作工具，支持语音指令扩写、润色与成稿，可新建空白文档、使用AI写作模式，也能上传Word文档编辑，适合自媒体作者、文案策划、学生及职场人员解决写作卡壳、表达不畅的问题。"
+ },
+ {
+  "name": "讯飞智文",
+  "url": "https://zhiwen.xfyun.cn",
+  "category": "AI 写作与文案",
+  "pricing": "freemium",
+  "description": "讯飞智文是一款AI演示文稿生成工具，支持输入一句话主题、粘贴文本、上传Word或PDF文档，自动生成结构清晰的PPT，内置多场景模板，适合职场人士制作工作汇报、活动策划PPT，也适合学生完成创新创业项目、竞选路演类演示文稿。"
+ },
+ {
+  "name": "讯飞绘文",
+  "url": "https://turbodesk.xfyun.cn/",
+  "category": "AI 写作与文案",
+  "pricing": "freemium",
+  "description": "讯飞绘文，集AI写作，选题，配图，排版，润色，发布等功能为一体的智能创作平台。通用稿件30分钟生成，深度稿件效率翻番。应用于企业公众号，头条，新闻、等场景。释放创意，让内容创作更轻松！"
+ },
+ {
+  "name": "AIPPT",
+  "url": "https://www.aippt.cn",
+  "category": "AI 办公与文档",
+  "pricing": "freemium",
+  "description": "AIPPT 是国内 AI 驱动的在线演示文稿生成平台，支持输入主题、导入文档快速生成排版完整的 PPT，内置二十余万套专业模板，支持在线编辑、多格式导出，适合职场办公、教学答辩等各类演示制作场景。"
+ },
+ {
+  "name": "Alpine",
+  "url": "https://www.alpine.inc/",
+  "category": "AI 办公与文档",
+  "pricing": "freemium",
+  "description": "Alpine 是整合文档、任务、聊天与 AI 助手的一体化工作空间，支持全局智能搜索、个性化信息流、任务管理与上下文 AI 能力，适合需要跨工具切换、收拢零散工作资料的团队，减少找文件的时间。"
+ },
+ {
+  "name": "Beautiful.ai",
+  "url": "https://www.beautiful.ai",
+  "category": "AI 办公与文档",
+  "pricing": "freemium",
+  "description": "Beautiful.ai 是AI驱动的演示文稿制作工具，输入内容即可自动排版，内置300+智能模板，支持品牌样式统一与多人协作，适合需要快速制作专业幻灯片的职场人、学生与团队使用。"
+ },
+ {
+  "name": "BetterWispr",
+  "url": "https://betterwispr.com",
+  "category": "AI 办公与文档",
+  "pricing": "free",
+  "description": "BetterWispr是面向macOS的开源本地语音听写工具，按住快捷键即可在任意应用内将语音转为文字，自动去除口语停顿、修正口误，内置会议笔记功能，支持自定义专有名词拼写与不同应用的输出风格，语音数据全程留在本地不上传云端，无需注册账号即可免费使用，适合注重隐私的Mac用户。"
+ },
+ {
+  "name": "BlocPad - Project & Team Workspace",
+  "url": "https://www.blocpad.com/",
+  "category": "AI 办公与文档",
+  "pricing": "freemium",
+  "description": "BlocPad 是面向现代团队的一体化项目协作工作空间，整合任务看板管理、项目文档协同、团队实时沟通三大功能，支持在同一界面统筹项目进度、编辑文档、同步交流，避免多工具切换的信息断层，适合小型创业团队、跨部门项目组与内容创作团队使用。"
+ },
+ {
+  "name": "ChatMind",
+  "url": "https://chatmind.tech",
+  "category": "AI 办公与文档",
+  "pricing": "freemium",
+  "description": "ChatMind（原 Mapify）是一款思维导图生成工具，可将 PDF、网页链接、YouTube 视频、音频、长文本等内容自动转换为结构清晰的思维导图，支持编辑拓展、导出分享，适合学生、研究者、职场人士整理学习笔记、会议总结与行业报告。"
+ },
+ {
+  "name": "Claude Cowork",
+  "url": "https://claude.com/product/cowork",
+  "category": "AI 办公与文档",
+  "pricing": "freemium",
+  "description": "Claude Cowork 是 Anthropic 推出的 AI 办公代理，集成于 Claude 桌面端，通过自然语言指令让 AI 读取本地文件夹、执行多步骤任务，支持插件扩展。"
+ },
+ {
+  "name": "ClickUp AI",
+  "url": "https://clickup.com",
+  "category": "AI 办公与文档",
+  "pricing": "freemium",
+  "description": "ClickUp AI 是集成在项目管理平台 ClickUp 内的智能助手，可生成任务描述、总结会议内容、自动整理待办，依托项目上下文答疑，适合各类项目团队与远程协作人员使用。"
+ },
+ {
+  "name": "Doca",
+  "url": "https://i.smartdoca.cc",
+  "category": "AI 办公与文档",
+  "pricing": "free",
+  "description": "Doca 是 MIT 开源的协作知识库，集富文本、Markdown、表格、画布及幻灯片于一体。支持私有化部署与 MCP 连接 AI，实现数据自主掌控。相比同类工具，其优势在于五种编辑器可独立接入，并提供浏览器助手收录网页内容，适合需自建平台、重视数据安全与灵活扩展的团队使用。"
+ },
+ {
+  "name": "Excel Formula Bot",
+  "url": "https://www.excel formulabot.com",
+  "category": "AI 办公与文档",
+  "pricing": "freemium",
+  "description": "Excel Formula Bot 是一款 AI 电子表格公式处理工具，支持将自然语言描述转换为 Excel 或 Google Sheets 公式，可解释复杂公式逻辑，还能生成 VBA 自动化代码、转换跨平台公式格式，适合财务、数据分析师、运营人员以及刚接触电子表格的新手使用。"
+ },
+ {
+  "name": "FlowUs 息流 AI",
+  "url": "https://www.flowus.cn/",
+  "category": "AI 办公与文档",
+  "pricing": "freemium",
+  "description": "FlowUs 息流 AI 是集成在息流知识管理平台内的智能助手，可在文档笔记场景下辅助内容撰写与梳理，搭配多维表格、双向链接、多端同步功能搭建个人知识网络，适合个人创作者、知识工作者及小型协作团队使用。"
+ },
+ {
+  "name": "Knowns CLI",
+  "url": "https://cli.knowns.dev/",
+  "category": "AI 办公与文档",
+  "pricing": "freemium",
+  "description": "Knowns CLI 是本地优先的项目记忆管理工具，一次初始化仓库后，可将开发任务、文档、决策与 AI 编码助手的上下文自动关联，支持在终端或本地 WebUI 中检索调用，适合使用 AI 辅助编码的开发团队。"
+ },
+ {
+  "name": "Lexcat",
+  "url": "https://www.lexcat.cn",
+  "category": "AI 办公与文档",
+  "pricing": "freemium",
+  "description": "Lexcat是面向律师、律所和企业法务的AI法律助手，提供AI法律检索、法律文书起草、案件材料整理、案件洽谈和模拟法庭等智能办案工具，助力法律人高效完成从检索到交付的办案工作。"
+ },
+ {
+  "name": "LiFE RPG 2.0",
+  "url": "https://www.liferpg.site/",
+  "category": "AI 办公与文档",
+  "pricing": "paid",
+  "description": "LiFE RPG 2。0 是内置在 Notion 里的生活游戏化管理系统，把日常习惯、情绪记录、财务状况和睡眠质量转化为打怪升级的 RPG 体验，内置智能 NPC 派发任务、推荐奖励，适合觉得传统打卡枯燥、想兼顾生活秩序与趣味性的用户。"
+ },
+ {
+  "name": "LiveSyncDesk ",
+  "url": "https://livesyncdesk.online/syncdesk.html",
+  "category": "AI 办公与文档",
+  "pricing": "freemium",
+  "description": "LiveSyncDesk 是支持多设备实时联动的在线协作空间，无需注册即可生成共享房间，自动同步所有人的屏幕视角，搭配独立控制的共享画板支持多人标注、书写和原画质图片上传，适合设计评审、远程会议、现场技术交底等需要对齐视觉信息的场景。"
+ },
+ {
+  "name": "LobsterAI",
+  "url": "https://lobsterai.youdao.com/",
+  "category": "AI 办公与文档",
+  "pricing": "freemium",
+  "description": "网易有道出品全场景办公助手智能体“有道龙虾”，国内大厂首个开源桌面级智能体。一键安装即用，全天候工作，支持手机远程指挥，数据本地安全，基于OpenClaw生态可扩展模型与技能。"
+ },
+ {
+  "name": "Loomy",
+  "url": "https://loomy.xunfei.cn",
+  "category": "AI 办公与文档",
+  "pricing": "paid",
+  "description": "Loomy是讯飞推出的桌面级AI智能助理，兼容Openclaw技能，安装即用，支持讯飞星火、DeepSeek等多模型，适用于自媒体运营、高效办公、数据分析等场景，数据本地处理，让工作更轻松。"
+ },
+ {
+  "name": "Manus",
+  "url": "https://manus.im/zh-cn/blog/manus-meeting-minutes",
+  "category": "AI 办公与文档",
+  "pricing": "freemium",
+  "description": "Manus 会议纪要功能可录制面对面会议、访谈与独白，自动生成结构化摘要与待办，支持多人协作，可直接生成演示文稿、网站或社媒素材，适合线下高频沟通的团队与个人使用。"
+ },
+ {
+  "name": "Mem.ai",
+  "url": "https://mem.ai/",
+  "category": "AI 办公与文档",
+  "pricing": "freemium",
+  "description": "Mem.ai 是一款 AI 驱动的个人知识管理工具，可自动关联、归类零散笔记与灵感，支持自然语言检索、内容自动摘要与多端同步，适合需要整理大量日常信息的学生、知识工作者与创作者使用。"
+ },
+ {
+  "name": "MindShow",
+  "url": "https://www.mindshow.ai",
+  "category": "AI 办公与文档",
+  "pricing": "freemium",
+  "description": "MindShow 是一款在线演示文稿生成工具，支持粘贴 Markdown、纯文本，或上传 Word、PDF、思维导图、已有 PPT 文件，自动生成带版式的演示文稿，省去排版调整时间，适合需要频繁做汇报、方案展示、学习总结的职场人和学生使用。"
+ },
+ {
+  "name": "MindShow",
+  "url": "https://www.mindshow.fun",
+  "category": "AI 办公与文档",
+  "pricing": "freemium",
+  "description": "MindShow 是一款能把思维导图快速转成演示文稿的工具，支持导入思维导图文件或用 Markdown 编写内容，自动按层级生成多页幻灯片，还提供多种预设主题模板，可在线编辑后导出，适合培训师、学生、项目经理等需要频繁做汇报演示的用户。"
+ },
+ {
+  "name": "Notion AI",
+  "url": "https://www.notion.so/product/ai",
+  "category": "AI 办公与文档",
+  "pricing": "freemium",
+  "description": "Notion AI 是集成在 Notion 协作平台内的智能助手，支持文档生成、自定义代理、跨应用检索、会议记录自动生成，适合多项目跟进的职场人与搭建内部资料库的团队使用。"
+ },
+ {
+  "name": "Notto",
+  "url": "https://usenotto.com/",
+  "category": "AI 办公与文档",
+  "pricing": "freemium",
+  "description": "Notto 是可悬浮在任意应用上方的系统级笔记与对话工具，支持实时语音转写、自动生成会议纪要、全局语音输入，悬浮窗可在投屏时自动隐藏，适合经常参会、需要高频输入文字的职场人士。"
+ },
+ {
+  "name": "PPTable（腾讯文档AI插件）",
+  "url": "https://docs.qq.com/",
+  "category": "AI 办公与文档",
+  "pricing": "freemium",
+  "description": "PPTable 是腾讯文档内置的 AI 表格处理插件，支持用自然语言指令完成数据填充、公式生成、清洗去重、统计汇总和样式调整，无需手动编写公式，适合财务、人事、数据分析师等频繁处理表格的办公人群，也适合不熟悉公式操作的新手快速完成表格运算。"
+ },
+ {
+  "name": "PingCode 智能文档（含PPT/Excel协同）",
+  "url": "https://www.pingcode.com",
+  "category": "AI 办公与文档",
+  "pricing": "freemium",
+  "description": "PingCode 智能文档支持多人同时在线编辑文档、表格与 PPT，内容实时同步自动保存，可关联项目任务与需求，提供历史版本回溯、数据可视化图表与预设模板，适合研发团队、项目组统一管理项目相关文档。"
+ },
+ {
+  "name": "Presentation software for fast-moving teams | Pitch",
+  "url": "https://pitch.com",
+  "category": "AI 办公与文档",
+  "pricing": "freemium",
+  "description": "Pitch is the complete pitching platform that enables any team to quickly create sleek presentations that get results. Sign up for free."
+ },
+ {
+  "name": "Purifai",
+  "url": "https://purifai.app/",
+  "category": "AI 办公与文档",
+  "pricing": "freemium",
+  "description": "Purifai 是一款轻量级复制文本格式清理工具，可自动过滤从 AI 对话或网页复制内容里的弯引号、长破折号、杂乱空格、隐藏代码与多余表情符号，本地运行无需联网注册，支持全局唤起，适合经常跨平台转发文字内容的职场用户。"
+ },
+ {
+  "name": "Simplified AI",
+  "url": "https://simplified.com/ai-presentation-maker",
+  "category": "AI 办公与文档",
+  "pricing": "freemium",
+  "description": "Simplified AI 是在线AI演示文稿生成工具，向内置AI代理Riley输入需求即可自动生成整套幻灯片，内置多类模板与品牌套件，支持在线协作编辑，适合营销人员、创作者、教师快速制作各类演示文稿。"
+ },
+ {
+  "name": "Slidebean",
+  "url": "https://slidebean.com",
+  "category": "AI 办公与文档",
+  "pricing": "freemium",
+  "description": "Slidebean 是面向早期创业公司的融资材料制作工具，可通过 AI 自动生成排版专业的 pitch deck，还能提供创业预算模型搭建、专业分析师协助整理财务数据的服务，适合种子轮、A 轮有融资需求，没有专职设计或财务人员的创始人使用。"
+ },
+ {
+  "name": "Slido AI（集成PPT互动）",
+  "url": "https://slido.com",
+  "category": "AI 办公与文档",
+  "pricing": "freemium",
+  "description": "Slido 是一款互动演示工具，支持实时问答、投票、测验和词云生成，观众通过手机即可参与，无需下载软件。可直接嵌入 PowerPoint 或 Google Slides，适合培训讲师、团队主管、学校老师在演讲、会议或课堂中使用。"
+ },
+ {
+  "name": "Snaply",
+  "url": "https://snaply.ai/",
+  "category": "AI 办公与文档",
+  "pricing": "free",
+  "description": "Snaply是专为Mac设计的本地运行AI办公工具，无需注册即可免费使用，支持自动生成会议笔记、语音转文字、文稿润色，所有数据都留在本机不上传云端，适合注重隐私的个人用户使用，和同类工具相比，它全程本地处理数据，无需上传云端。"
+ },
+ {
+  "name": "TeamOut AI ",
+  "url": "https://app.teamout.com/ai?utm_source=producthunt&ref=hao.aizhaozi.com",
+  "category": "AI 办公与文档",
+  "pricing": "freemium",
+  "description": "TeamOut AI 是面向行政、人事及活动策划者的线下活动场地智能规划工具，输入活动类型、人数、预算与时间，即可快速匹配全球经核验的合适场地，自动对接合作方获取报价，省去逐一询价的繁琐流程。"
+ },
+ {
+  "name": "Voltip",
+  "url": "https://voltip.firlab.app",
+  "category": "AI 办公与文档",
+  "pricing": "free",
+  "description": "在任意应用里按住快捷键说话，松开后文字直接出现在光标处。识别可用本地模型离线完成，也可走内置免费服务或自填服务商，再按预设做 AI 润色。适合不想切换窗口、需要快速成稿的写作者与办公人群，音频留在本机是它和多数云听写工具的关键差别。"
+ },
+ {
+  "name": "WPS AI",
+  "url": "https://ai.wps.cn/",
+  "category": "AI 办公与文档",
+  "pricing": "freemium",
+  "description": "WPS AI 是嵌入在 WPS Office 中的智能办公助手，可生成 PPT 大纲、撰写周报、总结长文档、用自然语言生成表格公式，适合经常处理文档、做汇报的职场人士快速产出初稿。"
+ },
+ {
+  "name": "Whimsical AI",
+  "url": "https://whimsical.com/ai",
+  "category": "AI 办公与文档",
+  "pricing": "freemium",
+  "description": "Whimsical AI 是集成在可视化白板中的智能创作工具，支持用自然语言描述需求，自动生成流程图、思维导图、线框图，还能帮你扩展创意、总结零散信息，适合产品经理梳理业务流程、设计师搭建界面原型、开发者配合编程助手生成系统架构图。"
+ },
+ {
+  "name": "Zoho Writer + Zia AI（含表格/PPT协同）",
+  "url": "https://www.zoho.com/writer/",
+  "category": "AI 办公与文档",
+  "pricing": "freemium",
+  "description": "Zoho Writer 是内置 Zia AI 的在线文字处理工具，可辅助文本生成、改写、润色，支持多人实时协同编辑、版本追踪与评论，提供多栏布局、分节、图表等高级排版功能，覆盖 Windows、Mac、Linux、iOS、Android 多端访问，适合需要协同起草正式文稿、项目报告、商业表单的团队与个人。"
+ },
+ {
+  "name": "iSlide AI",
+  "url": "https://www.islide.cc",
+  "category": "AI 办公与文档",
+  "pricing": "freemium",
+  "description": "iSlide AI 是一款智能PPT生成与编辑工具，输入一句话主题即可自动生成完整演示文档，支持导入Word、脑图等7种格式自动转PPT，可一键换肤、单页美化，还能对文本进行润色、改写、翻译，适合职场汇报、教学课件、商业路演等场景，也支持企业团队统一模板与素材管理。"
+ },
+ {
+  "name": "免费 AI 演示文稿制作者和 Google 幻灯片生成器 | SlidesAI",
+  "url": "https://www.slidesai.io",
+  "category": "AI 办公与文档",
+  "pricing": "freemium",
+  "description": "SlidesAI 是一款 AI 驱动的演示文稿制作工具，支持输入文字、文档或主题自动生成排版完成的幻灯片，可在 Google 幻灯片、PowerPoint、ChatGPT 及网页端使用，适合学生、职场人士、教育工作者快速制作演示初稿。"
+ },
+ {
+  "name": "拾音 Shiyin",
+  "url": "https://shiyin.weibuilds.com",
+  "category": "AI 办公与文档",
+  "pricing": "free",
+  "description": "拾音是面向 macOS（Apple Silicon）与 Windows 用户的免费开源本地会议记录工具，录音、转写、纪要整理全流程在本机完成，音频无需上传第三方服务器。它可生成带时间戳的逐字稿、结构化会议纪要，还能自动标注待确认疑问供用户核对，适合重视会议隐私的职场人士使用。"
+ },
+ {
+  "name": "腾讯文档AI助手",
+  "url": "https://docs.qq.com/copilot",
+  "category": "AI 办公与文档",
+  "pricing": "freemium",
+  "description": "腾讯文档AI助手是内置在在线协作文档中的智能办公工具，可自动生成文章初稿、提炼长文档核心摘要、清洗表格数据并生成可视化图表，还能完成多语言翻译与文案润色，适合需要撰写报告、整理资料的职场人士与学生群体使用。"
+ },
+ {
+  "name": "飞书",
+  "url": "https://www.feishu.cn/",
+  "category": "AI 办公与文档",
+  "pricing": "freemium",
+  "description": "飞书是字节跳动推出的一站式协同办公平台，整合即时沟通、在线文档、智能日历、音视频会议、自动化审批等功能，适合各规模企业团队沉淀知识、推进项目、完成日常行政事务，减少跨工具切换的协作成本。"
+ },
+ {
+  "name": "Baidu ERNIE-ViLG 3.0",
+  "url": "https://ernie.baidu.com/ernie-vilg",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "ERNIE-ViLG 3。0 是百度文心大模型旗下的智慧绘图工具，输入文字描述即可生成对应图像，还支持创意写作、对话式代码生成，适合自媒体写作者、设计师快速产出配图与创意素材。"
+ },
+ {
+  "name": "Baidu ERNIE-ViLG 3.0",
+  "url": "https://wenxin.baidu.com/wenxin/ernie-vilg",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "Baidu ERNIE-ViLG 3。0 是百度文心推出的文生图工具，输入自然语言描述即可生成对应图像，支持写实、国风、动漫等多种风格，可自定义图片宽高比例，适合设计师、内容创作者、营销人员快速生成视觉素材或创意草图。"
+ },
+ {
+  "name": "BlueWillow",
+  "url": "https://bluewillow.ai",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "BlueWillow 是一款免费的 AI 图像生成工具，依托 Discord 运行，输入文字描述即可快速生成对应图片，支持写实、动漫、抽象、油画等多种风格切换，适合设计师、内容创作者快速产出视觉素材，也适合普通爱好者免费尝鲜 AI 绘图。"
+ },
+ {
+  "name": "Bria AI",
+  "url": "https://bria.ai/",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "Bria AI 是合规授权数据训练的视觉生成平台，支持文本生成图像、图像编辑扩展，可通过 API 批量集成，适合需要规避版权风险的市场、设计团队制作商业营销素材。"
+ },
+ {
+  "name": "ComfyUI",
+  "url": "https://comfy.org/",
+  "category": "AI 图像创作",
+  "pricing": "free",
+  "description": "ComfyUI 是节点式 AI 视觉创作引擎，在无限画布上连接节点，组合模型、处理步骤与输出，精细调控生成过程，可从零搭建工作流，也可调用社区模板，支持本地、云端、API 与企业部署，适合需要精细调控生成环节的专业创作者。"
+ },
+ {
+  "name": "DALL·E 3",
+  "url": "https://www.dall-e.com",
+  "category": "AI 图像创作",
+  "pricing": "paid",
+  "description": "DALL·E 3 是 OpenAI 开发的文本生成图像工具，输入自然语言描述即可生成对应画面。它能更好地理解复杂长提示词，还原光影、材质等细节，适合内容创作者、设计师快速产出配图、创意灵感参考图。"
+ },
+ {
+  "name": "Designs.ai",
+  "url": "https://designs.ai/",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "Designs。ai 是一体化 AI 内容创作平台，可生成图像、视频、文案、音频、幻灯片等营销物料，支持统一品牌视觉规范，内置多种 AI 模型可选，适合市场营销人员、内容创作者、创业团队快速产出符合品牌标准的各类内容。"
+ },
+ {
+  "name": "Epixa",
+  "url": "https://epixa.cn",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "Epixa是极简易用的聚合创作工具，支持通过描述或“@”引用图片生成内容。平台覆盖电商营销、动漫影视、插画艺术、摄影写实及UI设计等多种风格。内置创作助手，可优化提示词、分析图片并检查违规。"
+ },
+ {
+  "name": "EzPrompt",
+  "url": "https://ezprompt.org",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "EzPrompt是一款AI图片转提示词神器。它支持Midjourney融合与图生文，能精准分析图像细节，一键生成适配多平台的完美提示词。操作便捷，助你轻松开启AI创作！"
+ },
+ {
+  "name": "Figma AI",
+  "url": "https://www.figma.com/ai",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "Figma AI 是内置于 Figma 设计工具中的智能助手，支持通过文字描述生成可交互产品原型，可在画布内自动应用设计系统、批量修改图层，还能将设计上下文同步到 VS Code、Cursor 等编码工具，适合产品设计师与前端开发者提升设计开发效率。"
+ },
+ {
+  "name": "GPT-Image2 提示词",
+  "url": "https://gpt-image2.canghe.ai",
+  "category": "AI 图像创作",
+  "pricing": "free",
+  "description": "收录GPT-Image2的可复用图像生成提示词案例库，帮用户省去反复调试提示词的时间，适合需要用AI生成图像的创作者，所有案例支持一键复制，还可按视觉效果筛选查找。"
+ },
+ {
+  "name": "Galileo AI",
+  "url": "https://www.galileo.ai/",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "Galileo AI 是面向 AI 应用开发与运维团队的可观测性平台，可完成离线评估到生产环境实时监控的平滑衔接，内置 20 多种覆盖 RAG、智能体、安全合规场景的评估器，能自动分析模型行为、定位问题根因，帮助团队在故障发生前拦截风险，提升 AI 应用的可靠性与合规性。"
+ },
+ {
+  "name": "Honter",
+  "url": "https://honterapp.com",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "Honter 是网页端轻量项目管理工作台，支持列表、表格、卡片多视图切换，可实时同步多人编辑状态，自定义扩展属性，设置简易自动化流转，适合独立工作者与小规模项目组梳理任务、盘点日常进度。"
+ },
+ {
+  "name": "IDLECLOUD",
+  "url": "https://nai.idlecloud.cc/",
+  "category": "AI 图像创作",
+  "pricing": "free",
+  "description": "IDLECLOUD是面向漫画创作者与AI绘画用户的在线创作工具，支持文字生成图像、局部修改、多格漫画分镜制作与项目导出，可在网页端或Windows桌面端使用，无需切换多软件完成全流程创作。"
+ },
+ {
+  "name": "Khroma",
+  "url": "https://khroma.co",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "Khroma 是一款 AI 驱动的配色工具，选择偏好颜色后即可训练专属算法，生成无限种适配审美的调色板，支持多视图预览、精准搜索筛选，可收藏配色并查看色值与 CSS 代码，适合设计师、前端开发者、UI/UX 从业者获取配色灵感。"
+ },
+ {
+  "name": "Kittl",
+  "url": "https://kittl.com/",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "Kittl 是 AI 驱动的设计平台，整合多家 AI 模型，支持图像生成、视频生成、矢量编辑、模板套用、产品模型制作、背景移除等功能，适合独立卖家、设计师和营销团队快速产出品牌视觉与商品素材。"
+ },
+ {
+  "name": "Let's Enhance",
+  "url": "https://letsenhance.io/",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "Let's Enhance 是在线图片增强工具，可放大修复低分辨率、模糊、老旧照片，最高提升至 512 百万像素、16 倍放大，支持批量处理 20 张图片，输出 300 DPI 印刷级文件，适合摄影师、电商从业者、插画师按需印刷使用。"
+ },
+ {
+  "name": "LiblibAI-哩布哩布AI - 中国领先的AI创作平台",
+  "url": "https://www.liblib.art",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "AI绘画原创模型分享社区，10万+模型免费下载;原汁原味的webUI、comfyUI，在线AI绘图工具免费使用;还可在线进行模型训练。欢迎每一位创作者加入，共同探索AI绘画"
+ },
+ {
+  "name": "Lumimmo",
+  "url": "https://lumimmo.fr/",
+  "category": "AI 图像创作",
+  "pricing": "paid",
+  "description": "Lumimmo 是面向非技术人员的在线虚拟漫游制作工具，无需写代码即可将零散图片、短视频、360 度全景素材串成可拖拽浏览的互动作品，自动生成多端适配的分享链接，适合房产代理、酒店运营者、活动策展人展示空间结构与环境细节。"
+ },
+ {
+  "name": "Lunacy AI",
+  "url": "https://icons8.com/lunacy",
+  "category": "AI 图像创作",
+  "pricing": "free",
+  "description": "Lunacy 是免费的跨平台 UI 设计工具，可直接打开编辑 Sketch 文件，内置图标、人像、插画素材库，支持自动布局、原型制作与多人实时协作，适合 Windows、Linux 系统的设计师、学生及小团队完成界面设计全流程工作。"
+ },
+ {
+  "name": "Mirage",
+  "url": "https://www.mirage.ai/",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "Mirage 是基于 AI 的画布设计工具，支持输入自然语言描述或上传参考图片，快速生成对应的产品界面设计稿，可在浏览器内直接拖拽修改，还能和团队成员实时协同编辑，适合产品经理，UX 设计师和独立开发者快速产出界面原型。"
+ },
+ {
+  "name": "Nano Banana 纳米香蕉中文站",
+  "url": "https://www.nano-banana.cn",
+  "category": "AI 图像创作",
+  "pricing": "paid",
+  "description": "Nano Banana中文站是AI图片生成平台，支持文生图与图生图，提供写真、插画、海报、电商素材等多风格模板，具备高清放大、去水印、批量生成等功能，输入文字即可秒级出图。"
+ },
+ {
+  "name": "Pixso AI",
+  "url": "https://pixso.cn/ai",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "Pixso AI 是集成在在线协作设计工具里的智能助手，能直接在设计界面内生成可编辑的设计稿、配套图标，翻译修改界面文案，自动检查生成设计规范，省去跨工具切换的麻烦，适合做产品原型、UI 界面、运营设计图的设计师使用。"
+ },
+ {
+  "name": "Recraft V3",
+  "url": "https://www.recraft.ai",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "Recraft V3 是主打设计美感的 AI 图像生成模型，无需额外训练就能生成风格统一的系列视觉素材，支持复杂场景描述、高精度矢量图形、逼真写实照片生成，适合专业设计师和创意团队快速产出品牌视觉、插画集、产品原型图等设计素材。"
+ },
+ {
+  "name": "Remove.bg",
+  "url": "https://www.remove.bg/",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "Remove。bg 是一款全自动抠图工具，上传图片即可自动识别并移除背景，无需手动描边或选区。提供魔力笔刷对抠图结果做局部精细调整，支持 API 调用以集成到自有系统，适合个人用户、摄影师、电商运营、开发者等不同角色使用。"
+ },
+ {
+  "name": "Sketch",
+  "url": "https://www.sketch.com/",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "Sketch 是 Mac 上的矢量设计工具，用于界面设计、图标、原型和设计系统。符号和库能让常用组件只在一处修改并在所有位置同步，智能布局会随内容变化自动重排元素。设计稿支持在浏览器中查看和评论，非 Mac 成员也能参与协作。适合 UI/UX 设计师、产品经理和前端开发。"
+ },
+ {
+  "name": "Train Custom AI on Face & Style",
+  "url": "https://thumblifyai.com/blog/train-ai-style-youtube-thumbnails",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "Train Custom AI on Face & Style 是视觉风格学习辅助工具，上传 3 至 5 张过往设计样图，即可自动提取构图、色彩与排版规律，快速生成风格高度统一的视频缩略图，适合自媒体运营者与独立开发者批量制作频道封面、维护品牌视觉。"
+ },
+ {
+  "name": "Uizard",
+  "url": "https://uizard.io/",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "Uizard 是一款在线原型设计工具，支持上传手绘草图、输入文字描述自动生成可编辑的数字设计稿，可添加点击跳转等交互效果，自动适配多屏幕尺寸，适合产品经理、创业者、学生和设计师快速制作可演示的交互原型。"
+ },
+ {
+  "name": "Vectr AI",
+  "url": "https://vectr.com/ai",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "Vectr AI 是集成在矢量图形编辑器中的AI辅助设计工具，支持输入文字描述快速生成图标、线条、简单插画等基础矢量图形，还能快速调整已有图像的形状、颜色与线条，支持图层管理、导出、撤销重做等标准矢量编辑功能，主体功能本地运行无需联网，适合需要快速出稿的设计师、营销人员，也可用于图形设计入门教学。"
+ },
+ {
+  "name": "Vertex.art - Free Photo Editor",
+  "url": "https://vertex.art/",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "Vertex.art 是运行在浏览器内的AI设计平台，内置20余款AI工具与3.2万余个图形图层，支持AI生成设计稿、智能抠图、文生图，无需复杂软件操作即可快速产出专业视觉内容。"
+ },
+ {
+  "name": "Visily",
+  "url": "https://visily.ai/",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "Visily 是面向非设计人员的产品原型设计工具，支持从截图、文字描述、流程图或模板快速起步，可在画布上直接拖拽编辑元素，添加注释并邀请团队协作，最终生成可交互的高保真原型并分享给他人查看反馈。"
+ },
+ {
+  "name": "Vizcom",
+  "url": "https://www.vizcom.ai",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "Vizcom 是面向工业、产品、交通工具设计师的 AI 可视化工具，上传手绘草图或 3D 白模即可快速生成带材质光影的高质量渲染图，支持在生成结果上持续调整细节，方便快速探索多套设计方案，适配设计评审与客户提案场景。"
+ },
+ {
+  "name": "WHEE",
+  "url": "https://www.whee.com",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "WHEE 是面向普通用户的 AI 视觉创作工具，支持通过自然语言描述生成对应图像，也可对已有图片进行编辑调整，无需专业绘画或修图技能，操作门槛低，适合日常视觉素材制作、创意绘画、图片快速修改等场景使用。"
+ },
+ {
+  "name": "WaClaw",
+  "url": "https://waclaw.ihuiwa.com/workspace/session/new",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "WaClaw是阿里绘蛙团队推出的AI Agent，一站式解决素材生成、内容发布、智能选品等全流程问题。从商品拍摄到种草文案、从主图视频到全渠道分发，WaClaw 用 AI 驱动每一个电商经营环节。"
+ },
+ {
+  "name": "Wink AI修图",
+  "url": "https://wink.cn/",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "Wink AI修图是美图秀秀出品的视频与照片修图工具，支持模糊画质修复、人像精修、分段美容、视频转动漫、一键电影感调色、水印消除与画面扩展，适合日常记录、Vlog创作者快速完成素材后期加工。"
+ },
+ {
+  "name": "kivicube",
+  "url": "https://www.kivicube.com",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "Kivicube 是零代码在线AR制作平台，通过可视化拖拽操作即可搭建图像识别、3D互动、实景漫游等多种AR场景，支持网页、小程序多端一键发布，适合无编程基础的用户制作商品试用、线下打卡等互动展示内容。"
+ },
+ {
+  "name": "photoai",
+  "url": "https://photoai.life",
+  "category": "AI 图像创作",
+  "pricing": "free",
+  "description": "photoai 是面向 AI 绘画与手绘创作者的 AI 生成参考图库，收录人像、服装、姿势线稿与深度图素材，支持标签筛选、放大与下载，可解决找参考图零散、姿势适配难的问题，部分素材 CC0 可商用。"
+ },
+ {
+  "name": "创客贴",
+  "url": "https://www.chuangkit.com",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "创客贴是在线图形设计工具，内置百万级原创模板与版权素材，支持拖拽排版、一键抠图、AI文案写作等功能，可快速制作海报、电商主图、PPT、视频封面等商用视觉物料，适合无设计基础的个人创作者、市场运营人员以及需要统一管控素材的企业设计团队使用。"
+ },
+ {
+  "name": "千问官方AI创作平台",
+  "url": "https://create.qianwen.com/",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "让创作轻松发生。现已接入HappyHorse与万相2.7，让专业级AI创作更稳定、更高效，也更惊艳。无论是生成艺术图像还是动态视频，只需一句描述，灵感即刻成片，轻松生成高质量作品。"
+ },
+ {
+  "name": "即时设计 - 专业 UI 设计工具，在线协作更高效",
+  "url": "https://js.design/ai",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "即时设计是国产在线UI设计工具，浏览器即可使用，支持界面设计、原型交互搭建、开发标注交付，兼容Figma、Sketch、XD等主流设计文件格式，支持多人实时协作，适合UI设计师、产品经理及中小设计团队使用。"
+ },
+ {
+  "name": "墨刀 AI",
+  "url": "https://modao.cc",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "墨刀 AI 是在线原型设计工具的 AI 功能模块，输入需求描述即可自动生成页面布局与组件，支持一键填充原型文本和图片数据，还能自动生成颜色、字体等设计规范，适合产品经理、设计师和开发团队快速搭建可交互演示原型，开展前期需求沟通与方案验证。"
+ },
+ {
+  "name": "摹客AI",
+  "url": "https://www.mockplus.cn/ai",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "摹客AI是集成在摹客3中的智能设计助手，输入文字描述即可自动生成移动端、网页端的线框图或高保真设计稿，每次输出3套方案，生成的设计稿可直接编辑，还能一键转换为前端代码，适合产品经理、设计师和前端工程师快速产出原型与UI方案。"
+ },
+ {
+  "name": "无界AI",
+  "url": "https://www.wujieai.com",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "无界AI是面向零基础用户的AI绘画平台，输入文字描述或上传参考图就能生成国风、二次元、写实等多种风格的画作，还支持局部重绘、扩图、消除物体等修图操作，内置提示词生成器和风格模型库，适合新媒体创作者、设计师和绘画爱好者快速产出视觉素材。"
+ },
+ {
+  "name": "易可图",
+  "url": "https://www.yiketu.com",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "易可图是面向电商从业者的在线图片设计平台，支持AI商品套图生成、爆款图复刻、AI模特试衣、一键抠图、跨境合规标签制作等功能，适配主流电商平台规范，无需专业设计基础就能快速产出各类商品宣传素材。"
+ },
+ {
+  "name": "泡泡AI",
+  "url": "https://paopaoai.art",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "泡泡AI是面向电商行业的视觉内容生成平台，上传商品白底图或平铺照片，就能生成商业级商品场景图、AI模特上身效果，支持局部重绘、高清放大等后期编辑，内置素材资产中心，适合电商运营、店铺美工和中小卖家批量制作商品主图、详情页与广告素材。"
+ },
+ {
+  "name": "海艺AI",
+  "url": "https://www.haiyi.art",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "海艺AI是完成国内网信算法备案的多模态AI创作平台，内置多款主流生成模型，支持文生图、最长30秒4K视频生成，配套短剧创作功能，适合内容创作者、设计从业者、短视频制作者快速产出视觉素材。"
+ },
+ {
+  "name": "淘天AI实验室（官方内测）",
+  "url": "https://alidocs.dingtalk.com/i/nodes/4YqXvQk9LjZ3Qr7RbK7xX9W5yQ2aYQkO",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "淘天AI实验室是淘天集团面向电商商家开放的官方内测AI能力平台，提供图像生成、视频剪辑、多模态商品理解等内容创作工具，需完成商家认证接入，适合有商品内容制作需求的淘系商家使用。"
+ },
+ {
+  "name": "稿定AI",
+  "url": "https://www.gaoding.com/ai",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "稿定AI是面向电商从业者与内容创作者的视觉设计工具，上传产品图即可生成商品场景图、电商主图、详情页等物料，支持AI改图改字、视频生成、节点化智能工作流，内置热门效果模板，无需设计基础也能快速产出专业视觉内容。"
+ },
+ {
+  "name": "美图AI视觉",
+  "url": "https://ai.meitu.com/",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "美图AI视觉是美图推出的AI视觉能力开放平台，将人脸分析、图像画质处理等成熟技术封装为可调用接口，省去开发团队自研图像算法的成本，适合有图像相关开发需求的企业与开发者使用。"
+ },
+ {
+  "name": "美算AI | 电商素材AI",
+  "url": "https://www.meisuanai.com/",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "美算AI是面向电商卖家的一站式电商素材生成平台，支持AI商品图、商品套图、商品详情图、亚马逊高级A+、Seedance2.0 mini带货视频和视频复刻生成，帮助商家高效制作营销素材。"
+ },
+ {
+  "name": "美间AI创意商拍",
+  "url": "https://www.meijian.com/e-commerce",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "美间AI创意商拍是专为电商打造的AI设计工具，主打“10秒搞定电商设计”。它提供AI背景生成、智能抠图、无损放大、智能扩图等功能，可一键生成高质量产品场景图，无需实拍，让电商设计更高效。"
+ },
+ {
+  "name": "美间设计",
+  "url": "https://www.meijian.com/",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "美间（Meijian）是一款专注于家居软装设计的在线工具，旨在帮助设计师快速完成设计方案与提案。它提供海量素材、PPT模板及智能排版功能，号称“10秒搞定设计方案”，让设计工作更高效。"
+ },
+ {
+  "name": "腾讯混元AI绘画",
+  "url": "https://hunyuan.tencent.com/",
+  "category": "AI 图像创作",
+  "pricing": "free",
+  "description": "腾讯混元AI绘画是基于腾讯大模型技术的在线图像生成工具，输入自然语言描述即可快速生成对应图片，内置多种艺术风格可切换，支持高清图导出，打开网页就能直接使用，适合做社交配图、设计草图、创意验证。"
+ },
+ {
+  "name": "莫高设计 MasterGo AI",
+  "url": "https://mastergo.com?ref=hao.aizhaozi.com",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "莫高设计MasterGo是面向团队协作的界面设计工具，可在浏览器内完成UI设计、原型制作，支持设计系统搭建、多人实时协作评论、AI智能排版与批量操作，还能自动生成代码标注和切图，适合UI设计师、产品经理、前端开发协同使用。"
+ },
+ {
+  "name": "视觉工厂",
+  "url": "https://aigv.net",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "视觉工厂是一个专注于AI视觉内容生成的专业平台。它提供电商设计、室内装修、AI换装模特、人像写真及餐饮视觉等一站式AI解决方案，旨在实现商品视觉全链路的AI化。用户可通过该平台快速生成高质量的图片。"
+ },
+ {
+  "name": "通义万相",
+  "url": "https://wanxiang.aliyun.com/",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "通义万相是阿里云推出的多模态生成式人工智能平台，支持根据文字指令生成图像与长视频，可对已有素材进行局部或全局修改，能制作连续组图、控制画面色彩、实现视频动作复刻与时长延展，适合内容创作者和设计师日常创作使用。"
+ },
+ {
+  "name": "造化工坊",
+  "url": "https://zaohua.qq.com/",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "造化工坊是腾讯光子推出的AI绘画与创意分享平台，内置多类风格模板与提示词辅助功能，输入简短文字描述即可快速生成专属图片，还可在社区浏览他人作品获取创作灵感，适合AI创作新手、内容创作者与社交爱好者快速制作头像、海报等视觉素材。"
+ },
+ {
+  "name": "黄油相机",
+  "url": "https://www.bybutter.com",
+  "category": "AI 图像创作",
+  "pricing": "freemium",
+  "description": "黄油相机是面向移动端的拍照修图应用，内置百余款正版字体、多风格贴纸与滤镜，支持套用共享模板快速完成照片排版美化，适合日常记录、手账创作、社交平台图文分享的用户使用。"
+ },
+ {
+  "name": "360智脑",
+  "url": "https://chat.360.com/",
+  "category": "AI 对话助手",
+  "pricing": "freemium",
+  "description": "360智脑是一个由奇虎科技自主研发的大语言模型产品，目前主要通过网页端提供流畅的自然语言交互服务。它把深度学习技术与企业级应用需求紧密对接，专门用来解决信息过载时代的知识获取难题。无论是普通用户还是职"
+ },
+ {
+  "name": "360智脑",
+  "url": "https://ai.360.cn/",
+  "category": "AI 对话助手",
+  "pricing": "freemium",
+  "description": "360智脑是360推出的全场景AI平台，集成多参数多模态大模型，支持文字处理、AI绘画、信息搜索、办公辅助等能力，面向个人用户提供日常工具，面向企业提供政务、医疗、金融、教育等行业的定制化模型服务。"
+ },
+ {
+  "name": "AIPRM",
+  "url": "https://www.aiprm.com/",
+  "category": "AI 对话助手",
+  "pricing": "freemium",
+  "description": "AIPRM 是提升 ChatGPT、Claude 使用效率的提示词管理工具，内置 4000 多条经专家审核的预设提示，覆盖各类写作场景，支持自定义提示模板分类存储、团队共享，还可按品牌设置专属写作语调，适合高频使用 AI 生成内容的运营、文案、市场人员及协作团队。"
+ },
+ {
+  "name": "AskYourPDF",
+  "url": "https://askyourpdf.com",
+  "category": "AI 对话助手",
+  "pricing": "freemium",
+  "description": "AskYourPDF 是一款文档对话工具，上传 PDF 后直接提问即可获取对应答案，支持多文档跨文件整合提取信息，可自动生成文档摘要，还能结合其他文档自动填充 PDF 表单字段，适合需要快速处理大量 PDF 的学生、研究人员与商务人士使用。"
+ },
+ {
+  "name": "Chatvia",
+  "url": "https://chatvia.ai",
+  "category": "AI 对话助手",
+  "pricing": "freemium",
+  "description": "Chatvia是可自托管的AI客服智能体搭建平台，无需支付同类工具的订阅费用，支持基于企业自有文档、网站内容自动回复用户咨询，可接入网站、Slack、WhatsApp、Teams或API渠道，面向团队提供工作区权限配置、审计日志功能，适合需要自主掌控数据的团队搭建专属客服系统。"
+ },
+ {
+  "name": "Claude",
+  "url": "https://claude.ai/",
+  "category": "AI 对话助手",
+  "pricing": "freemium",
+  "description": "Claude 是 Anthropic 推出的对话式大语言模型，可完成文字创作、逻辑分析、代码编写调试等工作，支持嵌入多款常用办公软件，适合有日常写作、资料查询、基础编程需求的个人与团队用户使用。"
+ },
+ {
+  "name": "Claude 4",
+  "url": "https://www.anthropic.com/claude",
+  "category": "AI 对话助手",
+  "pricing": "freemium",
+  "description": "Claude 4 是 Anthropic 开发的 AI 对话助手，支持写作润色、知识讲解、代码编写调试，提供独立聊天界面、Claude Code 编程工具，还可通过 Chrome、Slack、Microsoft 365 插件集成到常用工具中，适合个人学习、写作、编程，也支持团队协作使用。"
+ },
+ {
+  "name": "Colloqio",
+  "url": "https://colloqio.app/",
+  "category": "AI 对话助手",
+  "pricing": "freemium",
+  "description": "Colloqio 是完全在本地运行的私人 AI 陪伴工具，无需注册账号，离线也能聊天，会记住你的称呼、个人偏好和过往对话历史，可生成专属 AI 形象，所有数据仅存储在本地，适合注重隐私、想要随身情绪树洞或日常闲聊搭子的用户使用。"
+ },
+ {
+  "name": "Comma",
+  "url": "https://comma.surf",
+  "category": "AI 对话助手",
+  "pricing": "free",
+  "description": "Comma是一款24小时在线运行的免费开源AI个人助理，可自动处理邮件、日程、待办等日常事务，支持对接主流大模型，能跨Gmail、Notion、GitHub等工具完成任务，适合需要减少重复办公操作的个人用户，无需付费即可使用基础功能。"
+ },
+ {
+  "name": "Conch",
+  "url": "https://conchagent.com",
+  "category": "AI 对话助手",
+  "pricing": "free",
+  "description": "同时订阅了 Claude、Codex、Copilot 等多个 AI 服务的人，常要在不同窗口间切换、复制上下文。Conch 把这些模型和 API 密钥收进一个自托管应用，聊天中途可换模型而不丢对话。适合手上有多个订阅、又在意数据不外传的开发者与重度用户。"
+ },
+ {
+  "name": "DeepTutor",
+  "url": "https://deeptutor.info",
+  "category": "AI 对话助手",
+  "pricing": "free",
+  "description": "DeepTutor是开源的智能体原生个性化学习陪伴工具，可按学习进度调整辅导节奏，自动整理学习记录，支持本地部署。适合自主学习者、学生和研究人员使用，与同类工具相比，其学习数据由用户自主掌控。"
+ },
+ {
+  "name": "Duck.ai",
+  "url": "https://duck.ai/",
+  "category": "AI 对话助手",
+  "pricing": "free",
+  "description": "Duck.ai是DuckDuckGo推出的私密AI聊天服务，免费免注册。它通过代理匿名化请求，确保对话不用于训练，注重隐私保护。平台集成了GPT、Claude、Llama等多种主流模型，支持文本与语音"
+ },
+ {
+  "name": "Eidolon-SC",
+  "url": "http://283ai.hmhnk.top",
+  "category": "AI 对话助手",
+  "pricing": "free",
+  "description": "想和《偶像大师 闪耀色彩》的 29 位偶像聊天，又怕 AI 答得不像本人？这个粉丝作品让每个角色按自己的人设和语气回话，日语语音配中文字幕，还能跨角色记住你说过的事。适合熟悉 283 事务所、想用日语原声对话的原作玩家，和普通套壳聊天最大的区别是记忆会在角色之间传开。"
+ },
+ {
+  "name": "Hivinq",
+  "url": "https://www.hivinq.com/",
+  "category": "AI 对话助手",
+  "pricing": "freemium",
+  "description": "Hivinq 是嵌入沟通软件的智能客服副驾驶，可自动读取客户留言、判断解答把握度并生成回复草稿，拿不准的问题自动转交人工，适合承接高频重复基础咨询的客服、技术支持、社群管理团队使用。"
+ },
+ {
+  "name": "Hollow",
+  "url": "https://gethollow.com/",
+  "category": "AI 对话助手",
+  "pricing": "freemium",
+  "description": "Hollow 是一款个人助手，自动收录邮件、待跟进请求与日程安排，在事项临近过期或被忽略时主动提醒，还能生成回复草稿、梳理后续操作步骤，适合日常信息量大、需要跨环节跟催项目的用户，省去手动记备忘录、翻找聊天进度的麻烦。"
+ },
+ {
+  "name": "Kimi Chat",
+  "url": "https://kimi.moonshot.cn/",
+  "category": "AI 对话助手",
+  "pricing": "freemium",
+  "description": "Kimi Chat 是月之暗面推出的国产智能对话助手，主打超长上下文处理能力，支持解析多格式文档、联网检索实时信息，可完成资料梳理、内容起草、代码排查等任务，适合需要处理大量文本、查阅实时信息的用户使用。"
+ },
+ {
+  "name": "LearnBuddy",
+  "url": "https://learningbuddy.tencent.com/",
+  "category": "AI 对话助手",
+  "pricing": "freemium",
+  "description": "腾讯出品的AI自主学习平台LearnBuddy，提供专家分身1对1陪伴，生成专属课程并记忆学习进度，越用越懂你。平台无缝连接腾讯文档、企业微信、会议、邮箱等生态工具，支持任务分发与成果沉淀，助力校园与"
+ },
+ {
+  "name": "Lifemap - Find Your Purpose",
+  "url": "https://www.thelifemap.xyz/",
+  "category": "AI 对话助手",
+  "pricing": "freemium",
+  "description": "Lifemap 是 iOS 端个人成长陪伴应用，通过引导式反思练习与内置AI生命教练Iko，帮用户梳理价值观、明确目标、设计可落地的行动路径，适合需要理清人生方向的人群使用。"
+ },
+ {
+  "name": "LobeChat",
+  "url": "https://lobechat.com/",
+  "category": "AI 对话助手",
+  "pricing": "free",
+  "description": "LobeChat 是开源 AI 对话框架，可快速搭建专属 AI 聊天应用，支持接入 GPT、Claude 等多类主流模型，自带插件系统、知识库、语音交互功能，适合开发者快速为产品接入对话能力，也适合需要统一管理多模型的日常使用者。"
+ },
+ {
+  "name": "LyzrGPT",
+  "url": "https://studio.lyzr.ai/auth/sign-up/",
+  "category": "AI 对话助手",
+  "pricing": "freemium",
+  "description": "LyzrGPT 是网页端低代码 AI 应用搭建平台，通过拖拽节点拼接业务逻辑，集中管理提示词，对接各类数据源与外部接口，兼容多种大语言模型，支持快速发布应用并监控运行状态，适合快速验证产品原型的团队或个人开发者。"
+ },
+ {
+  "name": "MiMo Studio",
+  "url": "https://aistudio.xiaomimimo.com/",
+  "category": "AI 对话助手",
+  "pricing": "freemium",
+  "description": "MiMo Studio 是小米推出的面向算法开发与模型迭代的在线人工智能工作平台，支持云端可视化配置模型训练参数、上传数据集直接训练，可实时查看推理测试效果，支持多设备接入管理与实验版本回溯，无需本地配置复杂环境，适合需要快速验证算法原型的开发者与机器学习新手使用。"
+ },
+ {
+  "name": "MiniMax ABAB 6.5",
+  "url": "https://www.minimax.io/",
+  "category": "AI 对话助手",
+  "pricing": "freemium",
+  "description": "MiniMax ABAB 6。5 是集成多类AI能力的产品平台，搭载M2。7文本模型，可处理复杂Excel、Word、PPT办公任务与编程开发工作，支持Agent智能助手学习工作习惯、自动化重复任务，还覆盖视频生成、语音、音乐、图像创作能力，适合需要同时处理文档、编程与内容创作的职场人士及技术团队。"
+ },
+ {
+  "name": "Moonshot（月之暗面）",
+  "url": "https://www.moonshot.ai/",
+  "category": "AI 对话助手",
+  "pricing": "freemium",
+  "description": "Moonshot（月之暗面）是 Moonshot AI 推出的新一代大模型应用，支持深度资料搜集整理、一键建站、智能制表、自主编辑 PPT，具备图片与代码理解能力，适合学生、研究员、职场人士处理大量信息与重复性工作。"
+ },
+ {
+  "name": "OpenClaw",
+  "url": "https://openclaw.ai",
+  "category": "AI 对话助手",
+  "pricing": "free",
+  "description": "OpenClaw 是一款可自托管的开源 AI 助手，支持 macOS、Windows、Linux 全平台运行，提供多种安装方式，面向需要定制化个人 AI 代理的开发者与技术用户。"
+ },
+ {
+  "name": "Qwen3",
+  "url": "https://qwenlm.github.io/",
+  "category": "AI 对话助手",
+  "pricing": "freemium",
+  "description": "Qwen3 是通义千问系列的语言模型家族，可完成文本理解、生成等自然语言处理工作，配套的 Qwen3Guard 能实时检测对话内容风险，Qwen-Image-Edit 可精准编辑图片文字，适合开发 AI 应用、处理图文素材的用户使用。"
+ },
+ {
+  "name": "RumbleTalk",
+  "url": "https://www.rumbletalk.com",
+  "category": "AI 对话助手",
+  "pricing": "freemium",
+  "description": "RumbleTalk 是可快速嵌入网站的在线群聊搭建平台，支持投票、排队发言、视频通话、问答等实时互动功能，提供会员专属、公开问答、私密群聊等多种聊天模式，适合运营会员社区、举办线上讲座的用户搭建专属聊天互动空间。"
+ },
+ {
+  "name": "Waylight for macOS",
+  "url": "https://www.waylight.ai/",
+  "category": "AI 对话助手",
+  "pricing": "free",
+  "description": "Waylight for macOS 是运行在苹果电脑本地的智能办公助手，可自动记录用户浏览的网页、参与的会议和查看的文档，生成每日活动记录与动态待办清单，所有数据均在本地处理，适合频繁跨软件处理多任务、重视数据隐私的办公人群使用。"
+ },
+ {
+  "name": "ZhiPu Z1",
+  "url": "https://open.bigmodel.cn/",
+  "category": "AI 对话助手",
+  "pricing": "freemium",
+  "description": "ZhiPu Z1是智谱AI推出的大模型服务平台，基于自研GLM系列模型能力，面向开发者与企业用户开放模型调用服务，覆盖多模态内容处理、智能体工作流、代码开发等能力，支持按业务规模灵活选择服务方案，快速完成大模型能力的业务集成。"
+ },
+ {
+  "name": "muse-cli",
+  "url": "https://muse-cli-web.web.app",
+  "category": "AI 对话助手",
+  "pricing": "free",
+  "description": "muse-cli 是 muse.ai 个人智能体的非官方命令行客户端，支持用户在终端直接给智能体发消息、查看实时事件、下载生成文件，管理会话、动态、目标等内容。它适配常使用终端的用户，除交互聊天外所有命令输出 JSON，可对接脚本、定时任务或其他自动化工具。"
+ },
+ {
+  "name": "o11",
+  "url": "https://o11.ai/",
+  "category": "AI 对话助手",
+  "pricing": "freemium",
+  "description": "o11 是一款 AI 客户账户经理，面向自服务产品，自动监控用户会话、发现使用摩擦、通过 iMessage/邮件主动触达并回复，还能学习你的语气风格，全程代管客户对话。"
+ },
+ {
+  "name": "伶鹊",
+  "url": "https://voicepica.aliyun.com",
+  "category": "AI 对话助手",
+  "pricing": "paid",
+  "description": "伶鹊是阿里云企业级对话智能体平台，基于通义千问大模型与全双工实时交互引擎，提供智能在线客服、智能语音外呼、对话分析及云联络中心等产品，覆盖金融、医疗、出行等多行业，助力企业用对话创造商业价值。"
+ },
+ {
+  "name": "千问",
+  "url": "https://www.qianwen.com/",
+  "category": "AI 对话助手",
+  "pricing": "free",
+  "description": "千问是阿里巴巴推出的全能型AI对话助手，支持日常问答、文案撰写、代码查错、多语言翻译、AI生图、PPT创作、文档处理、音视频速读，还有语音快捷转写功能，适合需要整理资料、快速产出文档的职场人和学生。"
+ },
+ {
+  "name": "华灯 · RikkaHub Plus",
+  "url": "https://rikkahub.luoca.cn",
+  "category": "AI 对话助手",
+  "pricing": "free",
+  "description": "华灯·RikkaHub Plus是安卓原生AI角色扮演聊天客户端，无需部署容器即可使用。支持无损导入酒馆角色卡与世界书，兼容主流API中转站，长对话自动缓存降本，还可扩展插件、调用设备能力。适合手机端常玩AI RP的用户，相比同类容器方案启动更快、资源占用更低。"
+ },
+ {
+  "name": "墨见",
+  "url": "https://mojian.cn/",
+  "category": "AI 对话助手",
+  "pricing": "freemium",
+  "description": "墨见是面向一人公司、超级个体的AI协作平台，内置产品经理、全栈架构师、设计师等虚拟角色，支持多角色群聊脑暴，可连贯输出需求文档、高保真原型与生产级前后端代码，缩短产品试错周期。"
+ },
+ {
+  "name": "天工Ai",
+  "url": "https://www.tiangong.cn/",
+  "category": "AI 对话助手",
+  "pricing": "freemium",
+  "description": "天工AI 是由昆仑万维推出的一款**大模型驱动的AI助手平台**，致力于为用户提供**智能对话、内容创作、多模态理解与生成、代码辅助**等全方位AI能力。其核心基于自研的“天工”大模型系列（如Skywork），支持文本、图像、语音等多种交互形式。\n  \n  \n    天工AI不仅面向普通用户开放免费使用，也为企业客户提供API接入和定制化服务，旨在降低AI使用门槛，提升工作"
+ },
+ {
+  "name": "当贝AI",
+  "url": "https://ai.dangbei.com/chat",
+  "category": "AI 对话助手",
+  "pricing": "free",
+  "description": "当贝AI是免费AI大模型聚合平台，聚合DeepSeek、豆包、通义千问、智谱、Kimi等优质大模型，提供AI搜索、AI写作、AI生图生视频及个人知识库等一站式服务，无需注册、不限量使用。"
+ },
+ {
+  "name": "文心一言",
+  "url": "https://yiyan.baidu.com/",
+  "category": "AI 对话助手",
+  "pricing": "freemium",
+  "description": "文心一言是百度推出的国产多模态对话式 AI 产品，支持文字问答、各类文案撰写、文字生成插画、基础代码生成，适配中文使用习惯，适合有日常内容创作、信息查询、办公辅助需求的普通用户、内容创作者与职场人群使用。"
+ },
+ {
+  "name": "晓多AI",
+  "url": "https://www.xiaoduoai.com",
+  "category": "AI 对话助手",
+  "pricing": "freemium",
+  "description": "晓多AI是面向电商与咨询密集型企业的智能客服平台，支持淘宝、京东、抖音、微信等多渠道消息统一接入，可基于自定义知识库自动回复客户常见问题，同时提供客服绩效、客户满意度等数据分析报表，帮助团队降低人力成本、提升客服响应效率。"
+ },
+ {
+  "name": "智谱清言",
+  "url": "https://chatglm.cn/",
+  "category": "AI 对话助手",
+  "pricing": "freemium",
+  "description": "智谱清言是结合大语言模型与智能体技术的对话式人工智能工具，支持长程自主任务运转、多智能体并行协作，可完成资料整理、文案生成、数据分析、演示文稿制作等工作，适配网页、手机端，还可接入微信、飞书，适合需要处理长周期项目、碎片化信息整理的用户使用。"
+ },
+ {
+  "name": "百小医",
+  "url": "https://yi.baichuan-ai.com",
+  "category": "AI 对话助手",
+  "pricing": "free",
+  "description": "百小医是百川智能推出的医疗类AI助手，可提供健康疑问解答、就医前疑问梳理、慢病管理日常注意事项参考，还支持指南查询、药品检索与论文搜索，适合有日常健康咨询、就医准备需求的普通用户使用。"
+ },
+ {
+  "name": "百川智能",
+  "url": "https://www.baichuan-ai.com/",
+  "category": "AI 对话助手",
+  "pricing": "freemium",
+  "description": "百川智能是专注于医疗健康领域的AI助手，核心产品为百小医AI家庭医生，可在就医前帮用户梳理症状、准备就诊沟通内容，就医后解读医嘱、分析病情，还能统一管理家庭成员的用药、复诊、体检提醒，适合有日常健康照护需求、家中有老人或慢性病患者的家庭使用。"
+ },
+ {
+  "name": "百川智能（Baichuan3）",
+  "url": "https://www.baichuan.ai/",
+  "category": "AI 对话助手",
+  "pricing": "free",
+  "description": "百川智能（Baichuan3）是专注医疗领域的开源大语言模型，主打低幻觉输出与专业医学推理，可支撑完整医学问诊流程，适合临床辅助决策系统开发者、医学教育产品团队使用。"
+ },
+ {
+  "name": "腾讯元宝",
+  "url": "https://yuanbao.tencent.com",
+  "category": "AI 对话助手",
+  "pricing": "free",
+  "description": "腾讯元宝是腾讯推出的基于混元大模型的AI对话助手，支持联网搜索、文档解析、内容创作、多语言翻译与代码辅助，适合需要查询实时资讯、整理资料、处理文字的学生与职场办公人群使用。"
+ },
+ {
+  "name": "蚂蚁阿福（AI医生）",
+  "url": "https://chat.antafu.com/",
+  "category": "AI 对话助手",
+  "pricing": "free",
+  "description": "当您因头痛、胸口闷等疾病而焦虑，搜索“高血压”或“糖尿病”等症状；当您想了解“药物副作用”、看不懂“检查报告”或疑惑“体检报告”时，我们的AI健康助手为您提供免费、快捷的健康问答与解读服务。"
+ },
+ {
+  "name": "讯飞星火",
+  "url": "https://xinghuo.xfyun.cn/",
+  "category": "AI 对话助手",
+  "pricing": "freemium",
+  "description": "讯飞星火是科大讯飞推出的国产大语言模型工具，支持多轮对话问答、写作润色、长文档要点提炼、多语言文本互译，面向学生、职场人士提供日常信息查询与内容辅助服务，同时开放API接口支持企业接入集成。"
+ },
+ {
+  "name": "豆包",
+  "url": "https://www.doubao.com",
+  "category": "AI 对话助手",
+  "pricing": "free",
+  "description": "豆包是字节跳动推出的国产AI对话助手，支持文本创作、代码编写、多语种翻译，内置PPT生成、文生图快捷指令，适合需要快速整理资料、制作汇报材料的职场人和学生使用。"
+ },
+ {
+  "name": "通义千问",
+  "url": "https://qwen.ai",
+  "category": "AI 对话助手",
+  "pricing": "free",
+  "description": "通义千问是阿里云推出的免费通用AI助手，基于自研Qwen系列大模型，打开网页就能用，不用复杂配置，能帮普通用户处理文字创作、信息查询、代码编写等日常办公学习任务，对中文语境适配更好，无需额外付费即可使用基础功能。"
+ },
+ {
+  "name": "问小白",
+  "url": "https://www.wenxiaobai.com",
+  "category": "AI 对话助手",
+  "pricing": "paid",
+  "description": "问小白（Wenxiaobai）是一款定位为“主动型AI助手”的智能工具，其核心理念是“不止回答，更帮你交付成果”。它集成了多种顶级大模型，旨在成为用户探索世界、处理任务的得力搭档。"
+ },
+ {
+  "name": "21st Fund",
+  "url": "https://www.21st.fund",
+  "category": "AI 搜索与研究",
+  "pricing": "freemium",
+  "description": "21st Fund 是面向早期和成长期创业者的融资扶持项目，可按发展阶段梳理无稀释融资、天使投资、机构投资的可行路线，每周跟进运营复盘，打磨投资人认可的业务增长信号，准备路演材料与尽调资料，适合认同长期主义、希望靠稳定业绩吸引资本的创始人。"
+ },
+ {
+  "name": "AI Mode API",
+  "url": "https://aimodeapi.com/",
+  "category": "AI 搜索与研究",
+  "pricing": "freemium",
+  "description": "AI Mode API 可将谷歌最新的 AI Mode 搜索体验转为可直接调用的接口，安装浏览器扩展后即可从终端、脚本或自动化流程发起请求，获取包含核心回答、后续追问推荐、来源链接的结构化数据，适合需要批量抓取搜索结果、做品牌监测、调研自动化的用户使用。"
+ },
+ {
+  "name": "Clodo",
+  "url": "https://clodo.ai/",
+  "category": "AI 搜索与研究",
+  "pricing": "freemium",
+  "description": "Clodo 是一款面向人才寻访、招聘和拓客团队的 AI 工具，支持用自然语言描述目标人选，自动汇总企业背景、职业轨迹、融资状况、技术栈等信息，按契合度排序匹配联系人，也可导入现有名单批量清洗整理，大幅减少手动搜集资料的时间。"
+ },
+ {
+  "name": "Command R+",
+  "url": "https://www.cohere.com/command-r-plus",
+  "category": "AI 搜索与研究",
+  "pricing": "freemium",
+  "description": "Command R+ 是 Cohere 推出的面向企业场景的大型语言模型，主打检索增强生成能力，可连接外部知识库或搜索引擎获取实时资料生成回答，支持多轮对话、外部工具调用，适配客服问答、内部文档查询、多语言业务等场景。"
+ },
+ {
+  "name": "Cradle",
+  "url": "https://www.cradle.bio/",
+  "category": "AI 搜索与研究",
+  "pricing": "freemium",
+  "description": "Cradle 是面向生物制药与工业生物研发团队的蛋白质设计工具，可基于实验数据生成优化后的蛋白质候选序列，跟踪每轮实验状态，集中管理实验数据与序列信息，查看生成分析报告，减少实验轮次，提升蛋白质设计效率。"
+ },
+ {
+  "name": "Dewdrop",
+  "url": "https://dewdropapp.com/",
+  "category": "AI 搜索与研究",
+  "pricing": "free",
+  "description": "Dewdrop 是一款唤醒沉睡书签的阅读辅助工具，可自动从 Raindrop。io 收藏库中随机挑选文章生成摘要，每日通过邮件推送，帮你把零散的收藏变成每日轻量回顾，适合在 Raindrop。io 积累了大量资料却没时间系统复习的用户。"
+ },
+ {
+  "name": "Elicit",
+  "url": "https://elicit.com/",
+  "category": "AI 搜索与研究",
+  "pricing": "freemium",
+  "description": "Elicit 是专为学术科研设计的 AI 研究工具，支持自然语言语义搜索，可检索超 1。38 亿篇学术论文与 54。5 万项临床试验，能自动化完成文献筛选、关键信息提取，还可生成自定义研究简报，适合需要做文献调研、系统综述的研究者、学生与学术从业者。"
+ },
+ {
+  "name": "Find My Stack",
+  "url": "https://findmy-stack.lovable.app/",
+  "category": "AI 搜索与研究",
+  "pricing": "freemium",
+  "description": "Find My Stack是AI驱动的商业软件发现平台，收录上万款经过验证的工具，覆盖50余个分类，支持智能推荐、实时比价与用户评价查看，无需注册即可快速筛选匹配企业需求的软件方案，适合需要选型商业工具的团队与个人使用。"
+ },
+ {
+  "name": "GROOVY",
+  "url": "https://www.gogroovy.ai/",
+  "category": "AI 搜索与研究",
+  "pricing": "freemium",
+  "description": "GROOVY 是统一运行的 AI 操作系统，打通聊天、邮件、代码三类工作场景，共享同一套智能体、记忆与规则，支持本地或自托管部署，适合对数据安全有要求的个人与团队使用。"
+ },
+ {
+  "name": "Migo觅果",
+  "url": "https://migo.intern-ai.org.cn",
+  "category": "AI 搜索与研究",
+  "pricing": "freemium",
+  "description": "觅果（Migo）是AI学习与科研创新加速平台，集成学科专业工具与前沿AI技术，提供文献阅读、引文核验、智能问答、调研报告等功能，支持多终端无缝衔接，为教育与科研场景提供高效的知识整合与创作支持。"
+ },
+ {
+  "name": "Perplexity AI",
+  "url": "https://www.perplexity.ai/",
+  "category": "AI 搜索与研究",
+  "pricing": "freemium",
+  "description": "Perplexity AI 是支持实时联网检索的智能问答工具，回答附带可点击的来源链接，支持多轮上下文追问，可切换学术、编程、科普等不同搜索侧重，适合需要搜集资料、核对事实的研究人员、学生及跨语言查证用户使用。"
+ },
+ {
+  "name": "Rooftop AI",
+  "url": "https://rooftop.ai/",
+  "category": "AI 搜索与研究",
+  "pricing": "freemium",
+  "description": "Rooftop AI 是处于公开出售状态的人工智能相关域名，由 Spaceship 平台提供交易保障，买家可自行提交意向购买价格，适合有 AI 项目创意、需要优质域名的个人开发者或企业收购使用。"
+ },
+ {
+  "name": "Soch",
+  "url": "https://www.thesochapp.ca",
+  "category": "AI 搜索与研究",
+  "pricing": "freemium",
+  "description": "Soch 是一款学术论文通俗解读工具，能把晦涩的专业文献拆解为大白话短篇内容，支持语音收听、个性化领域推荐，适合想快速了解各领域研究进展的普通用户、学生和职场人士在碎片时间浏览、收藏和分享内容。"
+ },
+ {
+  "name": "TXYZ",
+  "url": "https://www.txyz.ai/",
+  "category": "AI 搜索与研究",
+  "pricing": "freemium",
+  "description": "TXYZ 是一款专为科研人员、学生及行业研发人员打造的 AI 学术文献阅读与知识管理工具。它旨在帮助用户跳过繁琐的检索和粗读过程，大幅提升文献阅读效率，被许多用户称为“读论文导师”。"
+ },
+ {
+  "name": "WisPaper学术搜索",
+  "url": "https://www.wispaper.ai/",
+  "category": "AI 搜索与研究",
+  "pricing": "freemium",
+  "description": "WisPaper 是一款专为学术研究人员、学生打造的 AI 智能科研助手，由复旦大学自然语言处理实验室（FudanNLP）团队自主研发，旨在帮助用户从容应对海量文献，大幅提升科研工作效率。"
+ },
+ {
+  "name": "Wolfram Alpha",
+  "url": "https://www.wolframalpha.com/",
+  "category": "AI 搜索与研究",
+  "pricing": "freemium",
+  "description": "Wolfram Alpha 是计算知识引擎，支持用自然语言或数学符号提问，直接给出计算结果、函数图形与分步解答，覆盖数学、物理、化学、单位换算、日期计算、食品营养等领域，适合学生、教师、科研人员及日常用户使用。"
+ },
+ {
+  "name": "rStation",
+  "url": "https://rstation.ai/",
+  "category": "AI 搜索与研究",
+  "pricing": "free",
+  "description": "rStation是面向AI智能体的开放科研社区，为智能体提供分主题的研究讨论区与论文发布渠道，支持智能体围绕黎曼猜想、强正则图等开放科研问题开展协作，发布的论文会经平台审核智能体校验技术正确性与原创性，人类用户可旁观整个研究过程。"
+ },
+ {
+  "name": "remio 2.0",
+  "url": "https://www.remio.ai/",
+  "category": "AI 搜索与研究",
+  "pricing": "freemium",
+  "description": "remio 2。0 是一款个人知识助手，能在后台自动收集你的网页浏览记录、会议录音、邮件和本地文件，统一整理成专属知识库。你可以直接提问，它会基于你的资料生成调研报告、幻灯片或数据表格，适合每天需要处理大量零散信息、经常开会或频繁查资料的人群。"
+ },
+ {
+  "name": "心流AI助手",
+  "url": "https://iflow.cn",
+  "category": "AI 搜索与研究",
+  "pricing": "freemium",
+  "description": "心流AI助手是一款旨在提升知识获取效率的智能工具。它不仅能解答日常百科问题，更专注于辅助专业学术工作，提供AI搜索、问答、论文检索和沉浸式阅读等功能，帮助用户快速进入专注的“心流”状态。"
+ },
+ {
+  "name": "秘塔AI",
+  "url": "https://metaso.cn",
+  "category": "AI 搜索与研究",
+  "pricing": "freemium",
+  "description": "秘塔AI是基于大模型的智能搜索引擎，支持深度搜索与学术搜索两种模式，能理解问题意图，直接输出结构化整理的答案，每条信息附带原始出处链接，适合做文献调研的研究生、撰写报告的职场人以及需要查询复杂问题的用户使用。"
+ },
+ {
+  "name": "Activepieces",
+  "url": "https://www.activepieces.com",
+  "category": "AI 效率与自动化",
+  "pricing": "freemium",
+  "description": "Activepieces是面向团队的AI自动化协作平台，在统一工作区整合对话、智能体、工作流、数据表与770+应用连接，替代人工跨系统搬运数据、处理重复事务，适合需要跨工具协作的业务团队使用，支持在现有常用工具内调用AI能力。"
+ },
+ {
+  "name": "AutoGPT",
+  "url": "https://agpt.co",
+  "category": "AI 效率与自动化",
+  "pricing": "freemium",
+  "description": "AutoGPT 是基于大模型的自主 AI 智能体平台，内置多领域 AI 专家分工协作，可自动完成内容创作、线索调研、行政辅助等常规工作，适合需要轻量化 AI 团队的个人与小型团队使用。"
+ },
+ {
+  "name": "Binary",
+  "url": "https://binary.so/",
+  "category": "AI 效率与自动化",
+  "pricing": "free",
+  "description": "Binary是面向初创企业的AI驱动招聘管理系统，支持创建招聘表单、AI筛选候选人、追踪招聘漏斗、安排面试，兼容多款主流AI工具，提供免费套餐，不限职位、候选人和团队成员数量。"
+ },
+ {
+  "name": "Coze",
+  "url": "https://www.coze.com/",
+  "category": "AI 效率与自动化",
+  "pricing": "freemium",
+  "description": "Coze 是低门槛的 AI 聊天机器人构建与部署平台，无需从零编写代码，可配置机器人的角色设定、知识库、对话逻辑，支持插件扩展与可视化工作流编排，适合个体开发者、小团队搭建智能客服、内部知识助手，也能帮运营、技术支持人员处理重复性问答工作。"
+ },
+ {
+  "name": "CrewAI",
+  "url": "https://www.crewai.com/",
+  "category": "AI 效率与自动化",
+  "pricing": "freemium",
+  "description": "CrewAI 是面向企业的多代理规模化运营开放平台，可挖掘内部自动化机会，提供无代码到专业开发的多层级搭建方式，支持角色化代理编排、确定性工作流执行与生产环境治理，适配非技术业务人员与专业开发者使用。"
+ },
+ {
+  "name": "Dify",
+  "url": "https://dify.ai/",
+  "category": "AI 效率与自动化",
+  "pricing": "freemium",
+  "description": "Dify 是开源的 AI 应用开发平台，支持可视化拖拽编排 AI 工作流，内置 RAG 检索能力，可一键接入主流大模型，快速构建可上线的智能客服、知识问答机器人等应用，适合创业者、技术团队和企业 IT 部门快速落地 AI 创意。"
+ },
+ {
+  "name": "FlowGenie",
+  "url": "https://www.flowgenie.pro",
+  "category": "AI 效率与自动化",
+  "pricing": "freemium",
+  "description": "FlowGenie 是浏览器端可视化流程编排工具，可搭建带分支、循环、变量的业务逻辑，构建带校验规则的动态表单，支持发布为接口、定时执行，团队可实时协同修改逻辑，适合需要表单数据自动流转的业务项目。"
+ },
+ {
+  "name": "Hermes Agent",
+  "url": "https://hermes-agent.nousresearch.com/",
+  "category": "AI 效率与自动化",
+  "pricing": "paid",
+  "description": "Hermes Agent是自主智能体，非IDE副驾驶或API封装，运行越久能力越强。可部署于任何环境——5美元VPS、GPU集群或serverless基础设施。"
+ },
+ {
+  "name": "Indy",
+  "url": "https://www.shimmer.care/indy",
+  "category": "AI 效率与自动化",
+  "pricing": "freemium",
+  "description": "Indy是Shimmer Care推出的ADHD辅助工具，可帮用户关联长期目标与日常可执行步骤，梳理时间精力分配规律，匹配ADHD相关实用技巧，适合ADHD人群搭建灵活日常结构。"
+ },
+ {
+  "name": "LightVela",
+  "url": "https://lightvela.com/",
+  "category": "AI 效率与自动化",
+  "pricing": "free",
+  "description": "LightVela 是腾讯轻量云团队推出的长期在线云端智能助手，可接入微信、QQ、企业微信、飞书等常用沟通入口，自动梳理群聊重点、提炼待办事项，支持定时提醒、问题排查与协同跟进，适合需要同时处理多群聊、事务繁杂的团队负责人、赛事组织者与职场人使用。"
+ },
+ {
+  "name": "Matrix",
+  "url": "https://matrix.build/",
+  "category": "AI 效率与自动化",
+  "pricing": "freemium",
+  "description": "Matrix 是开放的去中心化实时通讯网络协议，支持联邦互通、端到端加密、多平台消息桥接，用户可自主部署服务端掌控数据主权，适合注重隐私安全、需要跨组织协作的团队与个人使用。"
+ },
+ {
+  "name": "OpenManus",
+  "url": "https://openmanus.org/",
+  "category": "AI 效率与自动化",
+  "pricing": "free",
+  "description": "OpenManus 是一款无需技术配置的在线 AI 智能体服务，打开浏览器即可使用预配置的智能体能力，支持文本处理与对话任务，适合普通办公人员、学生、创业者等不想折腾安装配置的用户快速体验智能体功能。"
+ },
+ {
+  "name": "OpenManus",
+  "url": "https://openmanus.com",
+  "category": "AI 效率与自动化",
+  "pricing": "free",
+  "description": "OpenManus 是挂牌出售的域名，当前标价 50000 美元，依托 Spaceship 平台完成交易，支持直接购买或向卖家议价，适合有建站需求、想收购该域名的个人或企业。"
+ },
+ {
+  "name": "OpenWork",
+  "url": "https://openwork.software/",
+  "category": "AI 效率与自动化",
+  "pricing": "free",
+  "description": "OpenWork 是开源的团队桌面自动化客户端，支持接入五十多种大语言模型，用自然语言指令就能驱动浏览器完成网页交互、批量信息抓取、重复表单填写等操作，跑通的任务流程可直接同步给团队成员复用，适合需要频繁处理网页操作的中小团队使用。"
+ },
+ {
+  "name": "Paperclip",
+  "url": "https://paperclip.ing",
+  "category": "AI 效率与自动化",
+  "pricing": "free",
+  "description": "Paperclip是开源的AI智能体工作管理工具，可将分散的AI聊天会话整合成带汇报关系、审批流程、成本管控的虚拟工作团队，适配多智能体调度需求，适合需要同时调度多个AI智能体处理多类工作的个人或小团队，支持自托管保障数据自主，无特定智能体绑定。"
+ },
+ {
+  "name": "Phantom",
+  "url": "https://phantom.app",
+  "category": "AI 效率与自动化",
+  "pricing": "freemium",
+  "description": "Phantom 是支持多链的加密货币钱包，可在统一界面管理 Solana、以太坊、Polygon 等链上的代币与 NFT，内置代币兑换、dApp 浏览器功能，操作直观易上手，适合需要跨链打理数字资产的普通用户。"
+ },
+ {
+  "name": "Pulse Local",
+  "url": "https://pulseos.finance",
+  "category": "AI 效率与自动化",
+  "pricing": "free",
+  "description": "Pulse Local是一款完全运行在本地设备上的个人预算管理应用，内置可基于用户本地账本数据回答财务问题的对话功能，支持预算目标设置、交易分类、现金流预测等完整记账能力，无需注册账号即可使用，支持任意货币。和同类工具相比，它不会将用户的账本、财务问题上传到外部服务器，AI模型也完全在本地运行，适合注重财务隐私、不想把收支数据交给第三方存储的个人用户使用。"
+ },
+ {
+  "name": "Steel",
+  "url": "https://steel.dev",
+  "category": "AI 效率与自动化",
+  "pricing": "freemium",
+  "description": "Steel是面向AI代理的开源浏览器基础设施API，可按需快速调度真实浏览器会话，无需自行搭建维护浏览器集群，适配网页自动化、数据抓取、AI代理网页操作等场景，适合相关开发者与AI团队使用。"
+ },
+ {
+  "name": "Stracti",
+  "url": "https://stracti.com/",
+  "category": "AI 效率与自动化",
+  "pricing": "freemium",
+  "description": "Stracti 是一款在线协作与内容管理工具，支持拖拽搭建可视化工作流，云端实时同步内容，内置项目管理与创意构思模板，适合跨角色协作团队统一文件版本、分配任务，也方便个人创作者快速搭建个人知识库。"
+ },
+ {
+  "name": "WizzyPoke",
+  "url": "https://www.wizzypoke.com/",
+  "category": "AI 效率与自动化",
+  "pricing": "freemium",
+  "description": "WizzyPoke 是兼顾个人专注管理与远程团队协作的浏览器插件，支持自定义分心网站限制列表、任务计时提醒，还能通过带声音的屏幕震动强提醒快速触达同事，适合需要减少上网分心、远程协作催办进度的职场人使用。"
+ },
+ {
+  "name": "Yap",
+  "url": "https://justyap.io",
+  "category": "AI 效率与自动化",
+  "pricing": "free",
+  "description": "Yap是适配Mac设备的AI编程代理专用屏幕录制标注工具，支持语音讲解、屏幕标记，可一键生成带上下文的提示词粘贴给代理，也能将录制素材交由代理剪辑为带字幕的成品视频，免费使用，适配Claude Code、Codex等各类AI编程代理。"
+ },
+ {
+  "name": "Zapier Interfaces",
+  "url": "https://zapier.com/ai",
+  "category": "AI 效率与自动化",
+  "pricing": "freemium",
+  "description": "Zapier Interfaces 是一款 AI 工作流编排平台，可接入 Claude、ChatGPT 等模型，连接 9000 多个应用的 30000 多个动作，构建能自动执行任务的智能体，内置敏感数据安全检查，适合需要让 AI 对接内部业务系统、处理重复性操作的团队使用。"
+ },
+ {
+  "name": "browser use",
+  "url": "https://browser-use.com",
+  "category": "AI 效率与自动化",
+  "pricing": "freemium",
+  "description": "browser use 是面向 AI 智能体的云端浏览器服务，可自动完成网页数据提取、表单填写、登录验证、购物出行查询等任务，支持对接自有智能体，适合需要批量处理网页操作的开发者与运营人员。"
+ },
+ {
+  "name": "hirebetter",
+  "url": "https://hirebetter.io/",
+  "category": "AI 效率与自动化",
+  "pricing": "freemium",
+  "description": "hirebetter 是面向招聘场景的自动化工具，填写一次基础需求即可自动生成职位描述、面试提问清单、候选人摘要和外联沟通话术，整合全流程在同一工作区，适合需要处理大量简历的 HR 或猎头团队，内置多语言版本可适配不同地区的招聘岗位。"
+ },
+ {
+  "name": "n8n",
+  "url": "https://n8n.io",
+  "category": "AI 效率与自动化",
+  "pricing": "freemium",
+  "description": "开源的可视化工作流与AI智能体搭建平台，可拖拽连接数百款应用、接入大模型构建自动化流程，流程每一步都可查看调试，适合开发者、运营及中小团队搭建各类自动化业务流程。"
+ },
+ {
+  "name": "nanobot",
+  "url": "https://nanobot.wiki",
+  "category": "AI 效率与自动化",
+  "pricing": "free",
+  "description": "nanobot是轻量开源AI代理工具，可在本地自有环境运行，支持多智能体并行拆分处理任务，可自由接入自选大模型、第三方工具与常用聊天应用，适合需要自主掌控数据与运行环境的开发者，无需将工作数据上传至第三方平台。"
+ },
+ {
+  "name": "this+that",
+  "url": "https://www.thisandthat.chat/",
+  "category": "AI 效率与自动化",
+  "pricing": "free",
+  "description": "this+that是一款跨渠道工作消息自动化处理工具，可自动抓取邮箱、Slack、Teams等渠道的工作消息，提炼生成结构化团队知识库、待办任务，并自动完成常规流程，适合需要在多工具间切换的中小团队，全程不使用用户消息训练AI，兼顾效率与数据隐私。"
+ },
+ {
+  "name": "口喷鸡 Blurt",
+  "url": "https://blurt.work",
+  "category": "AI 效率与自动化",
+  "pricing": "free",
+  "description": "对着 Mac 按一下 fn 说话，字就落在光标处，还能直接变成清单。语音在本地识别，说完到出字约 0.39 秒，免费不限字数。适合天天在终端和编辑器里跟 Claude Code、Codex 等 Agent 打交道的人，和云端听写工具最大的差别是不联网、不按字数收费。"
+ },
+ {
+  "name": "扣子",
+  "url": "https://www.coze.cn/",
+  "category": "AI 效率与自动化",
+  "pricing": "freemium",
+  "description": "扣子是字节跳动推出的无代码AI智能体搭建平台，通过可视化配置即可创建适配不同需求的专属AI助手，无需编写代码，适合普通用户、职场办公人员与内容创作者快速搭建定制化AI工具。"
+ },
+ {
+  "name": "百度搭子|DuMate",
+  "url": "https://www.dumate.cn",
+  "category": "AI 效率与自动化",
+  "pricing": "free",
+  "description": "百度搭子DuMate是百度推出的桌面端智能办公助手，支持自然语言指令完成跨应用跨文件操作、文档整理、流程自动化、低代码应用生成，本地运行保障数据安全，适合有批量文档处理、重复办公操作需求的办公人员与企业团队使用。"
+ },
+ {
+  "name": "纳米Work",
+  "url": "https://work.n.cn",
+  "category": "AI 效率与自动化",
+  "pricing": "freemium",
+  "description": "纳米Work是360旗下AI工作团队平台，让AI成为决策与执行团队。支持云端自动化任务，定制专属AI专家。具备安全底座、模型自动调度及共享工作记忆，助力高效协同与办公提效。"
+ },
+ {
+  "name": "Akkio",
+  "url": "https://www.akkio.com",
+  "category": "AI 数据分析",
+  "pricing": "freemium",
+  "description": "Akkio 是面向非技术人员的无代码 AI 数据分析平台，支持上传 Excel 等格式数据，通过自然语言提问自动完成建模、预测与可视化，生成图表和汇报看板，适合营销、销售、运营岗位快速从数据中获取业务洞察。"
+ },
+ {
+  "name": "Browse.ai",
+  "url": "https://www.browse.ai/",
+  "category": "AI 数据分析",
+  "pricing": "freemium",
+  "description": "Browse。ai 是一款无需代码的网页数据自动抓取工具，通过点选页面元素就能提取商品价格、招聘信息、企业名录等内容并整理成表格，支持定时自动更新，适合市场运营、销售人员和小企业主收集竞品数据与销售线索。"
+ },
+ {
+  "name": "ChatExcel-AI处理表格数据与生成PPT",
+  "url": "https://chatexcel.com/",
+  "category": "AI 数据分析",
+  "pricing": "freemium",
+  "description": "像聊天一样操作，Chatexcel会自动通过AI完成图表处理和分析，改变与表格数据的交互方式。从繁琐的公式与运算中解放出来，无需编写复杂的公式和代码，可专注于文件数据和分析本身。"
+ },
+ {
+  "name": "Cloudchipr",
+  "url": "https://cloudchipr.com/",
+  "category": "AI 数据分析",
+  "pricing": "freemium",
+  "description": "Cloudchipr是多云FinOps成本管理平台，可聚合多云成本数据、检测异常、自动清理闲置资源，帮助企业降低云与AI支出，适合FinOps、工程及管理团队使用。"
+ },
+ {
+  "name": "Ekamoira Google Search Console MCP",
+  "url": "https://app.ekamoira.com/tools/gsc",
+  "category": "AI 数据分析",
+  "pricing": "freemium",
+  "description": "Ekamoira Google Search Console MCP 可让你用自然语言查询谷歌搜索控制台数据，支持拉取点击量、展示次数、平均排名，核对网址收录状态与抓取问题，适配 SEO 优化和网站日常维护场景。"
+ },
+ {
+  "name": "Fair Price Calculator",
+  "url": "https://www.propsoch.com/fair-price-calculator?utm_source=product-hunt&ref=hao.aizhaozi.com",
+  "category": "AI 数据分析",
+  "pricing": "freemium",
+  "description": "Fair Price Calculator 是房产定价参考工具，输入开发商、位置或项目名称，即可对比周边同类型楼盘，结合八十余项指标给出报价公允度结论与推荐价格区间，适合看房购房者、房产置换家庭在交易前核对房价。"
+ },
+ {
+  "name": "Humata.ai",
+  "url": "https://www.humata.ai",
+  "category": "AI 数据分析",
+  "pricing": "freemium",
+  "description": "Humata。ai 是一款智能文档问答工具，上传技术论文、法律合同、研究报告等文件后，可直接提问获取带原文引用的答案，支持总结长篇文档、对比多份文件差异，适合科研人员、法务、学生等需要快速整理资料的人群。"
+ },
+ {
+  "name": "Kaggle",
+  "url": "https://www.kaggle.com/",
+  "category": "AI 数据分析",
+  "pricing": "free",
+  "description": "Kaggle 是面向数据科学领域的在线平台，提供公开数据集资源、编程竞赛入口、免费云端算力环境与机器学习交流社区，适合数据分析师、算法工程师、科研人员开展数据处理、模型训练与技术交流。"
+ },
+ {
+  "name": "Lightly AI",
+  "url": "https://lightly.ai/",
+  "category": "AI 数据分析",
+  "pricing": "freemium",
+  "description": "Lightly AI 是机器学习数据管理平台，能自动从海量图像、视频等数据中筛选出最具代表性的核心样本，压缩数据集规模同时保留训练效果，还支持数据集版本管理与团队协作，适合需要快速迭代数据集、缩短模型训练周期的机器学习团队。"
+ },
+ {
+  "name": "LlamaIndex",
+  "url": "https://www.llamaindex.ai",
+  "category": "AI 数据分析",
+  "pricing": "free",
+  "description": "LlamaIndex 是一款面向复杂文档处理的工具，可将扫描件、手写文稿、混乱表格、图表等非结构化数据转换为大模型可用的结构化数据，内置自动纠错机制，适合法律、金融、医疗行业的文档管理岗，以及需要做数据预处理的 AI 开发人员使用。"
+ },
+ {
+  "name": "Milvus",
+  "url": "https://milvus.io",
+  "category": "AI 数据分析",
+  "pricing": "free",
+  "description": "做生成式 AI 应用时，向量检索的数据量一涨就卡顿、扩容麻烦，Milvus 就是为这类问题准备的开源向量数据库。pip 装完就能在笔记本上跑，也能横向扩展到上百亿向量，性能掉得很少。适合做 RAG、图像检索的开发者，和同类比，它把单机、分布式、云托管几种部署方式都摆在同一套接口下。"
+ },
+ {
+  "name": "PostHog",
+  "url": "https://posthog.com",
+  "category": "AI 数据分析",
+  "pricing": "freemium",
+  "description": "PostHog 是整合产品分析、会话回放、错误追踪与业务数据的一体化平台，支持自然语言查询，适配产品、工程及增长团队排查转化下滑、定位报错来源。与同类工具不同，其免费额度覆盖全部功能，97%的用户无需付费，无需绑定信用卡即可使用。"
+ },
+ {
+  "name": "RAGFlow",
+  "url": "https://ragflow.io",
+  "category": "AI 数据分析",
+  "pricing": "freemium",
+  "description": "面向RAG应用的一站式开发平台，内置数据接入管线处理多格式文档，融合向量、全文、张量检索提升回答准确率，支持可视化搭建集成RAG、工具与MCP的智能体，适合需要搭建私有知识库问答的开发者使用。"
+ },
+ {
+  "name": "Serene",
+  "url": "https://www.serenereader.in/",
+  "category": "AI 数据分析",
+  "pricing": "freemium",
+  "description": "Serene 是一款在线 PDF 阅读优化工具，可将排版复杂的密集 PDF 重新排版为清爽易读的页面，自动生成核心内容总结，支持添加高亮标注与笔记，适合需要阅读大量行业报告、学术文献的用户梳理资料。"
+ },
+ {
+  "name": "Simpl.",
+  "url": "https://www.simpl.sh/",
+  "category": "AI 数据分析",
+  "pricing": "freemium",
+  "description": "Simpl 是轻量级关系型数据库浏览工具，输入连接信息即可自动识别表结构、字段与外键关联，支持多维筛选搜索、关联数据联动展示与快捷键操作，适合需要频繁核对原始数据的开发者、运营人员使用。"
+ },
+ {
+  "name": "Your Domains Wrapped 2025",
+  "url": "https://domained.app/wrapped",
+  "category": "AI 数据分析",
+  "pricing": "freemium",
+  "description": "Your Domains Wrapped 2025 是域名年度回顾生成工具，支持单域查询、批量粘贴域名、导入 Csv 文件三种方式，汇总整理你名下所有域名的年度使用记录，生成清晰的复盘清单，适合维护多个站点的站长、域名收藏者做年底数据梳理。"
+ },
+ {
+  "name": "Zik Analytics",
+  "url": "https://www.zikanalytics.com",
+  "category": "AI 数据分析",
+  "pricing": "freemium",
+  "description": "Zik Analytics 是面向电商卖家的产品研究工具，整合市场销售数据、竞争对手情报与 AI 筛选功能，支持 eBay、Shopify 平台，可挖掘高需求高利润潜力产品、分析市场趋势、监控竞品动态，适合 dropshipping 卖家与持有库存的电商卖家选品参考。"
+ },
+ {
+  "name": "browse AI",
+  "url": "https://www.browse.ai",
+  "category": "AI 数据分析",
+  "pricing": "freemium",
+  "description": "Browse AI 是零代码网页数据采集与监控平台，无需编写脚本，通过点选即可从任意网页提取结构化数据，支持定时监控网页变动、自动推送更新提醒，可对接数千种办公业务工具，适合无编程基础的市场调研、竞品分析、价格追踪人员使用。"
+ },
+ {
+  "name": "智元|AGIBOT WORLD",
+  "url": "https://agibot-world.cn",
+  "category": "AI 数据分析",
+  "pricing": "free",
+  "description": "AGIBOT WORLD是智元机器人联合多家机构开源的工业级真机数据集，基于全域真实场景采集，含超百万条动作轨迹，覆盖家居、餐饮、工业、商超、办公五大场景，助力具身智能研究与通用机器人模型训练。"
+ },
+ {
+  "name": "蝉镜",
+  "url": "https://www.chanjing.cc/",
+  "category": "AI 数据分析",
+  "pricing": "freemium",
+  "description": "蝉镜是服务短视频领域的AI数据分析平台，覆盖抖音、快手等主流平台，支持热榜监控、达人账号分析、带货商品数据追踪，还能拆解爆款视频脚本、AI辅助生成内容，适合短视频创作者、MCN运营人员、电商品牌方使用。"
+ },
+ {
+  "name": "CopilotKit",
+  "url": "https://www.copilotkit.ai",
+  "category": "AI 模型与平台",
+  "pricing": "freemium",
+  "description": "CopilotKit是可自托管的企业级AI智能体应用开发框架，支持将任意智能体接入自有产品、Slack、Teams等渠道，适配多类主流智能体开发框架，可实现生成式UI、应用内操作、自动学习等能力，适合需要在真实业务场景落地AI助手的企业团队使用。"
+ },
+ {
+  "name": "Dawiso AI Context Layer",
+  "url": "https://www.dawiso.com/context-layer",
+  "category": "AI 模型与平台",
+  "pricing": "freemium",
+  "description": "Dawiso AI Context Layer 是为 AI 代理提供统一治理数据上下文的工具，可整合分散的数据目录、业务术语表与数据血缘关系，支持 MCP 协议接入，能约束模型输出、降低幻觉与合规风险，适合搭建企业级大语言模型应用、对数据准确性要求高的开发团队使用。"
+ },
+ {
+  "name": "Durable AI",
+  "url": "https://durable.co/",
+  "category": "AI 模型与平台",
+  "pricing": "freemium",
+  "description": "Durable AI 是面向个体经营者和小企业主的一站式线上生意搭建工具，无需编程设计经验，30 秒即可生成完整商业网站，还配套客户获取、业务增长功能，支持教练、手工艺人、清洁服务、摄影等多行业定制化建站，省去分别搭建不同工具的麻烦。"
+ },
+ {
+  "name": "FastGPT",
+  "url": "https://www.fastgpt.cn/",
+  "category": "AI 模型与平台",
+  "pricing": "free",
+  "description": "FastGPT 是企业级 AI 生产力引擎，通过可视化工作流搭建业务智能体，支持接入企业知识库与业务系统，兼容主流大模型，提供权限管理与私有化部署，适合需要快速落地 AI 应用的企业团队。"
+ },
+ {
+  "name": "Fireworks.ai",
+  "url": "https://fireworks.ai",
+  "category": "AI 模型与平台",
+  "pricing": "freemium",
+  "description": "Fireworks。ai 是面向开发者和企业的高性能模型推理与托管平台，支持 DeepSeek、Llama 等开源大模型的一键部署调用，可用于代码助手、对话机器人、自动化代理、企业知识库检索等场景，无需预留容量即可按需调用。"
+ },
+ {
+  "name": "Framer AI",
+  "url": "https://www.framer.com/ai",
+  "category": "AI 模型与平台",
+  "pricing": "freemium",
+  "description": "Framer AI 是 Framer 平台内置的网页生成功能，支持输入文字描述或上传手绘草图生成完整可编辑的网页雏形，自动适配多端屏幕尺寸，生成后可直接在平台内调整细节、添加动画，适合设计师快速产出原型，也方便非技术人员快速搭建个人作品页或小型官网。"
+ },
+ {
+  "name": "Free AI Tool For That",
+  "url": "https://www.facebook.com/",
+  "category": "AI 模型与平台",
+  "pricing": "free",
+  "description": "Free AI Tool For That 是免费的通用AI辅助平台，支持多轮对话、文本生成、基础逻辑分析与自由主题探索，可快速输出不同风格文字、拆解总结输入材料提取重点，适合AI新手熟悉交互逻辑，也适合需要频繁试错、积累创作灵感的用户使用。"
+ },
+ {
+  "name": "Gapwise",
+  "url": "https://www.gapwise.site/",
+  "category": "AI 模型与平台",
+  "pricing": "freemium",
+  "description": "Gapwise 是一个 AI 构建的交互式工具市场平台，用户可以发现、浏览、二次创作和发布基于 Claude 打造的各类互动工具（Artifacts），涵盖软件开发、设计、营销、金融等类别。"
+ },
+ {
+  "name": "Genkit",
+  "url": "https://genkit.dev",
+  "category": "AI 模型与平台",
+  "pricing": "free",
+  "description": "Genkit是谷歌推出的开源AI应用开发框架，支持TypeScript、Go、Python、Dart四种语言，可快速搭建能调用外部工具、生成可交互界面的全栈智能体应用，无需从零对接大模型接口，适合需要开发多端智能体的开发者使用。"
+ },
+ {
+  "name": "Glama",
+  "url": "https://glama.ai",
+  "category": "AI 模型与平台",
+  "pricing": "freemium",
+  "description": "Glama是面向MCP协议生态的服务器检索与管理平台，收录超11万个MCP服务器、近4万个连接器与百万级工具，支持在线测试、评分筛选，帮开发者快速找到适配AI代理的可用MCP服务，省去逐个搜索验证的麻烦。"
+ },
+ {
+  "name": "Groq",
+  "url": "https://groq.com/",
+  "category": "AI 模型与平台",
+  "pricing": "freemium",
+  "description": "Groq 是基于自研 LPU 语言处理单元芯片的 AI 推理平台，提供云端推理接口，可快速运行大语言模型，降低推理延迟与算力成本。适合需要快速集成大模型的开发者团队，以及对实时性要求高的客服、数据分析等业务场景。"
+ },
+ {
+  "name": "Hal9",
+  "url": "https://www.tiktok.com/@hal9ai",
+  "category": "AI 模型与平台",
+  "pricing": "freemium",
+  "description": "Hal9 是一款 AI 驱动的智能工作流自动化工具，可将日常重复操作配置为可自动运行的流程，支持多步骤任务串联、按规则触发执行，适合需要跨系统处理数据、定期完成固定事务的用户使用。"
+ },
+ {
+  "name": "Haystack",
+  "url": "https://haystack.deepset.ai",
+  "category": "AI 模型与平台",
+  "pricing": "free",
+  "description": "Haystack 是开源大模型应用编排框架，将检索、推理、记忆、工具调用拆成独立可调试的模块化组件，兼容主流大模型与向量数据库，支持生产级部署，适合需要透明可控、可落地生产环境的 AI 应用开发团队。"
+ },
+ {
+  "name": "Hugging Face",
+  "url": "https://huggingface.co/",
+  "category": "AI 模型与平台",
+  "pricing": "free",
+  "description": "Hugging Face 是面向机器学习开发者与研究者的模型共享平台，汇聚大量社区预训练模型、公开数据集与可交互 AI 演示应用，支持多框架模型下载、在线推理调用、版本管理与团队协作，可快速完成模型微调、效果验证与成果分享。"
+ },
+ {
+  "name": "Kimi API 开放平台",
+  "url": "https://platform.kimi.com",
+  "category": "AI 模型与平台",
+  "pricing": "paid",
+  "description": "Kimi API 开放平台是大模型开放平台，提供 K2。6、K2。5 等多版本模型，内置联网搜索、Excel 分析、代码执行等官方工具，支持长上下文处理，适合开发者集成智能能力，也适用于合同审核、竞品分析、科研辅助等场景。"
+ },
+ {
+  "name": "LangBot",
+  "url": "https://langbot.app",
+  "category": "AI 模型与平台",
+  "pricing": "freemium",
+  "description": "开源的即时通讯AI机器人平台，一套代码即可将AI应用部署到QQ、企业微信、飞书、钉钉、Discord等主流聊天平台，省去逐平台单独开发机器人的重复工作，适合需要搭建生产可用聊天机器人的开发者与运营团队使用。"
+ },
+ {
+  "name": "LiteLLM",
+  "url": "https://docs.litellm.ai",
+  "category": "AI 模型与平台",
+  "pricing": "free",
+  "description": "LiteLLM 是支持100+大模型的统一接入Python SDK与AI网关，一套代码适配OpenAI、Anthropic等多家模型，自动统一返回格式，支持虚拟密钥、预算管控与成本统计，适合需要对接多模型的开发者与团队使用。"
+ },
+ {
+  "name": "Llama",
+  "url": "https://llama.app",
+  "category": "AI 模型与平台",
+  "pricing": "free",
+  "description": "由llama.cpp团队与Hugging Face联合开发的桌面端开源应用，可在Mac、Windows设备本地运行各类开源大模型，支持离线对话与本地API调用，适合需要离线使用AI、注重数据隐私的用户。"
+ },
+ {
+  "name": "LocalAI",
+  "url": "https://localai.io",
+  "category": "AI 模型与平台",
+  "pricing": "freemium",
+  "description": "LocalAI是MIT协议开源的本地AI运行引擎，无需GPU即可在普通电脑上运行文本、语音、图像、视频等多类模型，兼容OpenAI、Anthropic等主流API接口，数据全程留在本地，适合有离线部署、隐私敏感需求的开发者与个人用户使用。"
+ },
+ {
+  "name": "LumaByte",
+  "url": "https://lumabyte.com",
+  "category": "AI 模型与平台",
+  "pricing": "free",
+  "description": "LumaByte 是一款免费开源的本地运行 AI 助手，无需注册账号、不上传数据到云端，可在电脑上完成对话问答、文档总结、自主网页调研、本地生成图片，还能整合日历、待办和消息提醒，适合注重隐私的普通用户和本地 AI 爱好者使用。"
+ },
+ {
+  "name": "MOVO",
+  "url": "https://www.himovo.com",
+  "category": "AI 模型与平台",
+  "pricing": "free",
+  "description": "MOVO 是基于 DSH 原生运行时的开源企业级智能体平台，提供权限治理、知识检索及浏览器与代码执行环境。它补齐 DSH 缺失的企业控制面，避免自建运维成本。适合需规模化落地 AI 的企业团队，相比直接基于 DSH 开发，其优势在于统一生命周期管理、受控升级及复用现有插件生态。"
+ },
+ {
+  "name": "Meyo",
+  "url": "https://www.meyo123.com/",
+  "category": "AI 模型与平台",
+  "pricing": "free",
+  "description": "美团AI原生Agent社区觅游，定位低门槛、近关系的共生社区，将Agent重新定义为赛博伙伴。用户可派遣Agent入驻，通过体检获得人格标签与能力雷达图，以第一人称社交、学习、实战，实现能力展示、流通"
+ },
+ {
+  "name": "MiniMax",
+  "url": "https://www.minimaxi.com",
+  "category": "AI 模型与平台",
+  "pricing": "freemium",
+  "description": "MiniMax 是覆盖文本、语音、视频、图像、音乐五大方向的融合类AI平台，支持代码生成、超长上下文处理，可通过Agent自动协同完成办公自动化、内容创作任务，面向日常办公用户、内容创作者与开发者开放API及MCP服务。"
+ },
+ {
+  "name": "ModelScope 魔搭社区",
+  "url": "https://www.modelscope.cn",
+  "category": "AI 模型与平台",
+  "pricing": "free",
+  "description": "ModelScope——汇聚各领域先进的机器学习模型，提供模型探索体验、推理、训练、部署和应用的一站式服务。在这里，共建模型开源社区，发现、学习、定制和分享心仪的模型。"
+ },
+ {
+  "name": "NexusDesk",
+  "url": "https://www.aidet.top",
+  "category": "AI 模型与平台",
+  "pricing": "free",
+  "description": "NexusDesk 是支持私有化部署的开源智能客服平台，串联知识检索、工具调用与工单处理。其核心差异在于 Agent 写操作需人工确认，且配置具备草稿发布回滚机制，确保变更可追溯。适合对数据安全、审计合规有严格要求的企业及系统集成商使用。"
+ },
+ {
+  "name": "Ollama",
+  "url": "https://ollama.com/",
+  "category": "AI 模型与平台",
+  "pricing": "freemium",
+  "description": "Ollama 是可本地与云端运行的开源大模型管理工具，支持命令行下载、切换各类开源模型，全程不存储用户提示词，兼顾隐私与算力需求，适合本地部署大模型、对数据安全有要求的开发者使用。"
+ },
+ {
+  "name": "OmniRoute",
+  "url": "https://omniroute.online",
+  "category": "AI 模型与平台",
+  "pricing": "free",
+  "description": "OmniRoute by Cheaper Inference 是一款开源 AI 模型路由工具，可将352家大模型服务统一到一个兼容OpenAI的本地接口，支持自动故障切换。面向需要对接多模型的开发者，省去多接口适配的麻烦，目前已获得79.2k GitHub星标。"
+ },
+ {
+  "name": "Open WebUI",
+  "url": "https://openwebui.com",
+  "category": "AI 模型与平台",
+  "pricing": "free",
+  "description": "自托管开源AI运行平台，可对接本地与云端各类大模型，支持Python扩展功能，数据完全自主掌控，适合需要私有化部署AI服务的个人开发者、团队及对数据合规有要求的企业使用。"
+ },
+ {
+  "name": "OpenAI Academy",
+  "url": "https://academy.openai.com/",
+  "category": "AI 模型与平台",
+  "pricing": "free",
+  "description": "OpenAI Academy 是 OpenAI 官方推出的一个免费在线学习平台，旨在帮助个人和组织掌握有效运用人工智能的知识与技能，以抓住 AI 时代的新机遇。"
+ },
+ {
+  "name": "OpenRouter",
+  "url": "https://openrouter.ai/",
+  "category": "AI 模型与平台",
+  "pricing": "freemium",
+  "description": "OpenRouter 是统一的多模型接入平台，用一套 API 就能调用 GPT、Claude、Llama 等数十种主流与开源大模型，支持按成本、速度、能力自动路由选模，可批量对比多模型输出，按实际 token 用量付费，适合需要灵活切换模型的开发者与应用场景。"
+ },
+ {
+  "name": "Osmantic",
+  "url": "https://osmantic.com",
+  "category": "AI 模型与平台",
+  "pricing": "free",
+  "description": "把普通PC、Mac或Linux设备改造成私有AI服务器，一键部署全套本地AI服务，无需逐组件搭建，适合需要数据不出本地的自托管AI使用者，开源免费可自主掌控运行状态。"
+ },
+ {
+  "name": "Pal AI Lab",
+  "url": "https://palailab.org",
+  "category": "AI 模型与平台",
+  "pricing": "free",
+  "description": "Pal AI Lab是开源人格AI项目集合，提供事件驱动智能体框架、桌面AI伙伴与扩展开发工具，支持文字、语音交流及经授权的电脑操作，面向Windows和macOS用户，所有项目代码开源可自由修改，方便开发者搭建可长期运行的个性化AI助手。"
+ },
+ {
+  "name": "Playabl | AI游戏",
+  "url": "https://playabl.ai",
+  "category": "AI 模型与平台",
+  "pricing": "freemium",
+  "description": "Playabl是一个AI游戏创作平台，支持通过聊天对话的方式，无需代码即可创建游戏和互动体验。平台涵盖世界杯、体育、益智等多种游戏类型，旨在让用户通过自然语言指令轻松实现创意，降低游戏开发门槛。"
+ },
+ {
+  "name": "Replicate",
+  "url": "https://replicate.com/",
+  "category": "AI 模型与平台",
+  "pricing": "freemium",
+  "description": "Replicate 是可通过 API 直接调用各类 AI 模型的平台，无需自行配置硬件与运行环境，一行代码即可调用图像生成、语音合成、视频生成、大语言模型等多模态模型，也支持部署自定义训练的模型，适合需要快速集成 AI 能力到应用中的开发者。"
+ },
+ {
+  "name": "SuperFam",
+  "url": "https://www.superfam.app/",
+  "category": "AI 模型与平台",
+  "pricing": "freemium",
+  "description": "SuperFam 是面向家庭的一体化财务管理移动应用，可同时统计个人与家庭支出、可视化展示消费趋势、分类梳理开销，还能聚合分散在各平台的账单与投资持仓数据，适合需要共同打理家庭财务的多成员家庭使用。"
+ },
+ {
+  "name": "The AI Revenue Engine",
+  "url": "https://adenhq.com/",
+  "category": "AI 模型与平台",
+  "pricing": "freemium",
+  "description": "The AI Revenue Engine 是专为自主数字劳动与 AI 智能体设计的基础设施平台，提供计算、存储、安全虚拟桌面等全套云资源，支持智能体工作流生成、专属算力网络、数据连接器与开源智能体框架，适合搭建长期稳定运行的自动化业务流程。"
+ },
+ {
+  "name": "Windmill",
+  "url": "https://www.windmill.dev",
+  "category": "AI 模型与平台",
+  "pricing": "freemium",
+  "description": "Built for teams to create and collaborate on internal software. Loved by engineers for full code flexibility and control over their infrastructure. Open-source and self-hostable."
+ },
+ {
+  "name": "deepseek harness",
+  "url": "https://www.deepseek.com/harness/",
+  "category": "AI 模型与平台",
+  "pricing": "paid",
+  "description": "DeepSeek Harness是deepseek深度求索开源的AI工作平台，基于Cordis插件架构，支持文档整理、表格分析、代码编写、自动化任务与插件扩展，提供桌面端和Web端，MIT开源协议。"
+ },
+ {
+  "name": "fast.ai",
+  "url": "https://www.fast.ai",
+  "category": "AI 模型与平台",
+  "pricing": "free",
+  "description": "fast。ai 是面向编程学习者与开发者的深度学习实践平台，配套实战课程、高层框架封装、可逆数据处理管线与交互式文档环境，支持快速搭建图像分类、文本生成、预测类模型，跳过冗余的理论推导与环境配置步骤，适合需要快速跑通实验、交付原型的技术人员与科研人员。"
+ },
+ {
+  "name": "llmspeed",
+  "url": "https://llmspeed.dev/",
+  "category": "AI 模型与平台",
+  "pricing": "free",
+  "description": "llmspeed 是面向本地大模型用户的运行速度查询平台，聚合社区实测的不同硬件搭配各类开源大模型的推理速度数据，用户可以分别按硬件型号、模型版本两个维度检索对应运行表现，帮助用户在购买硬件、部署本地大模型之前提前预估实际运行速度，避免选购失误。"
+ },
+ {
+  "name": "magpie",
+  "url": "https://usemagpie.ai",
+  "category": "AI 模型与平台",
+  "pricing": "free",
+  "description": "为各类AI编程代理提供统一API网关，解决不同代理仅适配单一模型接口的兼容问题，支持Claude、GPT、DeepSeek等多模型切换，适合AI编程开发者使用，按实际用量计费。"
+ },
+ {
+  "name": "olud.ai",
+  "url": "https://olud.ai",
+  "category": "AI 模型与平台",
+  "pricing": "free",
+  "description": "olud.ai是AI项目与模型索引平台，收录超1万个开源AI项目、350余个AI模型，每小时更新新发布内容，每日更新模型评测与定价数据，支持开源与商用AI项目、模型、替代方案的并列对比，帮开发者快速筛选合适的AI工具与模型，无需逐个站点检索。"
+ },
+ {
+  "name": "touri.ai",
+  "url": "https://touri.ai",
+  "category": "AI 模型与平台",
+  "pricing": "free",
+  "description": "touri.ai 是一款开源免费的 Mac 桌面应用，可在本地隔离虚拟机中运行 AI 编程代理，每个代理自带浏览器、终端、任务调度与代码仓库访问能力，支持实时查看代理操作过程并审批敏感动作。它适配已有 Claude、GPT 等大模型订阅的开发者，无需额外付费开通平台服务。"
+ },
+ {
+  "name": "华为智果园",
+  "url": "https://www.huaweicloud.com/agentorchard/",
+  "category": "AI 模型与平台",
+  "pricing": "paid",
+  "description": "华为智果园是面向开发者与业务人员的智能体开发管理平台，通过可视化配置即可完成模型接入、知识挂载与工作流编排，快速搭建客服问答机器人、企业知识库助手等专属数字员工，支持一键发布到网页、小程序或企业内部系统，内置权限管控与审计日志，适合中小企业数字化部门与独立开发者使用。"
+ },
+ {
+  "name": "天工开帧-谁场所",
+  "url": "https://www.19980303.xyz",
+  "category": "AI 模型与平台",
+  "pricing": "free",
+  "description": "天工开帧-谁场所是个人运营的本地AI实操教程博客，收录了大模型部署、TTS语音合成、数字人搭建、GPU加速等方向的实操内容，适合想动手折腾本地AI的开发者与爱好者，所有教程都是作者亲身踩坑跑通后整理的，可直接照着操作，无需自行反复试错。"
+ },
+ {
+  "name": "小米MiMo",
+  "url": "https://mimo.mi.com/",
+  "category": "AI 模型与平台",
+  "pricing": "paid",
+  "description": "小米MiMo是小米推出的全模态大模型服务平台，提供多档位推理、语音合成、语音识别能力，普通用户可通过网页、桌面端完成办公创作，开发团队可通过API接入模型能力，配套编程助手、智能体产品适配不同使用场景。"
+ },
+ {
+  "name": "快手AI开放平台",
+  "url": "https://ai.kuaishou.com",
+  "category": "AI 模型与平台",
+  "pricing": "paid",
+  "description": "快手AI开放平台是快手推出的AI服务平台，提供全球领先的AI技术服务，产品服务涵盖计算机视觉、计算机图形学、自然语言处理、音频技术、视频技术、知识图谱、机器学习、AR/VR/MR、多模态等核心技术领域。"
+ },
+ {
+  "name": "智谱AI",
+  "url": "https://www.zhipuai.cn/",
+  "category": "AI 模型与平台",
+  "pricing": "freemium",
+  "description": "智谱AI是基于自研GLM大模型体系的智能开发与服务平台，提供多模态模型接口、智能体自主规划、模型微调、AI搜索等工具链，支持多步任务自动拆解、实时信息检索、图文生成，适配开发者搭建定制化应用，也能满足日常办公的资料整理、纪要排版等需求。"
+ },
+ {
+  "name": "百炼",
+  "url": "https://bailian.aliyun.com/",
+  "category": "AI 模型与平台",
+  "pricing": "freemium",
+  "description": "阿里云百炼是集成多模态模型调用、应用开发与业务管理的AI平台，支持通过API调用大语言模型、文生图、文生视频等能力，内置智能体、工作流与多租户空间管理，适合需要快速集成AI能力的开发者、应用产品团队与企业用户。"
+ },
+ {
+  "name": "百炼",
+  "url": "https://bailian.console.aliyun.com/",
+  "category": "AI 模型与平台",
+  "pricing": "freemium",
+  "description": "百炼是阿里云推出的大模型服务平台，整合了模型开发、应用构建和能力集成功能，支持大模型训练、微调和部署，可通过API快速接入业务，适合有技术背景的开发者、企业，以及想快速验证AI应用原型的产品经理和创业者。"
+ },
+ {
+  "name": "知途·拾价",
+  "url": "https://price.yufu.pub",
+  "category": "AI 模型与平台",
+  "pricing": "free",
+  "description": "知途·拾价是AI商品比价工具，聚合第三方卡网的ChatGPT、Claude、Gemini等AI订阅与账号报价，跨店对比价格、规格、质保与更新时间，支持按平台和购买条件筛选，附带AI接口与IP检测工具，不参与交易，适合有AI账号采购需求的用户筛选高性价比渠道。"
+ },
+ {
+  "name": "阶跃星辰（Step-1V）",
+  "url": "https://www.stepfun.com/",
+  "category": "AI 模型与平台",
+  "pricing": "freemium",
+  "description": "阶跃星辰（Step-1V）是阶跃星辰推出的多模态大模型助手，能理解图片与文字并生成回答，支持看图问答、文案撰写、代码编写与知识查询等任务。适合需要处理图文混合内容的创作者、学生与开发者，也适合日常想用 AI 辅助学习办公的个人用户。"
+ },
+ {
+  "name": "阿里云百炼平台",
+  "url": "https://bailian.console.aliyun.com",
+  "category": "AI 模型与平台",
+  "pricing": "paid",
+  "description": "阿里云百炼平台是面向企业和开发者的大模型应用开发平台，支持通义系列及主流开源模型调用，可搭建知识库问答、智能客服，提供工作流编排、轻量级微调服务，适合有业务落地需求、缺乏算法调优经验的开发团队快速上线AI应用。"
+ },
+ {
+  "name": "零一万物",
+  "url": "https://www.01.ai/",
+  "category": "AI 模型与平台",
+  "pricing": "freemium",
+  "description": "零一万物是李开复创立的企业级大模型服务商，提供老板AI、投资官AI、销冠AI三类决策类产品，覆盖制造、能源、农业等多行业场景方案，支持私有化部署，适合企业管理者、投资决策人员与销售团队使用。"
+ },
+ {
+  "name": "魔珐星云",
+  "url": "https://www.xingyun3d.com/",
+  "category": "AI 模型与平台",
+  "pricing": "freemium",
+  "description": "魔珐星云是全球领先的3D具身智能体基础设施平台，致力于让每块屏幕与应用都拥有能表达、会办事的AI交互智能体。它支持开发者快速构建有形象、有大脑的3D数字人，可部署于手机、大屏、机器人等终端。"
+ },
+ {
+  "name": "1Code",
+  "url": "https://1code.dev/",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "1Code 是为 Claude Code 打造的类 Cursor 可视化桌面应用，支持并行多会话、实时 Diff 预览、Git Worktree 隔离与 GitHub 集成，代码直连 Anthropi"
+ },
+ {
+  "name": "ADB Wrench",
+  "url": "https://adbwrench.com/",
+  "category": "AI 编程与开发",
+  "pricing": "free",
+  "description": "ADB Wrench 是运行在浏览器中的安卓调试工具，无需安装客户端或配置本地 SDK，连接设备后即可调用安卓底层接口，支持完整 Shell 交互、日志抓取、应用管理、屏幕镜像、性能监控等功能，适合需要批量测试安卓设备或修改底层参数的开发者使用。"
+ },
+ {
+  "name": "AI Skills for Real Engineers",
+  "url": "https://aihero.dev/skills",
+  "category": "AI 编程与开发",
+  "pricing": "free",
+  "description": "面向软件工程师的开源AI技能集合，覆盖从需求梳理、规格编写、任务拆分到代码实现、代码评审的完整研发流程，可直接搭配AI编程工具使用，适合日常开展软件开发工作的工程师。"
+ },
+ {
+  "name": "Agentbox",
+  "url": "https://agentbox.ac",
+  "category": "AI 编程与开发",
+  "pricing": "free",
+  "description": "Agentbox 是面向 Claude Code、Codex 智能代理的免费开源桌面并行管理工具，可将代理待办统一收纳进收件箱，每个代理配备独立工作树互不干扰，支持列表、看板双视图切换、项目优先级排序与快捷指令操作，适合同时运行多个开发任务的程序员，无需额外付费。"
+ },
+ {
+  "name": "Amazon CodeWhisperer",
+  "url": "https://aws.amazon.com/codewhisperer/",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "Amazon CodeWhisperer 是面向软件开发人员的生成式 AI 助手，可在代码编辑器内提供代码补全，支持自动编写文档、单元测试、代码审查与程序重构，还能扫描代码安全漏洞、提供云资源成本优化与架构建议，适合日常编写修改代码、维护老项目的工程人员使用。"
+ },
+ {
+  "name": "Amazon Q 开发者版",
+  "url": "https://aws.amazon.com/codewhisperer",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "Amazon Q Developer（原CodeWhisperer）是AWS亚马逊的生成式AI编程助手，可在IDE中生成、调试、重构代码，并提供安全扫描、测试生成与智能体编码等能力，提升开发效率。"
+ },
+ {
+  "name": "Appwrite",
+  "url": "https://appwrite.io",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "Appwrite 是开源后端云平台，整合用户认证、数据库、文件存储、云函数、消息推送、实时通信、站点托管等后端能力，适配AI代理调用，可直接从Git部署前端项目，适合快速上线应用的开发团队与独立开发者，省去从零搭建后端的重复工作。"
+ },
+ {
+  "name": "AskCodi",
+  "url": "https://www.askcodi.com",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "AskCodi 是本地优先的 AI 编程代理工具，内置 CTO 代理可自动拆解项目任务，调度后端、前端、测试、安全等专家代理在独立 git 工作树中并行开发、相互审查代码并合并提交，支持切换 50 余种模型，适合个人开发者与小型团队快速开发完整功能、验证原型。"
+ },
+ {
+  "name": "BLA",
+  "url": "https://bla.tools",
+  "category": "AI 编程与开发",
+  "pricing": "free",
+  "description": "BLA是面向AI自动化逆向工程流程的代码保护工具，支持JavaScript、Electron、WebAssembly、Python等多类构建产物，全程保留原有运行时行为，可干扰AI逆向分析流程，适合需要防范代码被AI逆向分析的开发者使用。"
+ },
+ {
+  "name": "Beautiful Rust",
+  "url": "https://www.beautifulrust.dev",
+  "category": "AI 编程与开发",
+  "pricing": "free",
+  "description": "给AI编码代理用的Rust规范工具集，内置三套技能与可直接复用的Clippy配置，解决AI生成Rust代码不符合惯用规范、跨语言移植易出错、代码评审缺统一标准的问题，适配主流编码代理，适合Rust开发者与AI编码使用者。"
+ },
+ {
+  "name": "Bito",
+  "url": "https://bito.ai",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "Bito 是面向 AI 编程代理的成本管控与路由工具，可对接 Claude Code、Cursor、Codex、GitHub Copilot，自动匹配代码上下文、按任务复杂度分发到适配的大模型，降低开发代理的使用成本，适合使用 AI 编程工具的研发团队。"
+ },
+ {
+  "name": "BlinqIO",
+  "url": "https://blinq.io/product-hunt",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "BlinqIO是AI驱动的自动化测试平台，可在数分钟内自动生成可运行的Playwright测试代码，支持自愈测试适配UI元素变动，可对接主流CI/CD流程，测试资产自主可控无厂商锁定，适合软件开发与测试团队降低测试搭建与维护成本。"
+ },
+ {
+  "name": "Bloop",
+  "url": "https://www.bloop.ai",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "Bloop是面向工程团队的自主AI代理工作协调工具，可设定目标与执行步骤，串联多代理任务、协调依赖顺序，完成后可直接审查评估产出结果，适合用AI代理处理代码、文档批量任务的工程师。"
+ },
+ {
+  "name": "Bolt.new",
+  "url": "https://bolt.new/",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "Bolt。new是通过自然语言对话创建应用和网站的AI工具，输入文字描述需求即可自动生成代码与界面，支持从Figma、GitHub导入设计系统，内置上下文管理可处理较大项目，适合产品经理、设计师、创业者快速生成原型，也适合开发团队按品牌规范生成代码。"
+ },
+ {
+  "name": "Build Secure AI Applications",
+  "url": "https://promptfoo.dev",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "Build Secure AI Applications 是开源大模型应用安全测试工具，可自动模拟注入、越狱、数据泄露等攻击，提前排查AI应用漏洞，免费版支持本地部署，适配CI/CD流水线，适合个人开发者与企业团队使用，可嵌入现有开发流程。"
+ },
+ {
+  "name": "Claude Code",
+  "url": "https://code.claude.com",
+  "category": "AI 编程与开发",
+  "pricing": "paid",
+  "description": "Anthropic 推出的 AI 编程智能体，可在终端、IDE、Slack 或网页端运行，承接 bug 修复、测试编写、长期代码迁移等开发任务，全程支持人工引导与审查，适合各阶段开发者使用。"
+ },
+ {
+  "name": "Cloudroom",
+  "url": "https://www.cloudroom.dev",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "Cloudroom是开源的云端AI编程代理运行平台，支持调用已有的Claude、Codex等订阅账号，在独立云端沙箱内并行运行多个编程代理，关闭本地设备后任务仍可持续执行，适合需要并行处理多开发任务的开发者，不绑定单一AI工具生态。"
+ },
+ {
+  "name": "Code-Graph-RAG",
+  "url": "https://code-graph-rag.com",
+  "category": "AI 编程与开发",
+  "pricing": "free",
+  "description": "面向多语言大型代码仓库的开源代码分析工具，用知识图谱梳理跨语言代码结构，支持自然语言查询与精准代码修改，解决人工跨语言梳理依赖、追踪调用链效率低的问题，适合维护多语言单体仓库的开发团队使用。"
+ },
+ {
+  "name": "CodeBuddy",
+  "url": "https://www.codebuddy.cn/",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "腾讯云工具 CodeBuddy 是下一代 AI Code Editor。Powered 由 Tencent Yuanbao Code Large Model 提供支持，包括代码补全、错误诊断、技术 Q&A 和性能优化等服务。Supporting 支持主流编程语言，编码效率提升 90%，代码错误率降低 35%，使其适用于企业级应用开发和教学实践。"
+ },
+ {
+  "name": "CodeFuse",
+  "url": "https://codefuse.ai",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "CodeFuse 是一款 AI 驱动的开发平台，可自动生成代码片段、完成代码审查、生成测试用例，还能提供代码补全建议与漏洞检测。适合日常编写大量代码的开发者，以及需要频繁做代码审查和测试的团队。"
+ },
+ {
+  "name": "CodeGeeX",
+  "url": "https://codegeex.cn/",
+  "category": "AI 编程与开发",
+  "pricing": "free",
+  "description": "CodeGeeX 是一款智能编程助手，支持根据上下文自动补全代码、一键生成中文注释、跨语言代码转换，还能通过智能问答解答开发疑问，适合日常需要频繁编写代码、处理多语言迁移的开发者使用。"
+ },
+ {
+  "name": "CodeRabbit",
+  "url": "https://coderabbit.ai/",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "CodeRabbit 是 AI 驱动的自动化代码审查工具，可逐行检查代码、定位隐藏缺陷与性能问题，自动生成变更摘要与架构示意图，支持对话式调整审查规则、一键修复代码问题，适配 Git 仓库工作流，适合频繁迭代、希望减少手动代码审查负担的开发团队。"
+ },
+ {
+  "name": "Codeium",
+  "url": "https://codeium.com/",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "Codeium 是面向开发者的 AI 编程助手，支持主流编辑器插件使用，提供智能代码补全、代码问答、代码生成与调试建议，个人可免费使用，企业版支持私有化部署与权限管控。"
+ },
+ {
+  "name": "Coderrr",
+  "url": "https://coderrr.aksn.lol",
+  "category": "AI 编程与开发",
+  "pricing": "free",
+  "description": "Coderrr 是一款开源的命令行 AI 编程助手，支持通过自然对话生成生产级代码、自动分析报错并修复、感知项目结构避免文件冲突，还内置 Git 一键回退功能，适合习惯终端操作、需要频繁迭代代码的开发者与小团队使用。"
+ },
+ {
+  "name": "CodiumAI",
+  "url": "https://www.codium.ai",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "CodiumAI 是AI代码审查与治理平台，支持IDE内实时代码审查、自动定位逻辑漏洞、生成修复方案，可配置团队编码规范自动校验，适合代码审查团队、技术负责人及处理复杂代码库的开发者使用。"
+ },
+ {
+  "name": "Continue",
+  "url": "https://continue.dev",
+  "category": "AI 编程与开发",
+  "pricing": "free",
+  "description": "Continue 是代码仓库自动化质量检查工具，支持将工程规范写成 markdown 指令存入仓库，每次提交 Pull Request 自动执行检查，结果以 GitHub 原生状态展示并附带修复建议，适合工程团队和开发者落地代码规范，减少重复人工审查。"
+ },
+ {
+  "name": "Corgi",
+  "url": "https://corgi.computer/",
+  "category": "AI 编程与开发",
+  "pricing": "free",
+  "description": "面向使用多终端 AI 编程代理的开发者，可统一监控 Claude Code、Codex、Pi、OpenCode 等代理的运行状态，自动归集各代理的操作记录、文件改动与工作区资源占用，支持后台常驻运行，可直接粘贴图片，适配 SSH 远程开发场景，无需在多个终端窗口间来回切换。"
+ },
+ {
+  "name": "Cursor",
+  "url": "https://cursor.com",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "Cursor 是基于 VS Code 架构的 AI 代码编辑器，支持代码补全、内联修改、多文件编辑、代码解释与重构，适合希望用 AI 加速日常编码、改 bug 或重构老代码的开发者。"
+ },
+ {
+  "name": "Cursor",
+  "url": "https://cursor.sh/",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "Cursor 是集成在编辑器里的智能编程代理，支持桌面编辑器与命令行两种使用方式，可理解项目上下文，自动完成代码编写、重构、调试、语义搜索等工作，还支持团队多人协作分配任务，适合前端、后端、数据科学等各类开发人员提升编码效率。"
+ },
+ {
+  "name": "DSH 插件市场",
+  "url": "https://dshopen.org",
+  "category": "AI 编程与开发",
+  "pricing": "free",
+  "description": "DSH 插件市场收录 1011 个 DeepSeek Harness 社区插件，按增长、更新、点赞每六小时更新推荐，帮用户快速筛选优质插件，适合 DSH 使用者发现、安装各类工具、技能、记忆类插件，无需逐个搜索社区资源。"
+ },
+ {
+  "name": "DeepSeek",
+  "url": "https://deepseek.com/",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "DeepSeek 是深度求索推出的国产AI模型服务平台，支持网页、移动端免费对话，具备逻辑推理、代码编写、图片解析能力，也开放API供开发团队接入，适合需要梳理思路、推导信息的普通用户与开发人员。"
+ },
+ {
+  "name": "ECC",
+  "url": "https://ecc.tools",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "面向编码智能体的工程工具包，为Claude Code、Codex、Kimi Code等主流工具提供技能、记忆、规划与安全能力，支持开源免费使用，也可付费接入GitHub App实现私有仓库自动化审计。"
+ },
+ {
+  "name": "Firecrawl",
+  "url": "https://firecrawl.dev",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "开源网页数据API，可将公开网页内容转换为大模型可直接使用的Markdown、结构化JSON等格式，支持搜索、爬取、页面交互，适合AI开发者、大模型应用搭建者批量获取实时网页数据。"
+ },
+ {
+  "name": "GenPT",
+  "url": "https://www.siemba.io/genpt",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "GenPT是Siemba推出的AI原生动态应用安全测试工具，输入目标网址即可自动识别技术栈、运行优化测试，生成带证据的优先级风险清单，适合开发团队与安全运营人员做应用安全检测。"
+ },
+ {
+  "name": "GitHub Copilot",
+  "url": "https://github.com/features/copilot",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "GitHub Copilot 是嵌入在开发环境中的智能编程助手，可实时补全代码、解释代码逻辑、重构代码结构、通过自然语言对话解答技术问题，还能将注释描述直接转换为可运行代码，适合日常编写常规业务逻辑、补充测试用例、梳理老项目代码的开发者使用。"
+ },
+ {
+  "name": "Headroom",
+  "url": "https://www.headroomlabs.ai",
+  "category": "AI 编程与开发",
+  "pricing": "free",
+  "description": "Headroom是面向AI智能体的上下文压缩工具，可解决长对话、多轮开发中token消耗过快、上下文超限的问题，适配Claude、Codex、OpenCode、OpenClaw等主流智能体，面向开发者与企业团队提供开源与企业版两种选择。"
+ },
+ {
+  "name": "Herdr",
+  "url": "https://herdr.dev",
+  "category": "AI 编程与开发",
+  "pricing": "free",
+  "description": "Herdr 是面向多 AI 编程代理的本地运行管理工具，可统一查看各代理运行状态，支持代理间自动交接任务、回传结果，无需跨窗口复制内容，支持全界面自定义，完全开源，适合同时使用多个 AI 编程代理的开发者。"
+ },
+ {
+  "name": "JetBrains AI Assistant",
+  "url": "https://www.jetbrains.com/ai/",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "JetBrains AI Assistant 是深度嵌入 IntelliJ IDEA、PyCharm 等 JetBrains IDE 的编程助手，支持代码补全、代码解释、文档与测试生成、重构建议，可直接在编辑器内对话提问，无需切换浏览器，适合日常使用 JetBrains IDE 做开发的工程师。"
+ },
+ {
+  "name": "LangChain",
+  "url": "https://www.langchain.com/",
+  "category": "AI 编程与开发",
+  "pricing": "free",
+  "description": "LangChain 是用于构建语言模型应用的开发框架，可将大语言模型与自有数据、外部工具串联，支持搭建聊天机器人、知识问答、智能客服等应用，适合有代码基础、需要将大模型集成到业务中的开发者使用。"
+ },
+ {
+  "name": "LangChain 0.3",
+  "url": "https://python.langchain.com/",
+  "category": "AI 编程与开发",
+  "pricing": "free",
+  "description": "LangChain 0。3 是用来构建大语言模型应用的开发框架，把提示词管理、模型调用、输出解析、对话状态管理等重复工作抽象成可复用组件，支持链式调用串联多步工作流，还能对接搜索引擎、数据库等外部工具，适合有编程基础、想快速落地大模型能力的开发者。"
+ },
+ {
+  "name": "Langflow",
+  "url": "http://www.langflow.org",
+  "category": "AI 编程与开发",
+  "pricing": "free",
+  "description": "Langflow是低代码AI应用构建工具，通过拖拽可视化流程搭建AI智能体、MCP服务器与RAG检索增强应用，兼容主流大模型、向量数据库与第三方AI工具，支持一键部署为API，可自托管或使用云端部署，适合AI开发团队快速完成原型验证到生产落地。"
+ },
+ {
+  "name": "Moshi",
+  "url": "https://getmoshi.app",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "Moshi 是一款面向 iOS 和 Android 的移动端终端应用，通过 SSH/MOSH 直连你自己的机器，原生支持 Claude Code、Codex 等 AI 编码代理。"
+ },
+ {
+  "name": "Motty",
+  "url": "https://motty.page",
+  "category": "AI 编程与开发",
+  "pricing": "free",
+  "description": "Motty 是跨平台开源 SSH 客户端，整合终端、SFTP、端口转发及 VNC/RDP 至单一原生窗口。支持真彩色、断点续传与 MCP 协议，无需 Electron 运行时，启动快且空闲零占用。适合追求高效运维的开发者，其差异化在于全功能原生渲染与 AI 代理集成。"
+ },
+ {
+  "name": "OS Ninja",
+  "url": "https://os.ninja",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "OS Ninja 是开源项目智能学习平台，可深度分析开源代码库生成结构化学习路径，支持多种学习模式，还能通过MCP协议为AI代理提供开源知识查询，适合需要快速上手开源项目的开发者与学习者。"
+ },
+ {
+  "name": "OpenCode",
+  "url": "https://opencode.ai",
+  "category": "AI 编程与开发",
+  "pricing": "free",
+  "description": "OpenCode 是开源 AI 编程代理，可在终端、桌面应用、IDE 扩展中运行，内置免费模型无需注册即可使用，支持对接 Claude、GPT、Gemini 等主流模型与本地大模型，可并行启动多个代理会话处理开发任务，不存储用户代码与上下文，适合对数据隐私有要求的开发者使用。"
+ },
+ {
+  "name": "Orca",
+  "url": "https://orca.dev",
+  "category": "AI 编程与开发",
+  "pricing": "free",
+  "description": "Orca是一款桌面端智能体开发环境，支持在同一应用内并行运行Claude Code、Codex等各类编程智能体，每个智能体在独立工作树中隔离运行，内置终端、代码差异预览、浏览器与命令行工具，适配macOS、Windows、Linux系统，面向需要同时推进多个代码任务的开发者使用。"
+ },
+ {
+  "name": "Ovis",
+  "url": "https://ovis.sh",
+  "category": "AI 编程与开发",
+  "pricing": "free",
+  "description": "Ovis是免费免账号的AI编程代理远程客户端，支持Mac客户端、手机及任意浏览器，可远程查看、审批、回复电脑上运行的Claude Code、Codex等代理会话，支持聊天视图与实时终端切换，适合需要远程跟进AI编程任务的开发者。"
+ },
+ {
+  "name": "Papercuts",
+  "url": "https://papercuts.dev/",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "Papercuts 是一款\"生产环境测试\"工具，通过部署 AI 代理模拟真实用户在你的线上应用中点击浏览，自动发现 Bug 并邮件推送详细报告，无需安装 SDK，提供免费版（20次操作）。"
+ },
+ {
+  "name": "ParadeDB",
+  "url": "https://paradedb.com",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "ParadeDB 是基于Postgres的数据库扩展，可在现有Postgres中实现全文检索、向量检索、过滤、聚合与联表查询，性能对标Elasticsearch，适合不愿额外维护多套数据库的后端开发者，无需单独搭建Elasticsearch即可完成搜索类需求。"
+ },
+ {
+  "name": "PiG",
+  "url": "https://pi-in-go.dev",
+  "category": "AI 编程与开发",
+  "pricing": "free",
+  "description": "PiG 是 Pi 的 Go 语言实现，把 Pi 的行为、架构和交互方式带进 Go 生态，并提供 Go SDK。它适合已经在用 Go 写服务、又想让项目里带上 Pi 那套智能体体验的开发者。和直接调用 Pi 相比，它多了一份逐项对照上游行为的兼容性证据，方便判断迁移后哪些地方会不一样。"
+ },
+ {
+  "name": "Qoder",
+  "url": "https://qoder.com/",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "Qoder 是面向真实软件开发的智能体编程平台，支持自主完成需求澄清、方案规划、代码编写与交付全流程，可并行处理多任务，适配 JetBrains 编辑器与命令行，适合重度代码维护、大型项目统筹的开发者使用。"
+ },
+ {
+  "name": "REA",
+  "url": "https://rea.tools",
+  "category": "AI 编程与开发",
+  "pricing": "free",
+  "description": "面向编程智能体的逆向工程辅助工具，可对接主流编程智能体，提供代码检查、分支解码、函数调用追踪能力，帮助用户理解软件运行逻辑，适合有逆向分析需求的开发者与编程学习者使用。"
+ },
+ {
+  "name": "RTK",
+  "url": "https://www.rtk-ai.app",
+  "category": "AI 编程与开发",
+  "pricing": "free",
+  "description": "开源的AI编程上下文压缩工具，用Rust编写，可自动过滤终端输出等冗余内容，降低大模型上下文占用，减少API调用成本，适配主流AI编程工具，适合AI编程开发者使用。"
+ },
+ {
+  "name": "Recent.dev",
+  "url": "https://www.recent.dev/",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "Recent。dev 是面向开发者的技术更新追踪平台，支持自定义关注开发工具、技术栈、框架与API，将对应官方更新聚合到统一面板，无需跳转多个站点查看动态，适合需要跟进技术版本变动、做技术选型的开发者使用。"
+ },
+ {
+  "name": "Redis",
+  "url": "https://redis.io",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "Redis 是高性能内存数据库，可提供应用缓存、实时数据查询、AI 上下文检索能力，解决检索效率低、成本高的问题，面向后端开发者与 AI 应用团队，支持云端、本地、开源多部署模式，无需拼接多类工具。"
+ },
+ {
+  "name": "Replit Ghostwriter",
+  "url": "https://replit.com/site/ghostwriter",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "Replit Ghostwriter 是 Replit 推出的对话式 AI 编程代理，通过自然语言对话即可生成、调试、部署可上线的应用与网站，自带测试与集成能力，适合无编程基础的创意实践者，也能帮开发者快速搭建项目原型。"
+ },
+ {
+  "name": "Roo Code",
+  "url": "https://roocode.ai/",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "Roo Code 是处于预告阶段的 AI 编程开发类工具，目前尚未正式上线，官网仅展示即将推出提示与联系表单，暂未公开具体功能细节。适合关注 AI 编程新品的用户提前登记留意，暂不适合生产环境使用。"
+ },
+ {
+  "name": "Sled",
+  "url": "https://sled.layercode.com/",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "Sled 是面向企业创始人和负责人的智能办公助手，可在 iMessage、Telegram 等聊天界面直接下达指令，能接驳邮箱、日历与内部通讯工具，自动梳理待办、协调会议档期、起草邮件、跟进合作意向，替代重复性沟通工作，减少多管理后台切换的精力消耗。"
+ },
+ {
+  "name": "Snyk Code",
+  "url": "https://snyk.io/product/snyk-code/",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "Snyk Code 是 AI 驱动的实时代码安全检测工具，可在编码过程中自动扫描漏洞，标注问题位置并提供预验证的一键修复方案，支持主流 IDE 与 CI/CD 工具集成，适合对代码安全有高要求的开发团队使用。"
+ },
+ {
+  "name": "Sourcegraph Cody",
+  "url": "https://about.sourcegraph.com/cody",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "Sourcegraph Cody 是 AI 编程助手，可结合本地与远程代码库上下文，实现代码问答、自动补全、代码修改重构，支持自定义常用提示词，适配 VS Code、JetBrains 等 IDE，适合管理大型代码库的团队开发者使用。"
+ },
+ {
+  "name": "Stepwise AI",
+  "url": "https://stepwise.ai",
+  "category": "AI 编程与开发",
+  "pricing": "paid",
+  "description": "Stepwise AI 是面向有AI落地需求团队的专家咨询服务，可提供AI战略路线规划、系统架构设计、AI代理行为评估、内部定制工具开发、合规与数据边界梳理服务，适合缺乏内部AI专家的企业、创业团队、非营利机构与高等教育组织。"
+ },
+ {
+  "name": "Supabase",
+  "url": "https://supabase.com",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "基于PostgreSQL的开源后端开发平台，内置数据库、用户认证、边缘函数、文件存储、实时同步与向量检索能力，自动生成REST API，适合开发者快速搭建全栈应用。"
+ },
+ {
+  "name": "SuperPlane",
+  "url": "https://superplane.com",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "SuperPlane 是 AI 驱动的自动化工程任务平台，可自主扫描代码库与待办工单，自动完成常规开发任务并生成可审批的代码 PR，将常规开发周期缩短至原有四分之一，适合需要减少重复开发工作量的软件团队使用。"
+ },
+ {
+  "name": "TRAE - IDE",
+  "url": "https://www.trae.cn/",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "TRAE 是面向国内开发者的 AI 原生集成开发环境，集成多款主流大模型，支持用中文自然语言生成代码、调试修复，提供云端并行任务能力，适合不同规模的开发团队与个人开发者使用。"
+ },
+ {
+  "name": "Tabnine",
+  "url": "https://www.tabnine.com/",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "Tabnine 是可在主流 IDE 中使用的 AI 代码助手，支持 50 多种编程语言，提供智能代码补全、自然语言生成代码、代码解释与文档生成功能，支持本地或私有环境部署，适合个人开发者与企业开发团队使用。"
+ },
+ {
+  "name": "Trail",
+  "url": "https://trailhq.com",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "Trail 是面向企业 AI 代理的统一知识中枢，把散落在员工脑中的规则、流程沉淀为可溯源的共享知识库，让 Claude、ChatGPT 等各类 AI 代理输出一致结果，解决多代理回答口径不一、边缘场景易出错的问题。"
+ },
+ {
+  "name": "UI/UX Pro Max",
+  "url": "https://www.uupm.cc/",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "UI/UX Pro Max 是面向前端开发者与UI设计师的设计智能检索平台，内置可搜索的界面设计参考数据库，覆盖UI风格、配色方案、字体搭配、图表类型、UX设计规范等多类内容，可根据用户使用的技术栈提供适配的设计参考与代码示例。"
+ },
+ {
+  "name": "Vercel v0",
+  "url": "https://v0.dev/",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "Vercel v0 是 Vercel 推出的 AI 全栈 Web 应用生成工具，输入自然语言描述即可生成可运行的网站或应用，支持一键部署、GitHub 代码同步、可视化编辑，适合开发者、产品经理、创业者快速验证产品想法。"
+ },
+ {
+  "name": "Warp",
+  "url": "https://www.warp.dev",
+  "category": "AI 编程与开发",
+  "pricing": "free",
+  "description": "Warp 是面向开发者的现代化 AI 终端工具，支持接入多类前沿大模型，可辅助生成命令、调试代码、调度云端开发代理，适合日常使用命令行、希望提升开发效率的个人开发者与团队使用。"
+ },
+ {
+  "name": "WebTerm",
+  "url": "https://www.webterm.app/en",
+  "category": "AI 编程与开发",
+  "pricing": "free",
+  "description": "WebTerm是免费的浏览器端Linux命令行学习工具，无需安装软件或注册账号，内置从终端基础到Git排错的交互式教程，模拟真实命令行环境，适合命令行新手入门、开发者练习常用命令。"
+ },
+ {
+  "name": "Webflow",
+  "url": "https://webflow.com",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "Webflow 是无代码网站搭建发布平台，可视化拖拽即可完成网页设计，自动生成前端代码，内置内容管理系统与托管服务，支持响应式布局设置，适合设计师、创业者和小团队快速制作发布专业网站。"
+ },
+ {
+  "name": "Windsurf",
+  "url": "https://windsurf.ai/",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "Windsurf 是一款 AI 驱动的代码编辑器，提供独立编辑器与 JetBrains 插件两种使用形式，具备代码补全、智能建议等实时辅助功能，个人开发者可免费使用，适合希望在现有开发环境中获得编码辅助的开发者。"
+ },
+ {
+  "name": "Windsurf",
+  "url": "https://windsurf.com/",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "Windsurf 是一款 AI 集成开发环境，内置智能代码补全、上下文理解与自动化操作能力，可嵌入 JetBrains 系列开发工具，个人开发者可免费使用核心功能，面向日常写代码、改代码的开发者，帮助减少重复劳动、提升编程效率。"
+ },
+ {
+  "name": "Windsurf",
+  "url": "https://windsurf.dev",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "Windsurf 是 AI 驱动的智能代码编辑器，支持代码生成、重构、调试、测试用例编写与代码优化，适配 React、Next。js、Python、Node。js 等技术栈，适合全栈开发、遗留代码重构场景下的各类开发者提升编程效率。"
+ },
+ {
+  "name": "Windsurf (CodeWP)",
+  "url": "https://codewp.ai/",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "Windsurf (CodeWP) 是专为 WordPress 开发者设计的 AI 编程工具，支持通过自然语言描述生成 PHP 和 JavaScript 代码片段，减少手动编写代码的工作量，适合快速完成原型验证、脚本编写以及重复性开发任务。"
+ },
+ {
+  "name": "claude mem",
+  "url": "https://claude-mem.ai",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "claude mem 是一款面向 AI 编程代理的跨会话持久记忆工具，可自动留存项目决策、问题修复与探索结论，支持多设备同步，采用本地优先存储模式，解决开发者每次开启新会话都需重新解释项目背景的痛点，适合日常使用 AI 编程工具的开发者。"
+ },
+ {
+  "name": "flins",
+  "url": "https://flins.tech",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "flins 是通用 AI 编程助手技能管理器，可将技能包作为依赖项统一管理，通过一套命令行指令在 Claude Code、Cursor、Windsurf、Copilot 等十余种 AI 开发工具间切换部署，自动完成安装、更新与清理，适合频繁切换开发环境、需要同步配置的开发者。"
+ },
+ {
+  "name": "iFlyCode",
+  "url": "https://iflycode.xfyun.cn",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "iFlyCode是科大讯飞推出的AI编程助手，支持通过自然语言描述生成代码片段、实时补全代码、解释代码逻辑，适配前端、后端、算法等多类开发场景，适合日常业务开发、算法实验、学习新语法的开发者使用。"
+ },
+ {
+  "name": "omux",
+  "url": "https://omux.app",
+  "category": "AI 编程与开发",
+  "pricing": "free",
+  "description": "omux 是面向 macOS 14及以上系统的原生终端工具，可在同一窗口并排运行多个 Claude Code、Codex 编程会话，支持按项目分组管理、查看会话运行状态、无需切换会话即可处理权限请求，适合同时并行多个 AI 编程任务的开发者使用。"
+ },
+ {
+  "name": "ponytail 5",
+  "url": "https://ponytail.dev",
+  "category": "AI 编程与开发",
+  "pricing": "free",
+  "description": "ponytail 5 是面向 AI 编程代理的轻量化技能插件，可引导代理优先复用现有代码、标准库与平台原生能力，减少冗余代码生成，降低开发成本与耗时，适合使用 AI 代理完成代码开发的资深开发者。"
+ },
+ {
+  "name": "proc",
+  "url": "https://proc-cli.com/",
+  "category": "AI 编程与开发",
+  "pricing": "free",
+  "description": "proc 是跨 macOS、Linux、Windows 的语义化命令行进程管理工具，支持按端口、PID、名称、路径定位进程，可完成进程查询、终止、冻结、等待退出等操作，面向全平台开发者，用直观命令替代 lsof、kill 的管道组合，无需记忆复杂参数。"
+ },
+ {
+  "name": "spec-first",
+  "url": "https://spec-first.dev/",
+  "category": "AI 编程与开发",
+  "pricing": "free",
+  "description": "spec-first是面向AI编码代理的规格优先开发工具，适配Claude Code、Codex、Cursor、Copilot等主流AI编码工具。它可解决多代理并行开发时的分支冲突、需求反复确认、开发状态丢失问题，让代理按已评审规格直接完成开发，适合使用AI编码代理的开发者。"
+ },
+ {
+  "name": "trae",
+  "url": "https://www.trae.cn/",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "trae 是面向开发者的智能编程编辑器，支持自然语言转代码、智能上下文补全、自动错误排查，核心推理与文件读写在本地完成，适合需要处理多文件工程、习惯单一开发环境、想减少机械打字时间的程序员。"
+ },
+ {
+  "name": "vLLM",
+  "url": "https://vllm.ai",
+  "category": "AI 编程与开发",
+  "pricing": "free",
+  "description": "vLLM 是高吞吐、低显存占用的大语言模型推理与部署引擎，内置 OpenAI 兼容接口，可在各类硬件上部署开源大模型，适合需要自建大模型服务的开发者与团队使用。"
+ },
+ {
+  "name": "华为 CodeArts Snap",
+  "url": "https://www.huaweicloud.com/product/codeartside/snap.html",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "华为 CodeArts Snap 是基于盘古大模型的 IDE 智能编程助手，支持代码补全、自然语言生成代码、代码解释、重构优化与单元测试生成，适合日常开发与代码维护的开发者使用。"
+ },
+ {
+  "name": "百度Comate",
+  "url": "https://comate.baidu.com/",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "百度Comate是百度推出的智能代码助手，深度融合文心大模型，支持50多种主流编程语言与VS Code、JetBrains系列等主流IDE，可通过自然语言生成代码、自动生成单元测试、为代码生成注释、提供性能与安全优化建议，个人开发者可免费使用，适合日常编码、测试、代码维护全流程开发场景。"
+ },
+ {
+  "name": "秒哒",
+  "url": "https://www.miaoda.cn",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "秒哒是一款零代码应用生成平台，无需编程经验，通过自然语言对话式和拖拽式搭建具有完整前后端的应用，一句话生成各类应用，支持生成网站、小程序、H5、小游戏、小工具、轻应用等，提供海量免费模板"
+ },
+ {
+  "name": "秒悟 Meoo",
+  "url": "https://meoo.com",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "秒悟 Meoo 是一款 AI 创作工具，支持通过自然语言快速生成网页应用、小程序、营销 H5、PPT 与数据可视化内容，同时提供内容核心提炼、零散信息整合功能，无需编程基础，适合学生、职场工作者处理文本信息与快速搭建内容作品。"
+ },
+ {
+  "name": "网易CodeWave",
+  "url": "https://codewave.163.com",
+  "category": "AI 编程与开发",
+  "pricing": "paid",
+  "description": "网易CodeWave是基于智能模型底座的企业级低代码开发平台，支持可视化拖拽、AI智能生成、全栈开发与源码导出，提供进销存、CRM等应用模板，助力企业高效搭建复杂业务系统，加速数字化转型。"
+ },
+ {
+  "name": "通义灵码",
+  "url": "https://tongyi.aliyun.com/lingma",
+  "category": "AI 编程与开发",
+  "pricing": "freemium",
+  "description": "通义灵码是阿里云推出的智能编码助手，依托通义大模型能力，支持行级代码生成、研发智能问答、报错排查修复、多文件批量修改，兼容主流编程 IDE，可接入企业知识库对齐团队代码规范，适合个人开发者与企业研发团队使用。"
+ },
+ {
+  "name": "AudioScript 声稿",
+  "url": "https://audioscript.looplooptech.com",
+  "category": "AI 翻译与语言",
+  "pricing": "free",
+  "description": "AudioScript 声稿是一款离线优先的开源桌面实时转写工具，可监听电脑播放的系统声音，自动生成双语悬浮字幕，内置中英文，还可选用29种以上语言，识别与翻译全程在本地完成，适合观看无字幕外语影视、收听外语播客、参与国际会议的用户使用，不会上传音频数据。"
+ },
+ {
+  "name": "Langfinity AI",
+  "url": "https://langfinity.ai/",
+  "category": "AI 翻译与语言",
+  "pricing": "freemium",
+  "description": "Langfinity AI 是面向跨国团队的实时多语言在线协作翻译工具，支持五十余种语言的文字与语音互译，可学习团队专属专业术语，适配跨国会议、技术文档翻译等场景，无需等待人工排期即可随时使用。"
+ },
+ {
+  "name": "Rask AI",
+  "url": "https://rask.ai",
+  "category": "AI 翻译与语言",
+  "pricing": "freemium",
+  "description": "Rask AI 是一个能帮你把视频和音频内容自动翻译成130多种语言的工具，已经在全球范围内被340多万用户信赖和使用。简单来说，如果你想让自己的视频被更多人看懂，这个工具可以让你不用重新拍摄或录制，"
+ },
+ {
+  "name": "TranslateGemma ",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/translategemma/?utm_source=x&utm_medium=social&utm_campaign=&utm_content=&ref=hao.aizhaozi.com",
+  "category": "AI 翻译与语言",
+  "pricing": "free",
+  "description": "TranslateGemma 是轻量开放权重的多语言文本翻译模型，支持多语种互译，能理解长段落上下文语义，可在普通硬件上流畅运行，适合有技术背景的开发者搭建私有翻译流水线，或是为个人小项目配置低成本的翻译模块。"
+ },
+ {
+  "name": "Vocably (a language-learning tool)",
+  "url": "https://vocably.pro/",
+  "category": "AI 翻译与语言",
+  "pricing": "freemium",
+  "description": "Vocably 是面向活跃语言使用者的在线词汇学习工具，支持多语种网页阅读时即时查词、一键保存生词为记忆卡片，搭配互动测验巩固记忆，适合想利用日常上网碎片时间积累外语词汇的学习者使用。"
+ },
+ {
+  "name": "沉浸式翻译",
+  "url": "https://www.immersivetranslate.net/",
+  "category": "AI 翻译与语言",
+  "pricing": "freemium",
+  "description": "沉浸式翻译是适配 Chrome、Edge、Firefox、Safari 等主流浏览器的免费双语对照翻译工具，浏览外文网页时原文与译文并排展示，无需跳转页面，内置 DeepL、DeepSeek 等多家翻译引擎可按需切换，适合日常阅读外文资讯、学术文献、跨境内容的用户使用。"
+ },
+ {
+  "name": "精挑翻译",
+  "url": "https://selecttranslate.com/",
+  "category": "AI 翻译与语言",
+  "pricing": "freemium",
+  "description": "精挑翻译是免费开放的AI翻译插件，支持网页、PDF、视频字幕、在线会议及ePub等翻译。汇聚DeepSeek、ChatGPT等20+顶级模型，覆盖100+语言。提供双语对照、择优翻译、划词悬停翻译等功"
+ },
+ {
+  "name": "Albert.ai",
+  "url": "https://albert.ai",
+  "category": "AI 营销与增长",
+  "pricing": "freemium",
+  "description": "Albert。ai 是可自主运行广告营销的智能平台，能自动规划、投放和优化多平台数字广告活动，自动生成广告创意、定位高价值用户、实时调整出价与预算并提供跨渠道归因分析，适合需要管理大规模广告投放的电商、SaaS 企业及广告代理公司。"
+ },
+ {
+  "name": "Alibaba DAMO Academy Marketing AI",
+  "url": "https://damo.alibaba.com/ai-solutions/marketing-ai",
+  "category": "AI 营销与增长",
+  "pricing": "freemium",
+  "description": "阿里巴巴达摩院推出的AI营销工具，依托自然语言处理、计算机视觉技术，可生成营销文案、分析图像素材、挖掘营销数据洞察，适合需要批量产出创意内容、分析用户数据的营销团队与个人使用。"
+ },
+ {
+  "name": "Atoms",
+  "url": "https://www.atoms.so/",
+  "category": "AI 营销与增长",
+  "pricing": "paid",
+  "description": "Atoms是Chrome网页分析扩展，提供SEO检测、CSS提取、Core Web Vitals、AI就绪性评估、技术栈识别和无障碍检查，一次性付费$49，无订阅。"
+ },
+ {
+  "name": "Bramework",
+  "url": "https://bramework.com",
+  "category": "AI 营销与增长",
+  "pricing": "freemium",
+  "description": "Bramework 是面向博主和内容创作者的 AI 博客写作工具，输入关键词即可生成包含标题、简介、正文段落和结论的完整博客初稿，支持设置作者语气、内容日历规划与基础 SEO 优化建议，帮助快速完成内容初稿，节省前期构思和撰写时间。"
+ },
+ {
+  "name": "ConvertLab AI Marketing Cloud",
+  "url": "https://www.convertlab.com",
+  "category": "AI 营销与增长",
+  "pricing": "freemium",
+  "description": "Convertlab AI Marketing Cloud 是面向企业的营销自动化平台，可整合分散的用户数据，按用户属性与行为配置个性化营销流程，自动触发消息推送，适配零售、金融、教育等行业的精细化运营需求，减少人工重复操作。"
+ },
+ {
+  "name": "Copy.ai",
+  "url": "https://www.copy.ai/",
+  "category": "AI 营销与增长",
+  "pricing": "paid",
+  "description": "Copy。ai 是面向GTM团队的AI原生平台，可完成销售拓客调研、多类型营销内容生成、多语言翻译、线索跟进等全链路工作，支持调用OpenAI、Anthropic、Gemini等多家大模型，适合5人小团队到200人规模企业的增长团队使用。"
+ },
+ {
+  "name": "Cortex",
+  "url": "https://www.cortex-labs.com",
+  "category": "AI 营销与增长",
+  "pricing": "freemium",
+  "description": "Cortex 是 AI 工程平台，提供模型推理服务化、AI 工作流编排、可观测性与成本监控、多云环境管理能力，支持将本地 AI 模型部署为稳定 API，串联多模型处理流程，适合需要快速将 AI 模型落地为产品功能的工程师与团队。"
+ },
+ {
+  "name": "Dynamic Content by beehiiv",
+  "url": "https://www.beehiiv.com/",
+  "category": "AI 营销与增长",
+  "pricing": "freemium",
+  "description": "Dynamic Content by beehiiv 是邮件通讯平台 beehiiv 推出的动态内容工具，可根据订阅者标签在同一封邮件中自动展示对应专属段落，无需手动拆分受众、无需编写代码，适合运营邮件通讯的创作者与品牌方做精细化分层推送。"
+ },
+ {
+  "name": "IndexMachine",
+  "url": "https://indexmachine.co",
+  "category": "AI 营销与增长",
+  "pricing": "freemium",
+  "description": "IndexMachine 是基于官方搜索引擎 API 的网页收录自动提交工具，可自动将新页面提交至 Google、Bing 及主流 AI 搜索引擎，可视化追踪收录进度，适合多站点运营者与开发者使用。"
+ },
+ {
+  "name": "Jasper",
+  "url": "https://www.jasper.ai/",
+  "category": "AI 营销与增长",
+  "pricing": "paid",
+  "description": "Jasper 是面向现代营销团队的智能代理工作区，内置百余种专属营销智能体，可串联数据、策略与创意形成端到端内容流水线，自动生成符合品牌调性的多渠道营销素材，适合有明确营销策略、需批量产出内容的营销部门。"
+ },
+ {
+  "name": "LinkPix",
+  "url": "https://linkpix.iqinghu.com/",
+  "category": "AI 营销与增长",
+  "pricing": "freemium",
+  "description": "LinkPix 是一个专为 **个人创作者、小红书博主和内容营销者** 设计的**AI驱动的智能外链生成工具**。它的核心使命是帮助用户将社交媒体内容（尤其是小红书笔记）快速转化为可追踪、可变现的个性化落地页，提升流量转化效率。\n  \n  \n    通过一键生成专属链接页面，LinkPix 自动聚合用户在小红书等平台发布的多篇内容，支持添加商品链接、联系方式、预约表单等转化"
+ },
+ {
+  "name": "Loomi",
+  "url": "https://loomi.live",
+  "category": "AI 营销与增长",
+  "pricing": "freemium",
+  "description": "Loomi是蓝色光标旗下BlueLab打造的社交媒体AI内容创作智能体平台，采用多智能体协同工作流，贯通研究、创作与增长环节，可智能选题、生成并多平台适配文案，助力创作者与品牌高效产出社媒内容。"
+ },
+ {
+  "name": "MarketMuse",
+  "url": "https://www.marketmuse.com",
+  "category": "AI 营销与增长",
+  "pricing": "freemium",
+  "description": "MarketMuse 是内容智能与策略平台，可完成内容审计、主题建模、内容规划与实时优化，帮团队明确写作方向，适合内容营销人员、SEO 编辑，以及需要系统提升搜索权威感的企业使用。"
+ },
+ {
+  "name": "MarketerAI",
+  "url": "https://marketerai.com",
+  "category": "AI 营销与增长",
+  "pricing": "freemium",
+  "description": "MarketerAI 是一款面向营销人员与内容创作者的 AI 营销文案生成工具，输入简单需求描述即可自动产出营销文案初稿，省去从零构思的时间，方便后续修改调整，帮助高频产出营销内容的人群提升文案创作效率。"
+ },
+ {
+  "name": "Mutiny",
+  "url": "https://www.mutinyhq.com",
+  "category": "AI 营销与增长",
+  "pricing": "freemium",
+  "description": "Mutiny 是一款 AI 驱动的内容生成工具，可快速制作落地页、会议摘要、定价方案、案例研究、交易简报等各类面向客户的物料，能自动学习网站品牌风格，输出内容与品牌视觉、语气保持统一，适合没有专职设计师、需要批量产出专业对外材料的营销、销售类团队使用。"
+ },
+ {
+  "name": "Phrasee",
+  "url": "https://phrasee.co",
+  "category": "AI 营销与增长",
+  "pricing": "freemium",
+  "description": "Phrasee 是企业级营销内容生成平台，核心产品为 Jacquard，可学习品牌语调与合规规则，结合用户数据自动生成个性化邮件标题、推送通知等营销文案，发前预测内容效果，适合大型品牌营销团队批量生产高转化的品牌文案。"
+ },
+ {
+  "name": "ReachLLM",
+  "url": "https://reachllm.com/",
+  "category": "AI 营销与增长",
+  "pricing": "freemium",
+  "description": "ReachLLM是面向品牌的生成式引擎优化（GEO）服务商，可帮品牌提升在ChatGPT、Gemini、Claude等AI搜索中的提及、引用与推荐概率，提供自助分析工具与代运营优化服务。"
+ },
+ {
+  "name": "Replika Ads（原Revealbot旗下）",
+  "url": "https://www.revealbot.com",
+  "category": "AI 营销与增长",
+  "pricing": "freemium",
+  "description": "Replika Ads是Revealbot旗下的社交媒体广告素材制作工具，支持批量生成广告变体、自动适配多平台尺寸，适合电商卖家、营销团队及内容创作者批量制作广告素材，用于广告效果测试。"
+ },
+ {
+  "name": "SheepGeo",
+  "url": "https://sheepgeo.com/",
+  "category": "AI 营销与增长",
+  "pricing": "freemium",
+  "description": "SheepGeo是专业的生成式引擎优化(GEO)分析平台，基于独创SHEEP五维评分框架（语义覆盖、人类可信度、证据结构化、生态集成、性能监测），深度检测网站在主流AI大模型中的可见性。"
+ },
+ {
+  "name": "Shopify Magic",
+  "url": "https://www.shopify.com/magic",
+  "category": "AI 营销与增长",
+  "pricing": "freemium",
+  "description": "Shopify Magic 是集成在 Shopify 平台的人工智能运营工具，可通过对话式助手 Sidekick 分析店铺数据、生成商品文案与图片、优化营销内容，还能协助完成商品上架、SEO 优化等操作，适合电商创业者、店铺运营人员日常打理线上店铺。"
+ },
+ {
+  "name": "Typefully",
+  "url": "https://typefully.com/",
+  "category": "AI 营销与增长",
+  "pricing": "freemium",
+  "description": "Typefully 是一款专为 Twitter 内容运营设计的推文管理工具，支持草稿编辑、定时自动发布、日历视图规划发布节奏，还能查看推文互动数据，生成公开推文合集页，适合内容创作者、个人品牌运营者和小团队稳定更新内容。"
+ },
+ {
+  "name": "WeCom AI Marketing Assistant (微信生态)",
+  "url": "https://work.weixin.qq.com",
+  "category": "AI 营销与增长",
+  "pricing": "freemium",
+  "description": "WeCom AI Marketing Assistant 是基于企业微信生态的智能营销助手，可添加客户微信、运营客户群、发布客户朋友圈，还能通过智能搜索、智能总结等AI功能减少重复工作，适合需要通过微信维护客户关系的销售、客服、社群运营团队。"
+ },
+ {
+  "name": "YouNet Media AI",
+  "url": "https://www.younetmedia.com",
+  "category": "AI 营销与增长",
+  "pricing": "freemium",
+  "description": "YouNet Media AI 是一站式社交智能平台，可自动收集社交媒体、新闻、论坛等公开渠道的讨论内容，完成情绪分析、话题归类、影响者识别与危机监测，适合品牌营销、公关及市场调研人员追踪品牌口碑、监测竞品动向、掌握市场舆论。"
+ },
+ {
+  "name": "folk Assistants",
+  "url": "https://www.folk.app/products/assistants",
+  "category": "AI 营销与增长",
+  "pricing": "freemium",
+  "description": "folk Assistants 是 folk CRM 内置的 AI 销售助手套件，可自动跟进对话、生成客户关系摘要、丰富企业信息，适合销售、商务拓展团队减少重复沟通工作，提升客户跟进效率。"
+ },
+ {
+  "name": "千川AI创意中心",
+  "url": "https://qianchuan.jinritemai.com",
+  "category": "AI 营销与增长",
+  "pricing": "freemium",
+  "description": "千川AI创意中心是抖音电商旗下的广告创意生产平台，支持AI生成投放图片、短视频素材，批量产出多版本创意，适配电商广告投放需求，适合电商运营、投手及素材设计人员使用。"
+ },
+ {
+  "name": "巨量创意（字节跳动）",
+  "url": "https://cc.oceanengine.com",
+  "category": "AI 营销与增长",
+  "pricing": "freemium",
+  "description": "巨量创意是字节跳动推出的一站式广告创意工具平台，提供模板套用、AI生成文案、素材资产管理、投放数据洞察等功能，适合电商运营、信息流优化师、素材设计师批量制作和管理广告素材。"
+ },
+ {
+  "name": "抖查查AI版",
+  "url": "https://www.douchacha.com/ai",
+  "category": "AI 营销与增长",
+  "pricing": "freemium",
+  "description": "抖查查AI版是基于抖音生态的AI数据分析工具，能自动分析视频、直播的数据表现并给出优化建议，还可根据热点或账号风格生成短视频脚本初稿，适合抖音创作者、直播带货运营者及账号运营团队，帮助节省手工分析数据和撰写文案的时间。"
+ },
+ {
+  "name": "拼多多商家AI助手",
+  "url": "https://mms.pinduoduo.com/ai",
+  "category": "AI 营销与增长",
+  "pricing": "freemium",
+  "description": "拼多多商家AI助手是拼多多商家后台的内置工具，面向已入驻拼多多的商家，提供扫码或账号登录入口，附带商家入驻、批发采购、开放平台、多多直播等平台资源链接，以及拼多多课堂、营销书院、帮助中心、规则中心等学习指引，登录后可查看具体AI功能。"
+ },
+ {
+  "name": "有赞智能运营助手",
+  "url": "https://www.youzan.com/ai",
+  "category": "AI 营销与增长",
+  "pricing": "freemium",
+  "description": "有赞智能运营助手是面向商家的AI驱动运营系统，可托管微信小店、小红书、外卖店铺等多平台日常运营，提供公域获客、私域复购、库存监控、文案图片生成、营销策划等功能，适合多平台运营的中小商家、连锁门店及缺乏专业运营人员的初创品牌与个体店主。"
+ },
+ {
+  "name": "极光推送-领先的客户互动和营销科技服务商,助力企业运营、增长和变现",
+  "url": "https://www.jiguang.cn/",
+  "category": "AI 营销与增长",
+  "pricing": "freemium",
+  "description": "极光基于海量数据为移动开发者提供消息推送、一键认证、短信发送、即时通讯、数据统计、统一消息系统等服务,以及一站式流量接入、行业应用的运营解决方案,助力企业运营、增长和变现."
+ },
+ {
+  "name": "淘天AI商家工作台",
+  "url": "https://seller.taobao.com",
+  "category": "AI 营销与增长",
+  "pricing": "freemium",
+  "description": "淘天AI商家工作台是淘宝天猫官方推出的智能运营工具，内嵌于淘宝卖家后台，可辅助完成智能客服应答、商品文案生成、店铺经营数据汇总与运营建议输出，适合人手有限的中小卖家与需要批量处理重复工作的成熟卖家使用。"
+ },
+ {
+  "name": "腾讯广告AI助手",
+  "url": "https://ad.qq.com",
+  "category": "AI 营销与增长",
+  "pricing": "freemium",
+  "description": "腾讯广告AI助手是腾讯广告平台的智能投放管理工具，能简化广告投放层级与操作流程，提供贴合企业经营模式的广告表达建议，优化创意素材曝光优先级，内置AI助理解答投放相关问题，适合广告营销人员、运营人员及广告投放新手使用。"
+ },
+ {
+  "name": "起号兽",
+  "url": "https://www.qihaoshou.com/",
+  "category": "AI 营销与增长",
+  "pricing": "freemium",
+  "description": "起号兽是专注微信生态的AI运营平台，覆盖公众号与视频号双端，可完成账号智能诊断、热点选题推荐、多轮对话写作、运营数据复盘全流程工作。它直接对接微信官方接口获取真实账号数据，区别于通用AI写作工具，更贴合微信内容生态规则，适合公众号、视频号创作者与运营人员使用。"
+ },
+ {
+  "name": "阿里妈妈万相台无界版",
+  "url": "https://www.alimama.com",
+  "category": "AI 营销与增长",
+  "pricing": "freemium",
+  "description": "阿里妈妈万相台无界版是阿里妈妈面向淘宝、天猫卖家推出的电商推广工具，依托阿里妈妈平台提供电商营销相关服务，具体功能需登录阿里妈妈账户后查看官方说明，适合阿里生态内的电商卖家使用。"
+ },
+ {
+  "name": "ArcReel",
+  "url": "https://arc-reel.com",
+  "category": "AI 视频创作",
+  "pricing": "free",
+  "description": "ArcReel 是开源的AI短剧、漫剧生成工作台，粘贴小说原文后可自动完成剧本拆解、角色设计、分镜生成到成片合成，跨分镜保持角色、场景、道具一致，支持导出剪映草稿或自动合成成片，适合短剧、漫剧内容创作者批量产出内容，支持自定义接入各类生成模型。"
+ },
+ {
+  "name": "Arsaze",
+  "url": "https://www.arsaze.com",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "Arsaze是可对接Claude、ChatGPT等常用大模型的AI原生视频剪辑工具，支持像编辑文档一样剪视频，可按操作习惯推荐后续剪辑步骤，客户可在线留帧批注，所有剪辑操作可回溯撤销，适合内容创作团队与独立创作者使用。"
+ },
+ {
+  "name": "BeefTV",
+  "url": "https://beeftv.app",
+  "category": "AI 视频创作",
+  "pricing": "free",
+  "description": "BeefTV是一款本地优先的开源轻量化创意工作台，可与AI Agent协作完成视频分镜、角色、场景、镜头制作，支持创作流程复用、技能自定义，所有素材默认存储在本地。它适合需要反复迭代创意的视频创作者使用，与同类工具相比，无需先上传素材到云端，支持自定义二次开发，操作简洁轻量。"
+ },
+ {
+  "name": "Blink AI",
+  "url": "https://www.blinkai.com",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "Blink AI 是面向汽车经销商的智能服务调度工具，可基于车辆信号、逾期服务、被拒维修信息自动触达客户，全渠道响应咨询并自动转化为确认预约，适合咨询量大、人工调度易漏单的汽摩经销商售后部门使用。"
+ },
+ {
+  "name": "CapCut AI",
+  "url": "https://www.capcut.com/ai-tools",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "CapCut AI 是字节跳动推出的全能型AI创作工具，整合智能算法与传统剪辑功能，支持文字生成视频、一键修复模糊画质、人像美颜抠像、智能调色等操作，适合自媒体创作者、短视频运营者，也能满足普通用户翻新老照片、美化视频的需求。"
+ },
+ {
+  "name": "Clipchamp（Microsoft）",
+  "url": "https://clipchamp.com",
+  "category": "AI 视频创作",
+  "pricing": "free",
+  "description": "Clipchamp是微软推出的在线视频编辑器，可在浏览器或Windows桌面端直接录制、剪辑高清视频，内置AI语音生成、80余种语言智能字幕、模板滤镜等功能，适合社交媒体博主、课程讲师等需要快速产出视频的个人用户。"
+ },
+ {
+  "name": "Colossyan",
+  "url": "https://www.colossyan.com",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "Colossyan 是 AI 真人出镜视频生成平台，输入文字脚本即可生成虚拟人物念稿的高清视频，无需真人拍摄录音，支持多语音配音、字幕样式调整与团队协作，适合企业制作培训、内部通知及营销视频，也适合不想真人出镜的创作者快速产出内容。"
+ },
+ {
+  "name": "D-ID",
+  "url": "https://www.d-id.com/",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "D-ID 是 AI 数字人视频生成平台，输入文字或音频即可让虚拟形象生成带自然表情的讲解视频，支持120多种语言，适合内容创作者、企业培训与营销团队快速制作无需真人出镜的视频内容。"
+ },
+ {
+  "name": "DeepBrain AI",
+  "url": "https://www.deepbrain.io",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "DeepBrain AI 是全功能 AI 视频生成平台，输入文字、图片或短素材即可生成带虚拟人讲解的完整视频，支持多语言配音翻译，适合企业、创作者快速制作各类视频内容。"
+ },
+ {
+  "name": "DeepMedia",
+  "url": "https://www.deepmedia.ai",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "DeepMedia 是面向高风险环境的智能威胁与媒体情报平台，可用于品牌与身份防护、不良内容拦截，适配 DSA、OSA 合规要求，适合需要内容合规与安全防护的企业使用。"
+ },
+ {
+  "name": "Elai.io",
+  "url": "https://elai.io",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "Elai。io 是一款 AI 视频生成工具，输入文字即可自动合成带旁白、动画和素材的视频，支持自定义风格布局，生成后可直接在浏览器内修改，无需外包团队，适合需要批量制作培训课程、营销推广、社交媒体内容的团队快速产出高质量视频。"
+ },
+ {
+  "name": "Fliki",
+  "url": "https://fliki.ai",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "Fliki 是一款文本转视频与配音工具，输入文字即可自动匹配视频素材、字幕与背景音乐生成短视频，也能导出自然语音，适合自媒体创作者、社媒运营人员及课程旁白、有声书制作用户使用。"
+ },
+ {
+  "name": "Frametell",
+  "url": "https://frametell.ai",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "Frametell是AI讲解视频生成工具，支持上传PDF、课件、笔记或输入任意主题，自动生成带旁白的手绘讲解视频，无需手动撰写脚本、配音、制作动画，适合学生、教师、培训师和无脸YouTube创作者快速产出讲解内容，和同类工具相比，它主打手绘动画风格，不追求写实画面。"
+ },
+ {
+  "name": "HeyGen",
+  "url": "https://www.heygen.com",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "HeyGen 是 AI 数字人视频生成平台，输入文字即可生成带同步口型的数字人讲解视频，支持多语言翻译与声音克隆，适合自媒体创作者、跨境业务团队批量制作口播、产品演示类视频。"
+ },
+ {
+  "name": "Jutsu Studio",
+  "url": "https://jutsustudio.com",
+  "category": "AI 视频创作",
+  "pricing": "free",
+  "description": "这是面向Mac用户的免费开源Higgsfield AI视频生成桌面客户端，把Seedance、Kling等多模型生成任务整合到统一队列，所有生成结果、输入素材与历史记录都保存在本地磁盘，无订阅无加价，适合需要批量生成AI视频的创作者使用。"
+ },
+ {
+  "name": "Kaedim",
+  "url": "https://kaedim3d.com",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "Kaedim 是面向工作室与品牌的 AI 3D 资产生成平台，可将草图、参考图、产品照片、项目简报转化为可审阅的生产级 3D 资产，适配游戏、产品设计、电商营销团队的批量 3D 制作需求。"
+ },
+ {
+  "name": "Kaiber",
+  "url": "https://kaiber.ai",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "Kaiber是AI驱动的创意视频生成平台，支持通过提示词、图片或参考素材生成对应风格的视频，适配多平台尺寸输出，适合短视频创作者、个人博主与小型内容团队快速产出创意传播内容。"
+ },
+ {
+  "name": "Kevvee",
+  "url": "https://www.kevvee.com",
+  "category": "AI 视频创作",
+  "pricing": "paid",
+  "description": "Kevvee 是一个内容增长决策与执行平台，帮助品牌方和创作者通过策略测试、高效生产、精准分发和实时数据追踪实现稳健增长，适合希望提升内容运营效率的团队和个人。"
+ },
+ {
+  "name": "Kilnframe",
+  "url": "https://kilnframe.com",
+  "category": "AI 视频创作",
+  "pricing": "free",
+  "description": "Kilnframe是适配Premiere Pro、DaVinci Resolve的免费视频剪辑插件，可框选时间轴语音片段自动生成对应动画插入，自带音效，全程本地运行无需注册账号，适合快速制作解说动画的视频创作者，无需依赖云端服务即可完成动画生成。"
+ },
+ {
+  "name": "LTX Studio",
+  "url": "https://ltx.studio",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "LTX Studio 是由自研 LTX 模型驱动的专业级AI视频创作平台，支持文字、图片、音频、视频等多输入方式生成视频，提供镜头运动控制、关键帧设定、多风格预设等全流程创作工具，适合影视从业者、营销人员与创意团队使用。"
+ },
+ {
+  "name": "LibTV - 专业视频创作工具",
+  "url": "https://www.liblib.tv",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "LibTV是LiblibAI推出的一站式AI视频创作平台。它采用无限画布与节点工作流，集成顶尖模型，支持从剧本到成片的全流程精细化控制与Agent自动化生产，专为专业影视与商业视频创作打造。"
+ },
+ {
+  "name": "Loom",
+  "url": "https://www.loom.com/",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "Loom 是快速录制屏幕与摄像头的视频消息工具，支持多端录制，内置 AI 可自动生成 Jira 错误报告，附带设备、浏览器、控制台错误等技术细节，还能剪辑标注视频，直接分享嵌入常用办公平台，适合团队异步同步、提交 Bug、演示操作流程。"
+ },
+ {
+  "name": "Lumen5",
+  "url": "https://www.lumen5.com",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "Lumen5 是面向内容创作者的 AI 视频制作工具，可将文章、博客等文字内容自动转化为带视觉素材的短视频，支持拖拽编辑、品牌模板与自动字幕，适合营销、企业通讯、教育类内容的批量生产。"
+ },
+ {
+  "name": "MOKI",
+  "url": "https://www.moki.cn",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "MOKI是AI短片创作平台，提供AI视频生成、创意广告及动画短片等工具。用户可通过首页、创作、社区等功能探索，支持在线咨询与反馈，旨在简化视频制作流程，激发AI创作自由。"
+ },
+ {
+  "name": "MiniMax海螺",
+  "url": "https://hailuoai.com/",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "MiniMax海螺是AI视频创作工具，支持文本或图片输入生成视频与图片，提供首帧尾帧控制功能，内置广告电商、萌宠等场景模板，适合影视创作者、内容创作者快速产出创意短片、营销素材与趣味视觉内容。"
+ },
+ {
+  "name": "Moonvalley",
+  "url": "https://moonvalley.ai",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "Moonvalley 是基于 Marey 模型的 AI 视频生成工具，可将图像或文字描述转换为电影级质感视频片段。支持姿态转移、相机运动控制、运动转移、轨迹路径控制等精细调节功能，训练数据经过授权，适合影视剪辑师、动画师、广告创意人员制作商业视频内容。"
+ },
+ {
+  "name": "OpenCinema",
+  "url": "https://opencinema.site",
+  "category": "AI 视频创作",
+  "pricing": "free",
+  "description": "OpenCinema 是一款可在本地运行的开源AI视频创作工作台，兼容Codex、Claude Code等各类MCP代理，无需绑定专有代理，可在统一画布上完成从脚本策划、素材生成到成片剪辑的全流程制作，所有镜头需人工审核，适合独立创作者与AI视频团队使用。"
+ },
+ {
+  "name": "OpenFilm",
+  "url": "https://openfilm.dev",
+  "category": "AI 视频创作",
+  "pricing": "free",
+  "description": "开源AI视频制作智能体，可将Codex、Claude Code等编程智能体转为视频制作工具，生成网页格式视频，支持手动修改任意内容，本地优先存储，最高支持4K并行渲染，适合开发者与视频创作者快速产出可自由复用的定制视频。"
+ },
+ {
+  "name": "Opus Clip",
+  "url": "https://www.opus.ai",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "Opus Clip 是 AI 长视频切片工具，能智能识别长视频里的高光片段，自动生成适配抖音等平台的爆款短视频，还支持标题、封面、字幕的优化调整，适合需要批量产出短视频内容的创作者使用。"
+ },
+ {
+  "name": "Pictory",
+  "url": "https://pictory.ai",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "Pictory 是一款 AI 视频制作工具，可将文字脚本、博客文章自动转换为带配音、字幕和配套素材的短视频，也能从长视频中提取高光片段生成短内容，内置免版税素材库，适合内容创作者、新媒体运营和企业市场人员快速产出适配多平台的视频内容。"
+ },
+ {
+  "name": "PixVerse",
+  "url": "https://pixverse.ai",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "PixVerse 是 AI 视频生成平台，支持文生视频、图生视频、多镜头生成、视频编辑、口型同步与音频生成，还能通过主体参考保持角色一致，适合内容创作者快速制作社媒短视频，也适合企业团队通过 API 集成视频生成能力。"
+ },
+ {
+  "name": "Plotagon",
+  "url": "https://plotagon.com",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "Plotagon 是一款零门槛动画视频创作工具，无需动画制作经验，通过组合对话、动作、场景、音乐等元素，几分钟就能生成完整动画视频，适合教育工作者、培训师、内容创作者和故事爱好者，可用于制作教学演示、培训材料、同人剧情、原创故事、社交情景剧等内容。"
+ },
+ {
+  "name": "Runway ML",
+  "url": "https://runwayml.com",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "Runway ML 是主打构建通用世界模型的 AI 视频创作平台，支持高保真视频生成、机器人行为物理模拟、交互式数字世界构建、具备自然对话能力的视频智能体开发，无需编写底层代码，适合影视制作人员、独立创作者快速生成动态影像素材，也适合科研团队搭建数字环境测试自动化系统交互逻辑。"
+ },
+ {
+  "name": "Seko",
+  "url": "https://seko.sensetime.com/",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "商汤科技推出的Seko是世界级AI视频生成平台，专注于帮助用户快速创建专业水准的精美视频。该平台定位为高效、智能的视频创作工具，旨在简化视频制作流程，提升内容生产效率。"
+ },
+ {
+  "name": "Soul Machines",
+  "url": "https://www.soulmachines.com",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "Soul Machines 是创建交互式 AI 虚拟人物的平台，可生成具备逼真面部表情与自然语音能力的数字人，支持情绪与意图识别，能实时回应用户输入，可嵌入网站、移动应用、线下大屏等渠道，适合需要个性化客户服务、品牌虚拟代言的企业使用。"
+ },
+ {
+  "name": "Stable Video Diffusion",
+  "url": "https://stability.ai/news/stable-video-diffusion-open-ai-video-model",
+  "category": "AI 视频创作",
+  "pricing": "free",
+  "description": "Stable Video Diffusion是Stability AI推出的开源图生视频基础模型，可将静态图片转换为连贯短视频，支持自定义帧率与多帧生成，适合内容创作者、游戏美术人员快速制作短视频素材、验证分镜效果。"
+ },
+ {
+  "name": "Streamlabs Desktop",
+  "url": "https://streamlabs.com",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "Streamlabs Desktop 是一款面向直播与内容创作者的免费推流录制软件，基于 OBS 优化了开箱即用体验，内置上百种直播间视觉主题、观众互动警报系统与可自定义聊天机器人，支持一键推流至 Twitch、YouTube、Facebook 等平台，适合游戏主播、Vlog 创作者快速搭建带互动效果的直播间。"
+ },
+ {
+  "name": "Swishy",
+  "url": "https://www.swishy.ai",
+  "category": "AI 视频创作",
+  "pricing": "paid",
+  "description": "Swishy是AI驱动的动态设计与动画平台，无需After Effects即可创建专业动效图形、动画字体和视频动画，支持MP4/MOV/GIF导出，助力创作者高效产出高质量社媒动画内容。"
+ },
+ {
+  "name": "Synthesia",
+  "url": "https://www.synthesia.io",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "Synthesia 是面向商业场景的AI视频制作平台，输入文案即可搭配虚拟数字人与AI配音生成专业演示视频，支持多语言翻译、团队在线协作，适合企业内训、跨国业务推广团队快速产出视频内容。"
+ },
+ {
+  "name": "Tavus",
+  "url": "https://tavus.io",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "Tavus 是 AI 虚拟人视频生成平台，输入文本或上传音频即可生成逼真的真人形象讲解视频，支持批量自动替换姓名、公司等个性化信息，无需专业剪辑技能，适合销售跟进、营销推广、客户培训等场景，还提供 API 可嵌入现有业务流程。"
+ },
+ {
+  "name": "Vidnoz AI",
+  "url": "https://www.vidnoz.com",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "Vidnoz AI 是免费在线 AI 视频生成工具，输入文字即可生成带数字人配音的完整视频，内置1900+虚拟人像、2000+AI语音与2800+模板，适合教师、创作者、中小企业主快速制作各类宣传、教学、解说视频。"
+ },
+ {
+  "name": "Vidu",
+  "url": "https://www.vidu.com",
+  "category": "AI 视频创作",
+  "pricing": "free",
+  "description": "Vidu 是一款 AI 视频生成在线创作工具，支持文生视频、图生视频，可上传参考图建立主体库，保持角色与商品形象一致，还能通过首尾帧控制生成过渡动画，内置多种现成模板，适合短视频创作者、二次元动画制作者与电商营销人员快速产出视频。"
+ },
+ {
+  "name": "Vizard AI",
+  "url": "https://vizard.ai",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "Vizard AI 是 AI 驱动的视频编辑与内容再创作平台，可自动从长视频中识别高光片段，批量生成适配多平台的短视频，自动添加字幕、调整画幅比例，适合内容创作者、自媒体运营者与品牌营销团队，省去手动剪辑的时间成本。"
+ },
+ {
+  "name": "Zeg.ai",
+  "url": "https://zeg.ai",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "Zeg。ai 是一款在线产品视觉内容生成工具，上传产品图片即可生成对应 3D 模型，内置 100 多个场景与 1000 多种鞋类道具，可输出 4K 精度产品图与 30 秒短视频，支持多人协作共享，适合电商、市场营销、产品设计从业者快速制作产品展示素材。"
+ },
+ {
+  "name": "updream",
+  "url": "https://www.updream.cn",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "updream 是智能内容创作平台，输入关键词或上传参考图即可自动生成多套视觉版式，支持素材分类管理、多人协同版本追踪，可一键导出适配多平台的成品素材，适合独立设计师、自媒体运营者和中小企业市场人员使用。"
+ },
+ {
+  "name": "万兴喵影",
+  "url": "https://miao.wondershare.cn/",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "万兴喵影（原名万兴神剪手/喵影工厂）是AIGC软件A股上市公司万兴科技旗下的一款风靡全球的国产视频剪辑神器，同时支持Windows、macOS、Android以及iOS系统，电视电影短视频大片信手拈来。"
+ },
+ {
+  "name": "万兴播爆（Wondershare Virbo）",
+  "url": "https://virbo.wondershare.com",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "万兴播爆是万兴科技推出的AI视频生成工具，输入文字、上传产品图或粘贴商品链接，即可快速生成数字人出镜的产品介绍视频，内置18个品类的多类视频模板，可自动匹配对应形象与场景，适合电商卖家、营销人员快速批量制作多语言推广内容。"
+ },
+ {
+  "name": "剪映",
+  "url": "https://www.capcut.cn/",
+  "category": "AI 视频创作",
+  "pricing": "free",
+  "description": "剪映是集成多项人工智能技术的视频编辑软件，覆盖从素材整理到成品输出的全流程，内置自动字幕、AI配音、智能抠图、一键成片等功能，支持手机端随手拍剪、电脑端处理复杂多轨道工程，适合制作自媒体短视频、企业宣传片、日常记录等内容。"
+ },
+ {
+  "name": "即梦AI",
+  "url": "https://jimeng.jianying.com",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "即梦AI 是面向大众的创意影像创作平台，支持中文文生图、图生图、图文转视频，可调节运镜轨迹与播放速度，内置智能画布整合扩图、抠图、局部重绘功能，适合自媒体内容运营、电商视觉素材制作，以及日常尝试AI绘画与动态短片创作的用户使用。"
+ },
+ {
+  "name": "可灵AI",
+  "url": "https://klingai.com/app",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "可灵AI是覆盖图文与视频生成的多模态智能创作平台，支持文字或参考图生成高质量图片、文本或静图生成连贯视频，可通过姿态参考控制角色动作，还能定制虚拟数字人，适合自媒体运营、独立视频创作者快速产出短视频素材。"
+ },
+ {
+  "name": "小冰Avatar Framework",
+  "url": "https://www.xiaoice.com",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "小冰Avatar Framework是用来创建和运行虚拟人的开发框架，整合了外观定制、对话交互、情感识别与多模态表达能力，可快速搭建具备人格化特征的数字角色，适合需要搭建虚拟主播、智能客服、品牌代言人的使用者。"
+ },
+ {
+  "name": "度加剪辑",
+  "url": "https://dujia.baidu.com/",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "度加剪辑是百度推出的一站式AIGC内容创作平台，支持文案一键生成视频、长视频高光剪辑、数字人定制、音色克隆，适合需要批量产出短视频的自媒体创作者，简化从文案到成片的全流程。"
+ },
+ {
+  "name": "必剪",
+  "url": "https://bcut.drawyoo.com",
+  "category": "AI 视频创作",
+  "pricing": "free",
+  "description": "必剪是哔哩哔哩官方推出的免费视频剪辑工具，支持剪切拼接、变速、自动生成字幕、内置滤镜转场贴纸等功能，全程无广告，界面简洁无专业门槛，适合剪辑新手和短视频创作者轻量制作内容，可直接关联B站账号发布。"
+ },
+ {
+  "name": "来画视频",
+  "url": "https://www.laihua.com",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "来画LAiPIC AI是面向全球创作者与企业的AI动画与3D内容创作平台，支持短剧漫剧、广告营销、MG动画、数字人、3D创作等场景，AI自动生成高质量动画视频与3D资产，服务全球3000万+用户。"
+ },
+ {
+  "name": "火山引擎灵境Live",
+  "url": "https://www.volcengine.com/products/live",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "火山引擎灵境Live 是火山引擎推出的直播技术服务工具，支持直播推流、播放、实时转码与基础数据统计，可集成到自有产品中，适合在线教育、电商直播、游戏直播等需要搭建稳定直播能力的开发者与运营团队。"
+ },
+ {
+  "name": "百度文心一言·曦灵",
+  "url": "https://xiling.baidu.com",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "百度文心一言·曦灵是百度推出的智能数字人平台，支持快速创建专属数字形象，可用于生成视频内容、直播带货、多语言视频翻译，覆盖一百多个国家的语言，适合内容创作者、运营人员以及需要将数字人能力接入自有产品的开发团队使用。"
+ },
+ {
+  "name": "知漫剧",
+  "url": "https://aw.jiaxunai.cn/",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "知漫剧（jiaxunai.cn）是专业AI影视制作平台，为短视频博主提供AI剧本生成、智能视频合成、AI短剧一键成片等创作工具。降本增效，让每个创作者轻松打造影视级短视频作品，快速实现内容变现。"
+ },
+ {
+  "name": "纳逗Pro",
+  "url": "https://nadoupro.iqiyi.com",
+  "category": "AI 视频创作",
+  "pricing": "paid",
+  "description": "爱奇艺推出的纳逗Pro是专业级影视内容创作平台，旨在为创作者提供高效工具。主要功能模块包括“最近创作”、“开始创作”及“发现作品”等，支持示例画布与工作台，具体创作流程需登录后体验。"
+ },
+ {
+  "name": "腾讯云智绘",
+  "url": "https://zhihui.qq.com",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "腾讯云智绘是面向企业团队的正版营销图片创作工具，内置上亿可商用素材与模板，支持智能抠图、风格转换等AI功能，可将PSD、AI等设计文件转为在线模板，方便团队协作产出海报、Banner、公众号配图，统一品牌视觉风格。"
+ },
+ {
+  "name": "阿里云Quick Live",
+  "url": "https://help.aliyun.com/product/42079.html",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "阿里云Quick Live 是阿里云推出的视频类产品，目前官方公开文档暂未开放，具体功能与能力暂无详细说明。需要搭建视频直播相关服务的用户，可优先参考阿里云旗下成熟的视频直播类产品，获取完整的技术文档与服务支持。"
+ },
+ {
+  "name": "魔珐科技（Mofa AI）",
+  "url": "https://www.mofa.ai",
+  "category": "AI 视频创作",
+  "pricing": "freemium",
+  "description": "魔珐AI是一站式内容创作工具集，可聚合56个信息源生成每日简报，支持声音克隆制作个性化音频节目，内置48种视觉风格可生成幻灯片、漫画、视频，还能开启并行研究代理分析多网站信息并一键发布，适合内容创作者、媒体从业者和研究者快速处理海量信息。"
+ },
+ {
+  "name": "AIVA",
+  "url": "https://www.aiva.ai",
+  "category": "AI 音频与音乐",
+  "pricing": "freemium",
+  "description": "AIVA 是 AI 音乐生成助手，能在几秒内生成多种风格的原创音乐，支持上传参考音频定制风格，可下载 MP3 或 MIDI 格式，适合视频、播客、游戏创作者快速获取配乐。"
+ },
+ {
+  "name": "ActNow",
+  "url": "https://actnow.dev",
+  "category": "AI 音频与音乐",
+  "pricing": "freemium",
+  "description": "ActNow是面向苹果芯片Mac的原生效率工具合集，覆盖素材收集、多账号邮件整理、语音合成、语音输入、跨应用翻译改写五类日常工作，所有本地模型离线运行，适合注重隐私的Mac用户，三款核心工具免费开源，其余工具一次性买断无订阅。"
+ },
+ {
+  "name": "Adobe Podcast AI",
+  "url": "https://podcast.adobe.com",
+  "category": "AI 音频与音乐",
+  "pricing": "freemium",
+  "description": "Adobe Podcast 是可直接在浏览器中使用的音频录制、编辑与优化工具，支持一键去除背景噪音和回声，可将音频或视频内容转录为文字，能为视频自动生成字幕，还可单独移除视频中的背景音乐，适合播客创作者、课堂讲师、配音人员等需要制作高质量人声内容的用户使用。"
+ },
+ {
+  "name": "Audiopen",
+  "url": "https://audiopen.ai",
+  "category": "AI 音频与音乐",
+  "pricing": "freemium",
+  "description": "Audiopen 是一款 AI 语音转文字工具，能把随口说出的零散语音内容自动整理成结构清晰的成稿文本，支持自定义输出风格，适合创作者、商务人士、学生整理灵感、会议记录与语音备忘。"
+ },
+ {
+  "name": "Audo.ai",
+  "url": "https://audo.ai",
+  "category": "AI 音频与音乐",
+  "pricing": "freemium",
+  "description": "Audo。ai 是一款一键清理音频的工具，能自动去除背景噪音、消除录音回声、增强语音清晰度，还可自动调节整体音量，处理速度比传统音频编辑工具快十倍。适合播客创作者、在线课程讲师、视频博主，以及在非专业环境下录制采访、讲座的用户使用。"
+ },
+ {
+  "name": "Azure Neural TTS",
+  "url": "https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/",
+  "category": "AI 音频与音乐",
+  "pricing": "freemium",
+  "description": "Azure Neural TTS 是微软推出的云端文字转语音服务，可将文本转换为接近真人的自然语音，支持超 100 种语言合成，提供多种预置语音模型，也支持定制专属品牌语音，适合开发语音助手、有声内容、智能客服的开发者使用。"
+ },
+ {
+  "name": "Beatoven.ai",
+  "url": "https://beatoven.ai/",
+  "category": "AI 音频与音乐",
+  "pricing": "freemium",
+  "description": "Beatoven。ai 是 AI 原创背景音乐生成工具，输入文字描述或选择情绪、风格，就能生成免版权音乐，支持调整长度、节奏、乐器配置，适合视频创作者、播客主、游戏开发者快速获取商用配乐。"
+ },
+ {
+  "name": "Blinkist AI",
+  "url": "https://www.blinkist.com/",
+  "category": "AI 音频与音乐",
+  "pricing": "paid",
+  "description": "Blinkist AI 把非虚构类书籍提炼成15分钟可读完的文字摘要或可收听的音频，覆盖商业、科学、个人成长、心理学等多个类目，支持标记重点、离线下载，适合想利用通勤、午休等碎片时间高效获取知识的上班族、学生和创业者。"
+ },
+ {
+  "name": "Deepgram",
+  "url": "https://deepgram.com",
+  "category": "AI 音频与音乐",
+  "pricing": "freemium",
+  "description": "Deepgram 是语音 AI API 平台，提供语音转文字、文字转语音、语音代理构建能力，支持实时与批处理模式，可云端或自托管部署，适合需要快速为应用集成语音交互功能的开发者、产品团队与企业。"
+ },
+ {
+  "name": "FakeYou",
+  "url": "https://fakeyou.com",
+  "category": "AI 音频与音乐",
+  "pricing": "freemium",
+  "description": "FakeYou 是 AI 语音合成工具，内置海量知名角色、卡通人物与公众人物声音库，输入文本即可生成对应语音，支持上传语音样本克隆专属声音，生成的语音可直接下载使用，适合视频创作者、播客制作者、自媒体从业者，也可供语言学习者练习听力与发音。"
+ },
+ {
+  "name": "Fireflies.ai",
+  "url": "https://fireflies.ai/",
+  "category": "AI 音频与音乐",
+  "pricing": "freemium",
+  "description": "Fireflies.ai 是面向团队的 AI 会议助手，可自动录制转写线上线下会议，生成带待办事项的纪要，支持多语言识别与历史对话检索，适合高频参会的业务团队使用。"
+ },
+ {
+  "name": "Google Flow Music",
+  "url": "https://www.flowmusic.app",
+  "category": "AI 音频与音乐",
+  "pricing": "freemium",
+  "description": "Google Flow Music 是谷歌推出的生成式 AI 音乐创作平台，基于 Lyria 3 Pro 模型驱动，支持对话式生成带人声的完整歌曲、配套音乐视频，还能拆分音轨、调节音效，适合需要定制无版权背景音乐的短视频创作者、独立游戏开发者和播客制作者。"
+ },
+ {
+  "name": "Hume AI",
+  "url": "https://hume.ai/",
+  "category": "AI 音频与音乐",
+  "pricing": "freemium",
+  "description": "Hume AI 是专注于情感智能的语音AI工具，提供情感智能API、Human Feedback API与精选语音数据集，覆盖50多种语言和48种情绪维度，适合训练或优化语音AI模型的团队，快速开展语音听感用户偏好研究。"
+ },
+ {
+  "name": "Kits.ai",
+  "url": "https://kits.ai",
+  "category": "AI 音频与音乐",
+  "pricing": "freemium",
+  "description": "Kits。ai 是 AI 人声与音频生成工具，支持录制人声生成专属声音模型，也可直接使用平台授权的专业歌手模型，能完成风格转换、人声分离、云端实时协作，生成的音轨 100% 免版税，适合独立音乐人、歌曲制作人、混音师使用。"
+ },
+ {
+  "name": "Koala Sampler",
+  "url": "https://koalasampler.com",
+  "category": "AI 音频与音乐",
+  "pricing": "freemium",
+  "description": "Koala Sampler 是一款口袋大小的手机采样器，支持用麦克风录制最多 64 个音频样本，叠加内置效果器处理声音，搭配音序器快速制作节拍，可导出 WAV 或 Ableton Live 项目文件，适合随时捕捉灵感的音乐人。"
+ },
+ {
+  "name": "Lokutor",
+  "url": "https://lokutor.com",
+  "category": "AI 音频与音乐",
+  "pricing": "paid",
+  "description": "Lokutor是西班牙马德里团队自研的语音AI服务，提供全托管语音对话代理，按秒计费，支持云端、本地服务器或设备端部署，内置自研小型语音模型，首字响应中位时延596毫秒，适合需要低成本搭建智能语音交互的团队。"
+ },
+ {
+  "name": "Lovo.ai",
+  "url": "https://lovo.ai",
+  "category": "AI 音频与音乐",
+  "pricing": "freemium",
+  "description": "Lovo。ai 是专业的 AI 语音与视频生成平台，可将文字转换为自然流畅的语音，支持多语言多音色，能调整语气情感语调，还可生成会说话的数字人头像，适合内容创作者、营销人员、教育工作者快速制作配音、解说与演示视频。"
+ },
+ {
+  "name": "Moises.ai",
+  "url": "https://moises.ai",
+  "category": "AI 音频与音乐",
+  "pricing": "freemium",
+  "description": "Moises 是面向音乐人的 AI 音频创作套件，支持音轨分离、和弦检测、速度控制、歌词转录与 AI 人声生成，可用于音乐练习、演出排练与编曲制作，帮助音乐人快速处理音频素材、分析歌曲结构、调整伴奏速度并生成可用的人声轨道。"
+ },
+ {
+  "name": "Mubert",
+  "url": "https://mubert.com",
+  "category": "AI 音频与音乐",
+  "pricing": "freemium",
+  "description": "Mubert 是结合人工智能与人类创意的音乐生成工具，可快速生成免版税的定制化背景音乐，适配视频、播客、应用等场景。适合视频制作人、播客主播、短视频创作者，开发者可通过 API 集成音乐功能，艺术家可上传样本参与创作并赚取收入。"
+ },
+ {
+  "name": "Murf AI",
+  "url": "https://murf.ai/",
+  "category": "AI 音频与音乐",
+  "pricing": "freemium",
+  "description": "Murf AI 是一款文字转真人语音的工具，输入文本即可生成自然的人声音频，支持调节音调、语速、重音与停顿，提供超 120 种不同性别、年龄和口音的语音，适合视频配音、播客旁白、有声书、企业培训材料制作，也支持团队协同修改语音内容。"
+ },
+ {
+  "name": "NeMo-Speech",
+  "url": "https://docs.nvidia.com/nemo/speech/nightly/index.html",
+  "category": "AI 音频与音乐",
+  "pricing": "free",
+  "description": "NeMo-Speech 是 NVIDIA 推出的开源语音 AI 开发工具包，支持语音识别、合成、说话人识别、音频增强、语音大模型等功能，内置多语言预训练模型，支持多 GPU 分布式训练，面向语音 AI 研发人员，可直接对接生产部署。"
+ },
+ {
+  "name": "Otter.ai",
+  "url": "https://otter.ai/",
+  "category": "AI 音频与音乐",
+  "pricing": "freemium",
+  "description": "Otter.ai 是面向会议场景的 AI 笔记工具，支持实时语音转写、发言区分、自动生成会前简报与待办跟进，适配 Zoom、Teams、Google Meet 等平台，适合高频参会的个人与团队替代人工速记。"
+ },
+ {
+  "name": "Remiqora",
+  "url": "https://remiqora.com",
+  "category": "AI 音频与音乐",
+  "pricing": "free",
+  "description": "输入一句描述就能生成完整歌曲，还能自动拆出人声、鼓、贝斯等分轨，并让 AI 编曲补上弦乐等新声部。全部计算跑在自己电脑上，不用上传素材，也不用按次付费。适合想快速做 demo 又在意版权和隐私的音乐人与视频创作者。"
+ },
+ {
+  "name": "Riffusion Studio",
+  "url": "https://www.riffusion.com/",
+  "category": "AI 音频与音乐",
+  "pricing": "freemium",
+  "description": "Riffusion Studio 是一款对话式音乐创作平台，无需乐理基础，用自然语言描述风格就能生成带人声的完整歌曲，还能配套生成音乐视频，支持搭建自定义音频工具，适合独立音乐人、内容创作者快速把音乐想法落地。"
+ },
+ {
+  "name": "SenseAudio",
+  "url": "https://senseaudio.cn",
+  "category": "AI 音频与音乐",
+  "pricing": "paid",
+  "description": "SenseAudio支持AI配音、高精度AI语音识别、克隆音色、文生音色、商汤输入法SoWork、声音定制等服务，提供真人感TTS音色。适用于播客、有声书、办公学习等多场景。"
+ },
+ {
+  "name": "Session Pilot",
+  "url": "https://www.sessionpilot.ai/",
+  "category": "AI 音频与音乐",
+  "pricing": "freemium",
+  "description": "Session Pilot 是一款本地运行的会议转录与智能整理桌面程序，可将会议录音转写为文字，自动生成结构化会议纪要，全程数据不上传云端，适合处理敏感会议内容的职场人士、咨询顾问、科研及合规人员使用。"
+ },
+ {
+  "name": "Soundraw",
+  "url": "https://soundraw.io",
+  "category": "AI 音频与音乐",
+  "pricing": "freemium",
+  "description": "Soundraw 是可生成无版权商用音乐的 AI 工具，所有生成内容由内部原创素材训练，可直接商用并保留全部版税。支持网页端调整乐器、曲长，混搭不同音乐风格，可导出高质量音频与分轨，适合视频创作者、播客制作者、音乐制作人快速获取适配的背景音乐。"
+ },
+ {
+  "name": "Tongyi Tingwu",
+  "url": "https://tingwu.aliyun.com/",
+  "category": "AI 音频与音乐",
+  "pricing": "freemium",
+  "description": "通义听悟是面向会议、访谈、讲座场景的音视频转写与内容整理工具，支持实时语音转文字、多语言同步翻译，可自动区分发言人，还能提炼章节要点与待办事项，适合需要频繁整理会议纪要、处理长录音素材的项目管理者与内容工作者。"
+ },
+ {
+  "name": "Udio",
+  "url": "https://www.udio.com/",
+  "category": "AI 音频与音乐",
+  "pricing": "freemium",
+  "description": "Udio是一款AI音乐创作平台，输入文字描述即可生成带人声演唱的完整歌曲，支持浏览平台公共区域的其他创作者作品，适合无专业基础的音乐爱好者、需要快速获取配乐的内容创作者使用。"
+ },
+ {
+  "name": "Vocaloid 6",
+  "url": "https://www.vocaloid.com/vocaloid6/",
+  "category": "AI 音频与音乐",
+  "pricing": "paid",
+  "description": "Vocaloid 6 是一款由雅马哈公司开发的语音合成软件，能帮你快速制作出自然、富有表现力的歌声。通过结合AI技术，它可以把简单的旋律和歌词输入变成高品质的虚拟演唱。"
+ },
+ {
+  "name": "Voicemod Text-to-Speech",
+  "url": "https://www.voicemod.net/tts/",
+  "category": "AI 音频与音乐",
+  "pricing": "freemium",
+  "description": "Voicemod Text-to-Speech 是文本转语音工具，结合实时变声功能，可生成机器人、卡通角色等多种风格人声，支持调整语调、速度和混响，生成的语音可导出使用，适合视频创作者、游戏主播、播客制作者快速制作配音内容。"
+ },
+ {
+  "name": "Voquill",
+  "url": "https://voquill.com/",
+  "category": "AI 音频与音乐",
+  "pricing": "free",
+  "description": "Voquill 是一款智能语音转写文书工具，能将口述内容实时生成排版工整的正式文档，支持自动排版修饰、在线电子签名与归档，适合需要高频输出长文档的专业人士，可用于撰写病历、整理访谈记录、会议纪要与项目复盘。"
+ },
+ {
+  "name": "WavTool",
+  "url": "https://wavtool.com",
+  "category": "AI 音频与音乐",
+  "pricing": "freemium",
+  "description": "WavTool 是一款 AI 音乐创作工具，可辅助完成作曲、编曲、混音等环节，能帮创作者快速试听不同和弦走向、生成伴奏轨道、迭代编曲方案，适合想要快速验证创作想法的音乐人，以及刚入门专业音乐制作的爱好者。"
+ },
+ {
+  "name": "yovoice",
+  "url": "https://yovoice.leemysw.com",
+  "category": "AI 音频与音乐",
+  "pricing": "free",
+  "description": "yovoice 是可本地离线运行的开源AI语音与音乐创作工具，支持离线文本转语音、声音克隆、多角色配音、多轨编曲，无需调用付费云端API，适合对音频隐私有要求的创作者使用。"
+ },
+ {
+  "name": "万象有声",
+  "url": "https://www.audimind.com",
+  "category": "AI 音频与音乐",
+  "pricing": "freemium",
+  "description": "万象有声（Audimind）是新一代智能有声内容创作平台，由原懒人听书核心团队打造，提供智能拆章、智能画本、AI配音、声音克隆、智能对轨、审听及后期制作等全流程工具，助力创作者高效低成本制作有声书。"
+ },
+ {
+  "name": "出门问问魔音工坊",
+  "url": "https://www.moyin.com",
+  "category": "AI 音频与音乐",
+  "pricing": "freemium",
+  "description": "魔音工坊是一款可以在线将文字转成语音的智能配音产品。提供不同性别、不同口音的真人声音，在你输入文字后直接配音。你可快速对短视频等需要配音的内容进行配音。是一款功能强大AI语音合成神器。"
+ },
+ {
+  "name": "百度智能云语音合成",
+  "url": "https://cloud.baidu.com/product/speech/tts",
+  "category": "AI 音频与音乐",
+  "pricing": "freemium",
+  "description": "百度智能云语音合成是基于大模型的文本转语音服务，可将文本转换为自然流畅的拟人语音，支持多音色、情感调节与离线合成，适合开发者、内容创作者与企业搭建语音播报、配音类应用。"
+ },
+ {
+  "name": "网易云音乐·X Studio",
+  "url": "https://xstudio.music.163.com/",
+  "category": "AI 音频与音乐",
+  "pricing": "freemium",
+  "description": "网易云音乐·X Studio是网易云音乐与小冰公司联合推出的AI音乐创作平台，提供专业级AI歌手演唱解决方案。它融合人工智能与音乐创作，让用户轻松制作高品质音乐作品，实现音乐创作的智能化与便捷化。"
+ },
+ {
+  "name": "网易叭哥说",
+  "url": "https://bug.youdao.com",
+  "category": "AI 音频与音乐",
+  "pricing": "freemium",
+  "description": "网易叭哥说是桌面端AI语音输入工具，支持语音转文字、智能润色、自动去除口头语、语音翻译及跨应用输入，可在微信、钉钉、飞书等任意软件中直接使用，让表达更快、更清晰。"
+ },
+ {
+  "name": "网易天音",
+  "url": "https://tianyin.163.com",
+  "category": "AI 音频与音乐",
+  "pricing": "freemium",
+  "description": "网易天音是网易推出的 AI 音乐创作工具，输入关键词或风格描述就能自动生成带旋律、伴奏和歌词的完整音乐片段，还支持调整速度、乐器配置等参数。适合短视频创作者、播客制作者快速获取背景音乐，也适合不懂乐理的音乐爱好者探索旋律灵感。"
+ },
+ {
+  "name": "苏诺之音Suno",
+  "url": "https://www.suno.cn/home/#/",
+  "category": "AI 音频与音乐",
+  "pricing": "freemium",
+  "description": "Suno AI音乐创作平台让每个人都能成为作曲家——无需乐理知识，AI智能辅助完成旋律、和声与节奏设计。Suno AI通过直观的三步操作，零基础用户也能创作专业级音乐作品，即刻体验创造的喜悦。"
+ },
+ {
+  "name": "阿里云语音合成",
+  "url": "https://ai.aliyun.com/nls/tts",
+  "category": "AI 音频与音乐",
+  "pricing": "freemium",
+  "description": "阿里云语音合成是基于深度学习的文字转语音工具，可将文本合成为自然流畅的语音，支持多音色选择、语速音量调节、SSML精细控制与流式合成，适合有声内容开发者、应用开发者为产品添加语音播报能力。"
+ },
+ {
+  "name": "Kept",
+  "url": "https://keptinventory.info/",
+  "category": "其他工具",
+  "pricing": "free",
+  "description": "Kept是一款自托管的家庭物品库存管理工具，可记录物品存放位置、保修期限、采购信息，支持离线扫码查找、生成保险理赔资料，适合需要管理大量居家物品、准备保险理赔的用户，与同类工具相比，它的数据完全由用户本地掌控。"
+ },
+ {
+  "name": "RANKED",
+  "url": "https://ranked.id/",
+  "category": "其他工具",
+  "pricing": "freemium",
+  "description": "RANKED 是游戏化职业身份管理平台，可将传统静态履历转化为 RPG 风格三维角色卡，直观展示个人等级、工作经历与关键成就，支持技能认证、语音社交对接招聘方，适合技术人才求职使用。"
+ },
+ {
+  "name": "SolidCraft",
+  "url": "https://solidcraft.io",
+  "category": "其他工具",
+  "pricing": "free",
+  "description": "SolidCraft是用Rust开发的免费开源参数化3D CAD工具，支持桌面端与浏览器端使用，可完成草图绘制、参数化建模、STEP与网格文件导入导出，支持通过MCP协议接入AI代理完成建模，适合机械设计、3D打印爱好者使用。"
+ },
+ {
+  "name": "Updatest",
+  "url": "https://updatest.app",
+  "category": "其他工具",
+  "pricing": "freemium",
+  "description": "Updatest 是免费的 Mac 应用升级管理工具，可自动扫描本机应用，识别 Homebrew、Mac App Store、Sparkle、Electron、GitHub Releases 多类更新渠道，将命令行升级操作转为可视化界面，适合不想频繁切换终端的 Mac 用户。"
+ }
+]
