@@ -164,6 +164,8 @@ A curated list of Chinese-friendly AI tools, covering conversation, writing, ima
 - [Vidnoz AI](https://www.vidnoz.com) - Vidnoz AI 是免费在线 AI 视频生成工具，输入文字即可生成带数字人配音的完整视频，内置1900+虚拟人像、200… `🆓💰 免费增值`
 - [HeyGen](https://www.heygen.com) - HeyGen 是 AI 数字人视频生成平台，输入文字即可生成带同步口型的数字人讲解视频，支持多语言翻译与声音克隆，适合自媒… `🆓💰 免费增值`
 - [Pictory](https://pictory.ai) - Pictory 是一款 AI 视频制作工具，可将文字脚本、博客文章自动转换为带配音、字幕和配套素材的短视频，也能从长视频中… `🆓💰 免费增值`
+- [Cyanvid](https://cyanvid.com/?utm_source=github-948635610-awesome-chinese-ai-tools&utm_medium=directory&utm_campaign=backlinks) - AI 视频生成器，支持文生视频/图生视频，生成前展示清晰积分报价。 `🆓💰 免费增值`
+- [Barz Studio](https://barzvideo.com/?utm_source=github-948635610-awesome-chinese-ai-tools&utm_medium=directory&utm_campaign=backlinks) - 免费浏览器说唱歌词视频制作工具，自带音轨，导出 WebM。 `🆓 免费`
 - [Seko](https://seko.sensetime.com/) - 商汤科技推出的Seko是世界级AI视频生成平台，专注于帮助用户快速创建专业水准的精美视频。该平台定位为高效、智能的视频创作… `🆓💰 免费增值`
 - [Soul Machines](https://www.soulmachines.com) - Soul Machines 是创建交互式 AI 虚拟人物的平台，可生成具备逼真面部表情与自然语音能力的数字人，支持情绪与意… `🆓💰 免费增值`
 - [Fliki](https://fliki.ai) - Fliki 是一款文本转视频与配音工具，输入文字即可自动匹配视频素材、字幕与背景音乐生成短视频，也能导出自然语音，适合自媒… `🆓💰 免费增值`
