@@ -3694,5 +3694,12 @@
   "category": "其他工具",
   "pricing": "freemium",
   "description": "Updatest 是免费的 Mac 应用升级管理工具，可自动扫描本机应用，识别 Homebrew、Mac App Store、Sparkle、Electron、GitHub Releases 多类更新渠道，将命令行升级操作转为可视化界面，适合不想频繁切换终端的 Mac 用户。"
+ },
+ {
+  "name": "证伪AI / DisconfirmAI",
+  "url": "https://disconfirmai.com/zh",
+  "category": "AI 搜索与研究",
+  "pricing": "freemium",
+  "description": "证伪AI 是面向 AI 时代的投资研究与阅读平台，在建立确信前先寻找可能推翻观点的反面证据，提供公开信源阅读、财报与数据研究、变化雷达和个人投资框架。"
  }
 ]
