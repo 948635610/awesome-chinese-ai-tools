@@ -4,7 +4,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-> 一份持续更新的中文 AI 工具清单：覆盖 **528** 个工具、**14** 个使用场景，每个条目都标注官网与计费方式，按热度排序。
+> 一份持续更新的中文 AI 工具清单：覆盖 **529** 个工具、**14** 个使用场景，每个条目都标注官网与计费方式，按热度排序。
 >
 > 清单同步自 [Heooo AI工具导航](https://www.heooo.com/) —— 那边有实时评分、定价明细和可并排查看的[工具对比页](https://www.heooo.com/tools/compare/638-vs-1122)，本仓库只保留最核心的索引信息。
 
@@ -21,7 +21,7 @@ A curated list of Chinese-friendly AI tools, covering conversation, writing, ima
 - [AI 办公与文档](#ai-办公与文档) · 41 个
 - [AI 营销与增长](#ai-营销与增长) · 34 个
 - [AI 效率与自动化](#ai-效率与自动化) · 31 个
-- [AI 搜索与研究](#ai-搜索与研究) · 20 个
+- [AI 搜索与研究](#ai-搜索与研究) · 21 个
 - [AI 数据分析](#ai-数据分析) · 20 个
 - [AI 写作与文案](#ai-写作与文案) · 17 个
 - [AI 翻译与语言](#ai-翻译与语言) · 7 个
@@ -538,7 +538,7 @@ A curated list of Chinese-friendly AI tools, covering conversation, writing, ima
 
 ## AI 搜索与研究
 
-<sub>20 个工具</sub>
+<sub>21 个工具</sub>
 
 - [Wolfram Alpha](https://www.wolframalpha.com/) - Wolfram Alpha 是计算知识引擎，支持用自然语言或数学符号提问，直接给出计算结果、函数图形与分步解答，覆盖数学、… `🆓💰 免费增值`
 - [Perplexity AI](https://www.perplexity.ai/) - Perplexity AI 是支持实时联网检索的智能问答工具，回答附带可点击的来源链接，支持多轮上下文追问，可切换学术、编… `🆓💰 免费增值`
@@ -560,6 +560,8 @@ A curated list of Chinese-friendly AI tools, covering conversation, writing, ima
 - [心流AI助手](https://iflow.cn) - 心流AI助手是一款旨在提升知识获取效率的智能工具。它不仅能解答日常百科问题，更专注于辅助专业学术工作，提供AI搜索、问答、… `🆓💰 免费增值`
 - [Rooftop AI](https://rooftop.ai/) - Rooftop AI 是处于公开出售状态的人工智能相关域名，由 Spaceship 平台提供交易保障，买家可自行提交意向购… `🆓💰 免费增值`
 - [GROOVY](https://www.gogroovy.ai/) - GROOVY 是统一运行的 AI 操作系统，打通聊天、邮件、代码三类工作场景，共享同一套智能体、记忆与规则，支持本地或自托… `🆓💰 免费增值`
+
+- [证伪AI / DisconfirmAI](https://disconfirmai.com/zh) - 面向投资研究的 AI 平台，在建立确信前先找可能推翻观点的反面证据，含公开信源阅读、财报研究与变化雷达 `🆓💰 免费增值`
 
 ## AI 数据分析
 
