@@ -2660,6 +2660,13 @@
   "description": "通义灵码是阿里云推出的智能编码助手，依托通义大模型能力，支持行级代码生成、研发智能问答、报错排查修复、多文件批量修改，兼容主流编程 IDE，可接入企业知识库对齐团队代码规范，适合个人开发者与企业研发团队使用。"
  },
  {
+  "name": "agent-qa",
+  "url": "https://vostride.com",
+  "category": "AI 编程与开发",
+  "pricing": "free",
+  "description": "Web/Android/iOS自然语言测试，含memidex记忆、自我改进和运行证据；模型及基础设施费用另计。"
+ },
+ {
   "name": "AudioScript 声稿",
   "url": "https://audioscript.looplooptech.com",
   "category": "AI 翻译与语言",
