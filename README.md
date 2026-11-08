@@ -4,7 +4,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-> 一份持续更新的中文 AI 工具清单：覆盖 **528** 个工具、**14** 个使用场景，每个条目都标注官网与计费方式，按热度排序。
+> 一份持续更新的中文 AI 工具清单：覆盖 **529** 个工具、**14** 个使用场景，每个条目都标注官网与计费方式，按热度排序。
 >
 > 清单同步自 [Heooo AI工具导航](https://www.heooo.com/) —— 那边有实时评分、定价明细和可并排查看的[工具对比页](https://www.heooo.com/tools/compare/638-vs-1122)，本仓库只保留最核心的索引信息。
 
@@ -12,7 +12,7 @@ A curated list of Chinese-friendly AI tools, covering conversation, writing, ima
 
 ## 目录
 
-- [AI 编程与开发](#ai-编程与开发) · 90 个
+- [AI 编程与开发](#ai-编程与开发) · 91 个
 - [AI 视频创作](#ai-视频创作) · 61 个
 - [AI 图像创作](#ai-图像创作) · 58 个
 - [AI 模型与平台](#ai-模型与平台) · 55 个
@@ -33,7 +33,7 @@ A curated list of Chinese-friendly AI tools, covering conversation, writing, ima
 
 ## AI 编程与开发
 
-<sub>90 个工具</sub>
+<sub>91 个工具</sub>
 
 - [TRAE - IDE](https://www.trae.cn/) - TRAE 是面向国内开发者的 AI 原生集成开发环境，集成多款主流大模型，支持用中文自然语言生成代码、调试修复，提供云端并… `🆓💰 免费增值`
 - [通义灵码](https://tongyi.aliyun.com/lingma) - 通义灵码是阿里云推出的智能编码助手，依托通义大模型能力，支持行级代码生成、研发智能问答、报错排查修复、多文件批量修改，兼容… `🆓💰 免费增值`
@@ -125,6 +125,7 @@ A curated list of Chinese-friendly AI tools, covering conversation, writing, ima
 - [CodeRabbit](https://coderabbit.ai/) - CodeRabbit 是 AI 驱动的自动化代码审查工具，可逐行检查代码、定位隐藏缺陷与性能问题，自动生成变更摘要与架构示… `🆓💰 免费增值`
 - [Sled](https://sled.layercode.com/) - Sled 是面向企业创始人和负责人的智能办公助手，可在 iMessage、Telegram 等聊天界面直接下达指令，能接驳… `🆓💰 免费增值`
 - [Windsurf](https://windsurf.dev) - Windsurf 是 AI 驱动的智能代码编辑器，支持代码生成、重构、调试、测试用例编写与代码优化，适配 React、Ne… `🆓💰 免费增值`
+- [agent-qa](https://vostride.com) - Web/Android/iOS自然语言测试，含memidex记忆、自我改进和运行证据；模型及基础设施费用另计。 `开源`
 
 ## AI 视频创作
 
